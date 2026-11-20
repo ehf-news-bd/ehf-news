@@ -1,15 +1,119 @@
 {
-  "updatedAt": "2026-11-20T20:38:27.640515+00:00",
+  "updatedAt": "2026-11-20T21:36:01.105027+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "Iraq PM targets militia stronghold in bid to assert state control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+      "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T21:28:25+00:00"
+    },
+    {
+      "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+      "link": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+      "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-standing demand of the far right even as weeks of student-led protests have thrust the issue of police brutality back into the spotlight. Left-wing lawmakers have vowed to challeng",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-20T21:17:59+00:00"
+    },
+    {
+      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+      "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T21:10:53+00:00"
+    },
+    {
+      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+      "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T21:05:07+00:00"
+    },
+    {
+      "title": "সন্ত্রাস ত্যাগের ঘোষণা ছাড়া রিকনসিলিয়েশনের আলাপ অসম্ভব: মাহফুজ আলম",
+      "link": "https://www.prothomalo.com/politics/bdfljw1cq2",
+      "summary": "সম্ভাব্য সিভিল ওয়ার সিচুয়েশন (গৃহযুদ্ধের পরিস্থিতি) এড়াতে ২০২৪ সালের ২১ আগস্ট তিনি রিকনসিলিয়েশনের কথা তুলেছিলেন বলে ফেসবুক পোস্টে উল্লেখ করেন মাহফুজ আলম৷",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-20T21:04:51+00:00"
+    },
+    {
+      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+      "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+      "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:59:04+00:00"
+    },
+    {
+      "title": "ডেটিং অ্যাপ: পরিচয় থেকে অপহরণ, অর্থ লুট",
+      "link": "https://www.prothomalo.com/bangladesh/crime/ddettin-ayaap-pricyy-theke-aphrnn-arth-lutt",
+      "summary": "ডেটিং অ্যাপ: পরিচয় থেকে অপহরণ, অর্থ লুট",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-20T20:57:35+00:00"
+    },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "source": "BBC News",
       "category": "World",
-      "published": "2026-11-20T20:35:26+00:00"
+      "published": "2026-11-20T20:54:12+00:00"
+    },
+    {
+      "title": "Can the UK and EU turn the page on Brexit?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+      "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:51:19+00:00"
+    },
+    {
+      "title": "Gaza’s displaced children celebrate World Children’s Day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+      "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:45:09+00:00"
+    },
+    {
+      "title": "Sudan’s war leaves disabled children missing out on education",
+      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+      "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:45:08+00:00"
+    },
+    {
+      "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
+      "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and family are fighting for her release.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-20T20:45:00+00:00"
+    },
+    {
+      "title": "Repression against Iranian lawyers increases",
+      "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-20T20:36:00+00:00"
+    },
+    {
+      "title": "ইতালিতে মজুরি ও সরকারি ব্যয় বাড়ানোর দাবিতে হাজারো মানুষের বিক্ষোভ",
+      "link": "https://www.prothomalo.com/world/europe/yoiaczjjjc",
+      "summary": "ইউরোপজুড়ে তরুণদের বিক্ষোভের অংশ হিসেবে ইতালিতে এ কর্মসূচি পালিত হয়। জীবনযাত্রার ব্যয় ও সামরিক খাতে ব্যয়ের প্রতিবাদে আরও পাঁচ দেশে বিক্ষোভের কথা রয়েছে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-20T20:34:18+00:00"
     },
     {
       "title": "At COP31, conflict over climate science slows action on global warming",
@@ -26,6 +130,30 @@
       "source": "DW",
       "category": "World",
       "published": "2026-11-20T20:31:00+00:00"
+    },
+    {
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+      "summary": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:30:46+00:00"
+    },
+    {
+      "title": "মালয়েশিয়া থেকে ১০ হাজার রোহিঙ্গাকে তুরস্কে পুনর্বাসনের পরিকল্পনা",
+      "link": "https://www.prothomalo.com/world/squhypnlnh",
+      "summary": "আন্তর্জাতিক আদালত মিয়ানমারের সহিংসতাকে গণহত্যার শামিল বলার পরদিনই এ ঘোষণা এল। এদিকে জানুয়ারি থেকে মিয়ানমারের ১০ হাজারের বেশি নাগরিককে দেশে ফেরত পাঠিয়েছে কুয়ালালামপুর।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-20T20:27:26+00:00"
+    },
+    {
+      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+      "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-20T20:14:56+00:00"
     },
     {
       "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
@@ -98,6 +226,14 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-20T19:45:20+00:00"
+    },
+    {
+      "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
+      "summary": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distinguished foreign correspondents.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-20T19:42:58+00:00"
     },
     {
       "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
@@ -268,17 +404,17 @@
       "published": "2026-11-20T18:06:37+00:00"
     },
     {
-      "title": "ব্রাজিল থেকে তাহিতি—ফুটবল খেললেন ছয় মহাদেশে, শেষ গন্তব্যে যত নাটক",
-      "link": "https://www.prothomalo.com/sports/football/4flcj6297v",
-      "summary": "ফুটবল খেলতে গিয়ে এক দেশ থেকে আরেক দেশে ছুটেছেন, কখনো চুক্তি ছাড়াই বিমানে চড়েছেন। ছয় মহাদেশে খেলার লক্ষ্য পূরণ করতে গিয়ে শেষ গন্তব্য ছিল তাহিতি।",
+      "title": "অরক্ষিত রেলক্রসিংয়ে ট্রেনের হর্ন শুনেও থামেননি চালক, মুহূর্তেই দুমড়েমুচড়ে যায় অটোরিকশা",
+      "link": "https://www.prothomalo.com/bangladesh/district/j8fd88gh5p",
+      "summary": "কক্সবাজারের রামুতে দুমড়েমুচড়ে যাওয়া অটোরিকশা। আজ বিকেলে কক্সবাজারের রামুতে ট্রেনের ধাক্কায় এক পরিবারের দুই শিশুসহ চারজনের মৃত্যুর ঘটনায় অরক্ষিত রেলক্রসিংয়ের পাশাপাশি অটোরিকশাচালকের অসাবধানতা ও অবহেলাকে দায়ী করা হচ্ছে। পুলিশ, প্রত্যক্ষদর্শী ও সংশ্লিষ্ট ব্যক্তিদের ভাষ্য, রেলক্রসিংয়ে কোনো গেট বা গেটম্যান ছিল না। আবার ট্রেনের হর্ন শোনার পরও অটোরিকশাচালক যাত্রীদে",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-20T18:01:00+00:00"
     },
     {
-      "title": "অরক্ষিত রেলক্রসিংয়ে ট্রেনের হর্ন শুনেও থামেননি চালক, মুহূর্তেই দুমড়েমুচড়ে যায় অটোরিকশা",
-      "link": "https://www.prothomalo.com/bangladesh/district/j8fd88gh5p",
-      "summary": "কক্সবাজারের রামুতে দুমড়েমুচড়ে যাওয়া অটোরিকশা। আজ বিকেলে কক্সবাজারের রামুতে ট্রেনের ধাক্কায় এক পরিবারের দুই শিশুসহ চারজনের মৃত্যুর ঘটনায় অরক্ষিত রেলক্রসিংয়ের পাশাপাশি অটোরিকশাচালকের অসাবধানতা ও অবহেলাকে দায়ী করা হচ্ছে। পুলিশ, প্রত্যক্ষদর্শী ও সংশ্লিষ্ট ব্যক্তিদের ভাষ্য, রেলক্রসিংয়ে কোনো গেট বা গেটম্যান ছিল না। আবার ট্রেনের হর্ন শোনার পরও অটোরিকশাচালক যাত্রীদে",
+      "title": "ব্রাজিল থেকে তাহিতি—ফুটবল খেললেন ছয় মহাদেশে, শেষ গন্তব্যে যত নাটক",
+      "link": "https://www.prothomalo.com/sports/football/4flcj6297v",
+      "summary": "ফুটবল খেলতে গিয়ে এক দেশ থেকে আরেক দেশে ছুটেছেন, কখনো চুক্তি ছাড়াই বিমানে চড়েছেন। ছয় মহাদেশে খেলার লক্ষ্য পূরণ করতে গিয়ে শেষ গন্তব্য ছিল তাহিতি।",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-20T18:01:00+00:00"
@@ -318,7 +454,7 @@
     {
       "title": "Germany news: Kids take to streets over school, climate and costs",
       "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Thousands of young people turned in Germany demanding improvements in education, climate and affordability. Protesters say they aren't being taken seriously and will keep protesting until things change. DW has more.",
+      "summary": "Thousands of young people turned out across Germany demanding improvements in education, climate and affordability. Protesters say they aren't being taken seriously and will keep protesting until things change.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-20T17:43:00+00:00"
@@ -348,14 +484,6 @@
       "published": "2026-11-20T17:32:32+00:00"
     },
     {
-      "title": "দেশে বিদেশে সোনার দাম কেন দ্রুত কমছে",
-      "link": "https://www.prothomalo.com/business/gpedp1zgi9",
-      "summary": "সোনার দাম টানা কমছে। এত দ্রুত কমছে যে অনেকেই হিসাব কষছেন, এবার হয়তো সোনার অলংকার কেনা যাবে। মুদ্রার অন্য পিঠও আছে, দাম কমে যাওয়ায় অনেকে লোকসানের হিসাবও কষছেন। বিশেষ করে যাঁরা গত এক বছরে বাড়তি দামে সোনার অলংকার কিনেছেন, তাঁরা। দেশের বাজারে চলতি মাসে আট দফায় প্রতি ভরি সোনার দাম কমেছে ২৮ হাজার ৫০৮ টাকা। এর মধ্যে শুক্রবার এক দিনেই কমেছে সর্বোচ্চ প্রায় ১১ হাজার ট",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:30:00+00:00"
-    },
-    {
       "title": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
       "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
       "summary": "",
@@ -380,52 +508,12 @@
       "published": "2026-11-20T17:18:24+00:00"
     },
     {
-      "title": "‘জয় বাংলা’ এখন একটি পালানোর স্লোগান হিসেবে রূপান্তরিত হয়েছে: হুমায়ুন কবির",
-      "link": "https://www.prothomalo.com/video/bangladesh/kdt7ggsnk5",
-      "summary": "‘জয় বাংলা’ এখন একটি পালানোর স্লোগানে রূপান্তরিত হয়েছে বলে মন্তব্য করেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির। ২০ নভেম্বর পররাষ্ট্র মন্ত্রণালয়ে ব্রিফিংয়ে তিনি এ মন্তব্য করেন। দেখুন ভিডিওতে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:16:18+00:00"
-    },
-    {
-      "title": "দেশে ১১ বছরে ১২৩টি হাতি মারা গেছে, বিদ্যুৎস্পৃষ্টে মৃত্যু হয়েছে বেশির ভাগের",
-      "link": "https://www.prothomalo.com/bangladesh/district/8981a4crk9",
-      "summary": "গত ১১ বছরে ১২৩টি হাতির মৃত্যু ঘটেছে, যার বেশির ভাগ বিদ্যুৎস্পৃষ্টে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:13:39+00:00"
-    },
-    {
       "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
       "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country. Follow DW.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-20T17:12:00+00:00"
-    },
-    {
-      "title": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর",
-      "link": "https://www.prothomalo.com/bangladesh/district/2yfll3v2bm",
-      "summary": "শুক্রবার বিকেলে ময়মনসিংহ নগরের কাশর বোররচর ভবনের সামনে তিন রাস্তার মোড় এলাকা থেকে তাদের আটক করা হয়।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:11:41+00:00"
-    },
-    {
-      "title": "বাংলাদেশের অভ্যন্তরীণ বিষয় নিয়ে মন্তব্য করতে নারাজ ভারতের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র জয়সোয়াল",
-      "link": "https://www.prothomalo.com/video/bangladesh/4on9gc67k0",
-      "summary": "বাংলাদেশের অভ্যন্তরীণ বিষয় নিয়ে কোনো রকম মন্তব্য করতে রাজি হননি ভারতের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধীর জয়সোয়াল। বিস্তারিত ভিডিওতে…",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:11:35+00:00"
-    },
-    {
-      "title": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন, দাবি বিএনপি নেতার",
-      "link": "https://www.prothomalo.com/bangladesh/district/smol5punm5",
-      "summary": "ঢাকা থেকে ব্যক্তিগত গাড়ি নিয়ে বাগেরহাট ফেরার পথে গোপালগঞ্জে অপহৃত হন বলে দাবি করেছেন বিএনপি নেতা মনিরুল হক ফরাজী। তাঁর ভাষ্য, পরে বিকাশে দেড় লাখ টাকা দিয়ে ছাড়া পেয়েছেন তিনি। ছাড়া পেয়ে গতকাল বৃহস্পতিবার রাত ৯টার দিকে তিনি ঢাকার মোহাম্মদপুরে নিজের বাসায় ফেরেন। মনিরুল হক বাগেরহাট জেলা বিএনপির সদস্য ও ব্যবসায়ী। চিকিৎসা নিয়ে বর্তমানে তিনি বাসায় আছেন। এ ঘ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:11:10+00:00"
     },
     {
       "title": "Better educated than ever — yet Germany's Gen Z is being shut out of its own future",
@@ -442,14 +530,6 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-20T17:06:59+00:00"
-    },
-    {
-      "title": "আন্তর্জাতিক আইনে আইসিজের রায় মানতে বাধ্য মিয়ানমার: গাম্বিয়ার প্রধান আইনজীবী",
-      "link": "https://www.prothomalo.com/world/asia/qbmh706ozv",
-      "summary": "রোহিঙ্গাদের ওপর রাষ্ট্রীয় পৃষ্ঠপোষকতায় জাতিগত নিধন (জেনোসাইড) চালানোর দায়ে মিয়ানমারের বিরুদ্ধে আন্তর্জাতিক বিচার আদালতের (আইসিজে) দেওয়া ঐতিহাসিক রায় এড়িয়ে যাওয়ার বা তা বাস্তবায়নে নেপিডোর গড়িমসি করার ‘কোনো বিশ্বাসযোগ্য ভিত্তি নেই’ বলে মন্তব্য করেছেন গাম্বিয়ার প্রধান আইনজীবী আরসালান সুলেমান। তিনি বলেন, আন্তর্জাতিক আইনে তারা এই রায় মানতে বাধ্য। অবশ্য মিয়ানমার এ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T17:06:23+00:00"
     },
     {
       "title": "Top US Democrat warns Trump admin against destroying records",
@@ -492,14 +572,6 @@
       "published": "2026-11-20T17:00:34+00:00"
     },
     {
-      "title": "বিএনপি পাওয়ারে আছে বিধায়ই তো আমি ভাইস চ্যান্সেলর হয়েছি: জবি উপাচার্য",
-      "link": "https://www.prothomalo.com/bangladesh/596jx1300e",
-      "summary": "‘বিএনপি পাওয়ারে আছে বিধায়ই তো আমি ভাইস চ্যান্সেলর হয়েছি। এটা লুকানোর কী আছে? মানুষের পরিচয়, আত্মপরিচয় লুকানোর কিছু নেই।’—প্রধানমন্ত্রী তারেক রহমানের ৬২তম জন্মদিন উপলক্ষে আয়োজিত দোয়া মাহফিলে এ কথা বলেছেন জগন্নাথ বিশ্ববিদ্যালয়ের উপাচার্য অধ্যাপক মো. রইছ উদ্‌দীন। আজ শুক্রবার জুমার নামাজের পর জগন্নাথ বিশ্ববিদ্যালয় শাখা ইউনিভার্সিটি টিচার্স অ্যাসোসিয়েশন অব বাংলাদ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:55:28+00:00"
-    },
-    {
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -516,30 +588,6 @@
       "published": "2026-11-20T16:53:27+00:00"
     },
     {
-      "title": "শান্তিশৃঙ্খলা বজায় রাখতে আইনশৃঙ্খলা রক্ষাকারী বাহিনীকে সহযোগিতার আহ্বান আইজিপি ও অন্যান্য খবর",
-      "link": "https://www.prothomalo.com/video/bangladesh/wsc759kf2u",
-      "summary": "শান্তিশৃঙ্খলা বজায় রাখতে আইনশৃঙ্খলা রক্ষাকারী বাহিনীকে সহযোগিতার আহ্বান আইজিপি। শিশু-কিশোরদের সঙ্গে জন্মদিনের আনন্দ ভাগ করলেন প্রধানমন্ত্রী।এছাড়াও দিনের গুরুত্বপূর্ণ খবর শুনুন অডিও সংবাদে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:53:14+00:00"
-    },
-    {
-      "title": "কক্সবাজারে ট্রেনের ধাক্কায় দুমড়েমুচড়ে গেল অটোরিকশা, একই পরিবারের ৪ জন নিহত",
-      "link": "https://www.prothomalo.com/video/bangladesh/rtbusdxm5a",
-      "summary": "কক্সবাজারে সিএনজিচালিত অটোরিকশায় করে যাওয়ার সময় রেলক্রসিং পার হতে গিয়ে ট্রেনের ধাক্কায় প্রাণ গেছে একই পরিবারের চারজনের। ২০ নভেম্বর সিসিটিভিতে ধরা পড়েছে অটোরিকশা দুমড়েমুচড়ে যাওয়ার দৃশ্য। দেখুন ভিডিওতে…",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:52:06+00:00"
-    },
-    {
-      "title": "‘বউ জামাই’, ‘মজদুর’, ‘ম্যাচের জীবন’-তিনটি ছবি ফিরিয়ে আনল হারানো মেয়ের স্মৃতি, কাঁদলেন বাবা",
-      "link": "https://www.prothomalo.com/bangladesh/qc247w5m58",
-      "summary": "হলুদ রঙের পটভূমিতে লাল শাড়ি পরা বউ, পাশে নীল পোশাকের বর। আরেক ছবিতে দুটি গরুর টানা গাড়ি, সঙ্গে শ্রমজীবী মানুষ। তৃতীয় ছবিতে চুলার আগুন, রান্নার হাঁড়ি আর চোখ-মুখ আঁকা দেশলাইয়ের বাক্স। দেশলাইয়ের বাক্সের আদলে এমন তিনটি ছবি এঁকেছিল ছোট্ট নওশীন যাবীন হুদা রামিসা। ছবিগুলোর নামও দিয়েছিল সে। একটি ‘বউ জামাই’, আরেকটি ‘মজদুর’, শেষেরটি ‘ম্যাচের জীবন’। তিনটি ছবির নিচেই নি",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:49:32+00:00"
-    },
-    {
       "title": "Cost of living protests sweep across Europe",
       "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
@@ -554,22 +602,6 @@
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-20T16:45:07+00:00"
-    },
-    {
-      "title": "শেয়ারবাজারে অভিষেকেই বিশ্বের অন্যতম মূল্যবান কোম্পানি অ্যানথ্রপিক, উদ্যোক্তারা শতকোটিপতি",
-      "link": "https://www.prothomalo.com/business/world-business/xti4av7am6",
-      "summary": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক (এআই) প্রতিষ্ঠান অ্যানথ্রপিক শেয়ারবাজারে যাত্রা শুরুর পরপরই বিশ্বের অন্যতম মূল্যবান কোম্পানিতে পরিণত হয়েছে। নাসডাকে লেনদেন শুরুর পর প্রতিষ্ঠানটির বাজারমূল্য দাঁড়িয়েছে প্রায় ১ লাখ ৭৬ হাজার কোটি ডলার। ফলে কোম্পানিটির উদ্যোক্তারা শতকোটিপতি হয়ে গেছেন। তাঁদের সম্মিলিত সম্পদ বেড়েছে ৬ হাজার ৩৭০ কোটি ডলার। বৃহস্পতিবার যুক্তরাষ্ট্রের নাসডাক",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:45:00+00:00"
-    },
-    {
-      "title": "সহিংসতা বাড়ায় এনসিপি এখন ‘সিরিয়াস’",
-      "link": "https://www.prothomalo.com/politics/shinstaa-baarraayy-ensipi-ekhn-siriyyaas",
-      "summary": "সহিংসতা বাড়ায় এনসিপি এখন ‘সিরিয়াস’",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:43:24+00:00"
     },
     {
       "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
@@ -604,14 +636,6 @@
       "published": "2026-11-20T16:30:50+00:00"
     },
     {
-      "title": "পাঁচ বছরে যোগাযোগ খাতে আমূল পরিবর্তন আনতে চায় সরকার: শেখ রবিউল আলম",
-      "link": "https://www.prothomalo.com/bangladesh/oesab3hbjn",
-      "summary": "দ্বিতীয় ‎পদ্মা সেতু, ঢাকা-চট্টগ্রাম এলিভেটেড এক্সপ্রেসওয়ে ও ঢাকা-কুমিল্লা কর্ডলাইনসহ রেল ও সড়ক খাতের গুরুত্বপূর্ণ প্রকল্প বাস্তবায়নের উদ্যোগ নিয়েছে সরকার। এসব প্রকল্প আগামী পাঁচ বছরে বাস্তবায়ন করা গেলে দেশের যোগাযোগ ও অবকাঠামো খাতে আমূল পরিবর্তন আসবে বলে আশা করছেন সড়ক, রেল ও নৌপরিবহনমন্ত্রী শেখ রবিউল আলম। ‎আজ ‎শুক্রবার ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষের (ডিটিসি",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:29:23+00:00"
-    },
-    {
       "title": "Photography: A very French history",
       "link": "https://www.france24.com/en/video/20261120-photography-a-very-french-history",
       "summary": "From its use as creative expression to documenting our everyday reality, photography has become an essential and widely-accessible medium since its invention. Did you know, however, that the technology was developed in France? FRANCE 24's Tanishk Saha takes a look at the French legacy of photography.",
@@ -636,22 +660,6 @@
       "published": "2026-11-20T16:17:10+00:00"
     },
     {
-      "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-      "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
-      "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T16:13:57+00:00"
-    },
-    {
-      "title": "ডেটিং অ্যাপে পরিচয়, দেখা করতে গিয়ে চার দিন ধরে জিম্মি, খোয়ালেন প্রায় ৮ লাখ টাকা",
-      "link": "https://www.prothomalo.com/bangladesh/crime/4wcctahkp1",
-      "summary": "ডেটিং অ্যাপে এক ব্যক্তির সঙ্গে পরিচয় হয় তৌহিদ হোসেনের (ছদ্মনাম)। কথাবার্তার পরদিন দেখা করার প্রস্তাব পেয়ে রাজধানীর শহীদ পুলিশ স্মৃতি কলেজের সামনে যান তিনি। ওই ব্যক্তির সঙ্গে দেখা হওয়ার পর কাছাকাছি একটি বাসায় নিয়ে যাওয়া হয় তাঁকে। বাসায় প্রবেশের পরপরই আগে থেকেই অপেক্ষায় থাকা কয়েকজন মিলে তাঁকে আটকে ফেলেন। মারধরও করেন। তারপর শুরু হয় টাকা আদায়ের চেষ্টা। ১৩ নভেম্ব",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-20T16:11:51+00:00"
-    },
-    {
       "title": "ষড়যন্ত্র রুখে দিতে নাগরিকদের ঐক্যবদ্ধ থাকার আহ্বান ধর্ম প্রতিমন্ত্রীর",
       "link": "https://www.jagonews24.com/national/news/1181800",
       "summary": "ষড়যন্ত্র রুখে দিতে নাগরিকদের ঐক্যবদ্ধ থাকার আহ্বান ধর্ম প্রতিমন্ত্রীর",
@@ -660,28 +668,12 @@
       "published": "2026-11-20T16:10:45+00:00"
     },
     {
-      "title": "US Senate passes bill to speed up energy project approvals",
-      "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
-      "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T16:10:12+00:00"
-    },
-    {
       "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২০ নভেম্বর ২০২৬",
       "link": "https://www.jagonews24.com/international/news/1181799",
       "summary": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২০ নভেম্বর ২০২৬",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-20T16:05:58+00:00"
-    },
-    {
-      "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
-      "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
-      "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T16:05:31+00:00"
     },
     {
       "title": "সবজি চাষের জন্য মাটি খুঁড়তেই মিলল মর্টারশেল",
@@ -714,30 +706,6 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-20T15:55:02+00:00"
-    },
-    {
-      "title": "One third of attacks on children worldwide recorded in Palestine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
-      "summary": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T15:50:28+00:00"
-    },
-    {
-      "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
-      "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
-      "summary": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T15:49:06+00:00"
-    },
-    {
-      "title": "Jerusalem Daily: Palestinians return home to ruins",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-20T15:42:04+00:00"
     },
     {
       "title": "Gen Z protests spread across Europe: Mass rallies over cost of living in Spain",
@@ -802,6 +770,38 @@
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-20T15:24:40+00:00"
+    },
+    {
+      "title": "শিখ নেতার মামলায় অজিত দোভালকে সমন, ‘ভিত্তিহীন’ বললো ভারত",
+      "link": "https://www.jagonews24.com/international/news/1181792",
+      "summary": "শিখ নেতার মামলায় অজিত দোভালকে সমন, ‘ভিত্তিহীন’ বললো ভারত",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-20T15:19:52+00:00"
+    },
+    {
+      "title": "Spain’s political crossroads, Europe’s wider stakes: Spaniards to vote in key election",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261120-spains-political-crossroads-europes-wider-stakes-spaniards-to-vote-in-key-election",
+      "summary": "The stakes are high – not only for people in Spain, but also for Europe. On November 29, the country holds a parliamentary election that could see the end of the Socialist-led government and potentially a coalition between the right and the far right, in one of the EU’s biggest and most influential member states. It could also signal the end of Pedro Sanchez",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-20T15:17:17+00:00"
+    },
+    {
+      "title": "শুধু সমঝোতা স্মারক নয়, বিদেশি বিশ্ববিদ্যালয়ের সঙ্গে কাজ চায় ইউজিসি",
+      "link": "https://www.jagonews24.com/education/news/1181791",
+      "summary": "শুধু সমঝোতা স্মারক নয়, বিদেশি বিশ্ববিদ্যালয়ের সঙ্গে কাজ চায় ইউজিসি",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-20T15:15:32+00:00"
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "What we know about the latest Russian missile strikes on Ukraine.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-20T15:14:01+00:00"
     }
   ],
   "sourceErrors": [
