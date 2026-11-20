@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#123b70"><meta name="description" content="EHF News — বাংলাদেশের খবর ও জরুরি সতর্কবার্তা">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="style.css">
+  <title>EHF News</title>
+</head>
+<body>
+<header class="top">
+  <div class="brand"><div class="logo">EHF</div><div><b>EHF News</b><small>সত্য সংবাদ, সবার আগে</small></div></div>
+  <button id="enablePush" class="outline">🔔 নোটিফিকেশন চালু করুন</button>
+</header>
+<main>
+  <section class="hero"><span class="eyebrow">বাংলাদেশের খবর ও সতর্কবার্তা</span><h1>সঠিক খবর, সময়মতো সতর্কতা</h1><p>দেশব্যাপী জরুরি খবর এবং আপনার জেলার আবহাওয়ার সতর্কতা এক জায়গায়।</p></section>
+  <section class="settings panel">
+    <div><label for="district">আপনার জেলা নির্বাচন করুন</label><select id="district"></select></div>
+    <p class="hint">জেলা নির্বাচন করলে এই ডিভাইসে ওই জেলার সতর্কবার্তা আলাদা করে দেখানো হবে।</p>
+  </section>
+  <section class="alert-head"><div><span class="dot"></span><b>জরুরি সতর্কবার্তা</b></div><span id="alertCount" class="muted">০টি</span></section>
+  <section id="alerts" class="alerts"><div class="empty">এখনো কোনো যাচাইকৃত সতর্কবার্তা যোগ করা হয়নি।</div></section>
+  <section class="panel weather"><div><div><h2>🌦️ আবহাওয়ার সতর্কতা</h2><p>সব ধরনের সতর্কতা এখানে প্রকাশ করা যাবে।</p></div><span class="tag">সারা বাংলাদেশ</span></div><p class="hint">স্বয়ংক্রিয় সরকারি সতর্কতা যুক্ত করতে নির্ভরযোগ্য আবহাওয়া/দুর্যোগ তথ্যসূত্র ও সার্ভার সংযোগ প্রয়োজন। এই স্টার্টার সংস্করণে অ্যাডমিন যাচাইকৃত সতর্কতা প্রকাশ করতে পারবেন।</p></section>
+  <section class="panel admin">
+    <button id="adminToggle" class="textbtn">＋ অ্যাডমিন ডেমো প্যানেল</button>
+    <div id="adminPanel" hidden>
+      <p class="hint">এটি শুধু লোকাল ডেমো। প্রকাশিত খবর এই ব্রাউজারেই সংরক্ষিত হবে; সব ব্যবহারকারীর ফোনে পাঠাতে Firebase Cloud Messaging ও নিরাপদ সার্ভার সেটআপ করতে হবে।</p>
+      <label>শিরোনাম<input id="title" placeholder="যেমন: ভারী বৃষ্টির সতর্কতা"></label>
+      <label>বিস্তারিত<textarea id="body" rows="3" placeholder="সতর্কবার্তার বিস্তারিত লিখুন"></textarea></label>
+      <label>ধরন<select id="kind"><option>আবহাওয়া</option><option>জরুরি সংবাদ</option><option>সরকারি ঘোষণা</option></select></label>
+      <label>এলাকা<select id="area"><option value="all">সারা বাংলাদেশ</option><option value="district">নির্বাচিত জেলা</option></select></label>
+      <button id="publish" class="primary">ডেমো সতর্কবার্তা প্রকাশ</button>
+    </div>
+  </section>
+</main>
+<footer>© <span id="year"></span> EHF News · তথ্য যাচাই করে প্রকাশ করুন</footer>
+<script src="app.js"></script>
+</body></html>
