@@ -12,3 +12,39 @@ $("publish").onclick=async()=>{const title=$("title").value.trim(),body=$("body"
 $("enablePush").onclick=async()=>{if(!("Notification"in window)){alert("এই ব্রাউজারে নোটিফিকেশন সমর্থিত নয়।");return}const p=await Notification.requestPermission();alert(p==="granted"?"নোটিফিকেশন অনুমতি চালু হয়েছে।":"নোটিফিকেশন অনুমতি দেওয়া হয়নি।");};
 if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(console.error));
 render();
+
+// Automatic RSS headline feed (the scheduled GitHub Action updates data/news.json)
+let newsItems = [];
+let activeNewsFilter = "All";
+function renderNews(){
+  const host=$("newsList");
+  if(!host) return;
+  const filtered=activeNewsFilter==="All"?newsItems:newsItems.filter(n=>n.category===activeNewsFilter);
+  if(!filtered.length){host.innerHTML='<div class="empty">এই বিভাগে এখনো কোনো সংবাদ পাওয়া যায়নি। কিছুক্ষণ পরে আবার দেখুন।</div>';return;}
+  host.innerHTML=filtered.slice(0,60).map(n=>{
+    const title=esc(n.title||"শিরোনাম নেই"), summary=esc(n.summary||"মূল সংবাদ পড়তে লিংকে যান।"), source=esc(n.source||"সংবাদমাধ্যম");
+    const date=n.published?new Date(n.published).toLocaleString("bn-BD",{dateStyle:"medium",timeStyle:"short"}):"সময় উল্লেখ নেই";
+    const href=/^https:\/\//i.test(n.link||"")?n.link:"#";
+    return `<article class="news-card"><div class="news-meta"><span class="tag">${source}</span><small class="muted">${esc(date)}</small></div><h3>${title}</h3><p>${summary}</p><a href="${esc(href)}" target="_blank" rel="noopener noreferrer">মূল সংবাদ পড়ুন ↗</a></article>`;
+  }).join("");
+}
+async function loadNews(){
+  const host=$("newsList");
+  try{
+    const res=await fetch("./data/news.json?updated="+Date.now(),{cache:"no-store"});
+    if(!res.ok) throw new Error("সংবাদ ফাইল পাওয়া যায়নি");
+    const data=await res.json();
+    newsItems=Array.isArray(data.items)?data.items:[];
+    $("newsUpdated").textContent=data.updatedAt?"আপডেট: "+new Date(data.updatedAt).toLocaleString("bn-BD"):"এখনো আপডেট হয়নি";
+    renderNews();
+  }catch(err){
+    if(host) host.innerHTML='<div class="empty">সংবাদ লোড করা যায়নি। GitHub Actions-এ RSS সংগ্রহের কাজ চালু হয়েছে কি না দেখুন।</div>';
+    if($("newsUpdated")) $("newsUpdated").textContent="সংযোগ সমস্যা";
+  }
+}
+document.querySelectorAll(".filter").forEach(btn=>btn.addEventListener("click",()=>{
+  activeNewsFilter=btn.dataset.filter;
+  document.querySelectorAll(".filter").forEach(b=>b.classList.toggle("active",b===btn));
+  renderNews();
+}));
+loadNews();

@@ -24,3 +24,12 @@
 5. জেলা অনুযায়ী topic subscription ও push delivery test
 
 সরকারি সতর্কতার উৎস যাচাই না করে কোনো alert-কে সরকারি ঘোষণা হিসেবে প্রকাশ করবেন না।
+
+
+## স্বয়ংক্রিয় সংবাদ সংগ্রহ (নতুন)
+- `scripts/fetch_news.py` প্রকাশকদের পাবলিক RSS/Atom ফিড থেকে শিরোনাম, সংক্ষিপ্ত বিবরণ, প্রকাশক, সময় ও মূল লিংক সংগ্রহ করে।
+- `.github/workflows/update-news.yml` প্রতি ৩০ মিনিটে GitHub Actions চালিয়ে `data/news.json` আপডেট করে। চাইলে Actions ট্যাব থেকে `Update EHF News feeds` workflow-টি `Run workflow` দিয়েও হাতে চালানো যায়।
+- GitHub Pages `data/news.json` পড়ে খবর দেখায়। প্রথম workflow সফলভাবে না চলা পর্যন্ত খবরের তালিকা খালি থাকতে পারে।
+- কিছু RSS ফিড সাময়িকভাবে বন্ধ, পরিবর্তিত, বা GitHub runner থেকে অনুপলব্ধ হতে পারে; তখন অন্য উৎসগুলো চলবে এবং workflow log-এ ব্যর্থ উৎস দেখা যাবে।
+- প্রকাশকের শিরোনাম/সংক্ষিপ্ত feed summary ও লিংক দেখানো হয়; পূর্ণ নিবন্ধ কপি করা হয় না। প্রতিটি খবরের মূল লিংক ব্যবহার করুন এবং সংশ্লিষ্ট প্রকাশকের শর্ত মেনে চলুন।
+- এটি RSS ভিত্তিক স্বয়ংক্রিয় headline feed; এখনো AI fact-checking, breaking-news classification, district-level news matching, weather alert automation বা multi-user push notification নয়।
