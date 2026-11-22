@@ -1,20 +1,380 @@
 {
-  "updatedAt": "2026-11-22T14:17:03.478951+00:00",
+  "updatedAt": "2026-11-22T15:10:50.326433+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
     {
+      "title": "ট্রাইব্যুনালে ‘বস্তায় বস্তায় লেনদেন’: সোমবার আদালতে যাচ্ছেন ফুয়াদ",
+      "link": "https://www.jagonews24.com/law-courts/news/1182477",
+      "summary": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচারপ্রক্রিয়া নিয়ে ‘বস্তায় বস্তায় লেনদেন হচ্ছে’- এমন মন্তব্যের জেরে আদালত অবমাননার অভিযোগে তলব করা আমার বাংলাদেশ পার্টির (এবি পার্টি) সাধারণ সম্পাদক ব্যারিস্টার আসাদুজ্জামান...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T15:01:17+00:00"
+    },
+    {
+      "title": "পার্বত্য জেলা পরিষদে নিয়োগ, এসএসসি পাসেই আবেদন",
+      "link": "https://www.jagonews24.com/jago-jobs/news/1182476",
+      "summary": "বান্দরবান পার্বত্য জেলা পরিষদের অধীনে তুলা উন্নয়ন বোর্ড, বান্দরবান জোন নতুন নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। প্রতিষ্ঠানটিতে ৩টি পদে ৭ জনকে নিয়োগ দেওয়া হবে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:59:39+00:00"
+    },
+    {
+      "title": "মোহাম্মদপুরে অস্ত্রসহ ‌‘চাপা আরিফের’ চার সহযোগী গ্রেফতার",
+      "link": "https://www.jagonews24.com/national/news/1182475",
+      "summary": "রাজধানীর মোহাম্মদপুরের কুখ্যাত মাদক ব্যবসায়ী ও কথিত হেরোইন সম্রাট ‘চাপা আরিফের’ চার সহযোগীকে অস্ত্র ও মাদকসহ গ্রেফতার করেছে স্পেশাল রেসপন্স ব্যাটালিয়ন...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:58:32+00:00"
+    },
+    {
+      "title": "১৬ দিনের মাথায় আবারও রবীন্দ্রনাথের প্রতিকৃতিতে কালি",
+      "link": "https://www.prothomalo.com/video/bangladesh/ro27romulu",
+      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/16-diner-mathaz-abaroo-rbeendrnather-prtikrritite-kali",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:55:35+00:00"
+    },
+    {
+      "title": "সার না পেয়ে কৃষি কর্মকর্তাকে থাপ্পড়",
+      "link": "https://www.jagonews24.com/country/news/1182474",
+      "summary": "মানিকগঞ্জের সাটুরিয়ায় সার না পেয়ে ক্ষুব্ধ এক ব্যক্তির বিরুদ্ধে দায়িত্বরত উপসহকারী কৃষি কর্মকর্তাকে থাপ্পড় মারার অভিযোগ উঠেছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:55:25+00:00"
+    },
+    {
+      "title": "মর্গে পড়ে আছে ২ বৃদ্ধের মরদেহ, স্বজনের খোঁজ পাচ্ছে না পুলিশ",
+      "link": "https://www.jagonews24.com/country/news/1182473",
+      "summary": "সুনামগঞ্জ ২৫০ শয্যাবিশিষ্ট সদর হাসপাতালের মর্গে পড়ে আছে অজ্ঞাতপরিচয় দুই বৃদ্ধের মরদেহ। তাদের পরিচয় শনাক্ত করতে চেষ্টা চালাচ্ছে পুলিশ ব্যুরো অব ইনভেস্টিগেশন (পিবিআই) ও সুনামগঞ্জ সদর মডেল থানা পুলিশ....",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:54:19+00:00"
+    },
+    {
+      "title": "হাজারীবাগে সিলিন্ডার বিস্ফোরণে এক নারী নিহত, দগ্ধ ২",
+      "link": "https://www.jagonews24.com/national/news/1182472",
+      "summary": "রাজধানীর হাজারীবাগ থানাধীন এলাকার একটি বাসায় গ্যাস সিলিন্ডার বিস্ফোরণে এক নারী নিহত হয়েছেন। দগ্ধ হয়েছেন আরও দুজন...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:54:12+00:00"
+    },
+    {
+      "title": "১৬ দিনের মাথায় আবারও রবীন্দ্রনাথের প্রতিকৃতিতে কালি",
+      "link": "https://www.prothomalo.com/video/bangladesh/xvflfjc4c2",
+      "summary": "খুলনায় ১৬ দিনের ব্যবধানে দ্বিতীয়বারের মতো বিকৃত করা হলো কবিগুরু রবীন্দ্রনাথ ঠাকুরের প্রতিকৃতি। বিস্তারিত ভিডিও প্রতিবেদনে...",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:54:11+00:00"
+    },
+    {
+      "title": "ভৈরবে ডেঙ্গুতে পুলিশ কনস্টেবল সাঈদ আক্তারের মৃত্যু",
+      "link": "https://www.prothomalo.com/bangladesh/district/kwddx8k93j",
+      "summary": "ডেঙ্গুতে আক্রান্ত হয়ে কিশোরগঞ্জের ভৈরব থানায় কর্মরত সাঈদা আক্তার নামের এক নারী পুলিশ কনস্টেবলের মৃত্যু হয়েছে। গতকাল শনিবার রাতে নরসিংদীর বেলাব উপজেলায় নিজ বাড়িতে তিনি মারা যান। ভৈরব থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মাহবুবুর রহমান আজ রোববার প্রথম আলোকে এ তথ্য নিশ্চিত করেন। পুলিশ ও সাঈদার পরিবার সূত্রে জানা গেছে, সাঈদ আক্তার জেলার তাড়াইল থানা থেকে বদলি হয়ে ১৩ ",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:53:20+00:00"
+    },
+    {
+      "title": "দেশে ফিরতে হলে বন্দি বিনিময় চুক্তির মাধ্যমেই ফিরতে হবে: শামা ওবায়েদ",
+      "link": "https://www.jagonews24.com/country/news/1182471",
+      "summary": "পররাষ্ট্র প্রতিমন্ত্রী ও ফরিদপুর-২ আসনের সংসদ সদস্য শামা ওবায়েদ ইসলাম বলেছেন, এ দেশের মানুষকে হত্যা করে পালিয়ে যাওয়া শেখ হাসিনাকে দেশে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:52:47+00:00"
+    },
+    {
+      "title": "The Drugs Don’t Work",
+      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+      "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:51:39+00:00"
+    },
+    {
+      "title": "এসএসসি পরীক্ষার ফলাফল জালিয়াতি, গ্রেফতার ৩",
+      "link": "https://www.jagonews24.com/national/news/1182470",
+      "summary": "চলতি বছরের এসএসসি পরীক্ষার ফলাফল জালিয়াতির ঘটনায় জড়িত থাকার অভিযোগে তিনজনকে গ্রেফতার করেছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:49:08+00:00"
+    },
+    {
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:48:50+00:00"
+    },
+    {
+      "title": "বিতর্কিত কেউ যাতে প্রবেশ করতে না পারে, সেজন্য নিরাপত্তা জোরদার করা হয়েছে",
+      "link": "https://www.prothomalo.com/bangladesh/district/ibw3zgre2j",
+      "summary": "বিজিবির মহাপরিচালক আশরাফুজ্জামান সিদ্দিকী বলেন, সারা দেশের সীমান্ত পাহারা দেওয়া বিজিবির দায়িত্ব।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:48:37+00:00"
+    },
+    {
+      "title": "বন বিভাগের কর্মকর্তাদের বিরুদ্ধে আদালত অবমাননার রুল খারিজ",
+      "link": "https://www.jagonews24.com/law-courts/news/1182469",
+      "summary": "বন বিভাগের একটি প্রকল্পের কর্মচারীকে রাজস্ব খাতে আত্মীকরণ ও নিয়োগ না দেওয়ার অভিযোগে দায়ের করা আদালত অবমাননার মামলা খারিজ করে দিয়েছেন হাইকোর্ট...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:47:35+00:00"
+    },
+    {
+      "title": "মিস ইউনিভার্সের ক্যাম্পে কী এমন ঘটল, মিথিলাকে দেখে কেঁদেই ফেললেন মাহি",
+      "link": "https://www.prothomalo.com/entertainment/tv/8yz0t8co3t",
+      "summary": "দীর্ঘদিনের বন্ধু মিথিলাকে সামনে পেয়ে আবেগ ধরে রাখতে পারেননি মাহি। বিস্ময়, আনন্দ আর কান্নায় ভেসে ওঠে তাঁর মুখ। বন্ধুকে জড়িয়ে ধরার মুহূর্ত দুজনের জন্যই হয়ে ওঠে অন্য রকম।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:45:52+00:00"
+    },
+    {
+      "title": "সাদ উদ্দিনের চোটে ফিফার ক্ষতিপূরণ, কত টাকা পেতে পারে মোহামেডান?",
+      "link": "https://www.jagonews24.com/sports/football/1182468",
+      "summary": "শ্রীলঙ্কার বিপক্ষে সাফ চ্যাম্পিয়নশিপের ম্যাচে গুরুতর চোটে পড়েছেন বাংলাদেশের ডিফেন্ডার সাদ উদ্দিন। অ্যাকিলিস টেন্ডনে (গোড়ালির পেছনের রগ) চোট পাওয়ায় দীর্ঘদিন মাঠের বাইরে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:45:04+00:00"
+    },
+    {
+      "title": "জাতীয় ঐক্যের প্রথম পদক্ষেপ একদলীয় সংবিধান সংশোধন কমিটি বাতিল করা: নাহিদ",
+      "link": "https://www.prothomalo.com/politics/21zhhxlwz5",
+      "summary": "নাহিদ বলেন, ঐক্যের জন্য প্রথম পদক্ষেপ হিসেবে ‘একদলীয় সংবিধান সংশোধন কমিটি’ অবিলম্বে ভেঙে সংবিধান সংস্কার পরিষদের শপথ নিতে সরকারের প্রতি আহ্বান জানানো হবে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:43:42+00:00"
+    },
+    {
+      "title": "রোহিঙ্গা গণহত্যার রায় কার্যকরে তৎপর মালয়েশিয়া",
+      "link": "https://www.jagonews24.com/international/news/1182467",
+      "summary": "রোহিঙ্গা গণহত্যার রায় কার্যকরে জাতিসংঘ, ওআইসি ও আসিয়ানের সঙ্গে আলোচনা করবে মালয়েশিয়া। দেশটি রোহিঙ্গা সংকটের স্থায়ী সমাধানেও কাজ করতে চায়....",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:43:23+00:00"
+    },
+    {
+      "title": "মালয়েশিয়ায় ৩৮ বাংলাদেশিসহ আটক ৫২ অভিবাসী",
+      "link": "https://www.jagonews24.com/probash/news/1182466",
+      "summary": "মালয়েশিয়ার কেদাহ রাজ্যের একটি নির্মাণস্থলে অভিযান চালিয়ে ৩৮ বাংলাদেশিসহ ৫২ জন বিদেশি নাগরিককে আটক করেছে দেশটির অভিবাসন বিভাগ। রোববার (২২ নভেম্বর) সকাল পৌনে ১০টার দিকে পরিচালিত এ অভিযানে ৬৪ জনের পরিচয় ও কাগজপত্র...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:43:15+00:00"
+    },
+    {
+      "title": "আশঙ্কাজনক হারে কমছে খেজুর গাছ, পেশা বদলাচ্ছেন গাছি",
+      "link": "https://www.jagonews24.com/country/news/1182465",
+      "summary": "একসময় মাদারীপুরে ৫৮টি ইউনিয়নে ১২ লাখ খেজুর গাছ ছিল। তখন প্রতি মৌসুমে ১৮ কোটি টাকার খেজুরের গুড় তৈরি হতো। সেসময় এ জেলায় প্রায় ...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:42:25+00:00"
+    },
+    {
+      "title": "ইসলামী আন্দোলনের বিরুদ্ধে মিথ্যাচার: ফাহিম ফারুকীকে আইনি নোটিশ",
+      "link": "https://www.jagonews24.com/politics/news/1182464",
+      "summary": "ইসলামী আন্দোলন বাংলাদেশ ও দলটির শীর্ষ নেতাদের বিরুদ্ধে মিথ্যা, মানহানিকর ও উদ্দেশ্যপ্রণোদিত বক্তব্য দেওয়ার অভিযোগে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:40:39+00:00"
+    },
+    {
+      "title": "দুটি মোটরসাইকেলে আসে পাঁচ অস্ত্রধারী, আসবাবের দোকানিকে গুলি",
+      "link": "https://www.prothomalo.com/bangladesh/district/096n3yksp6",
+      "summary": "গুলিবিদ্ধ নুরুল আবসার ওই গ্রামের বাজারে একটি আসবাবের দোকান পরিচালনা করেন। পাশাপাশি এলাকার সন্ত্রাসী কর্মকাণ্ড সম্পর্কে পুলিশকে তথ্য দিয়ে সহযোগিতা করতেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:39:06+00:00"
+    },
+    {
+      "title": "পবায় গ্রাম পুলিশের সচ্ছলতায় সামাজিক বনায়ন কর্মসূচি",
+      "link": "https://www.jagonews24.com/country/news/1182463",
+      "summary": "পবায় গ্রাম পুলিশের সচ্ছলতায় সামাজিক বনায়ন কর্মসূচি",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:36:49+00:00"
+    },
+    {
+      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+      "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+      "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:35:55+00:00"
+    },
+    {
+      "title": "সোনারগাঁয়ে তাওয়ামা: মধ্যযুগীয় বাংলার শিক্ষাচর্চা ও সুফি ঐতিহ্য",
+      "link": "https://www.prothomalo.com/onnoalo/treatise/yowsi3c7wb",
+      "summary": "তৎকালীন শিক্ষাব্যবস্থা কেবল ধর্মীয় শিক্ষায় সীমাবদ্ধ ছিল না; বরং ছিল বহুমাত্রিক ও সমন্বিত। মুসলিম শিক্ষাপ্রতিষ্ঠানগুলোতে প্রধানত কোরআন, তাফসির, হাদিস, ফিকহ, আরবি-ফারসি ভাষা ও যুক্তিবিদ্যার চর্চা হতো।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:34:16+00:00"
+    },
+    {
+      "title": "সমাবর্তনে স্নাতকোত্তরে স্বর্ণপদক চান নোবিপ্রবি শিক্ষার্থীরা",
+      "link": "https://www.jagonews24.com/campus/news/1182462",
+      "summary": "সমাবর্তনে স্নাতকোত্তরে স্বর্ণপদক চান নোবিপ্রবি শিক্ষার্থীরা",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:34:00+00:00"
+    },
+    {
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+      "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:33:26+00:00"
+    },
+    {
+      "title": "গোপালগঞ্জ-চুয়াডাঙ্গায় নতুন অতিরিক্ত পুলিশ সুপার",
+      "link": "https://www.jagonews24.com/national/news/1182461",
+      "summary": "গোপালগঞ্জ-চুয়াডাঙ্গায় নতুন অতিরিক্ত পুলিশ সুপার",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:30:45+00:00"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+      "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:30:27+00:00"
+    },
+    {
+      "title": "চাকরিচ্যুত ব্যাংকারের ঋণের টাকায় কেনা তিন গরু নিয়ে গেল চোর",
+      "link": "https://www.jagonews24.com/national/news/1182460",
+      "summary": "চাকরিচ্যুত ব্যাংকারের ঋণের টাকায় কেনা তিন গরু নিয়ে গেল চোর",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:29:25+00:00"
+    },
+    {
+      "title": "টেস্টে আগ্রহ ফেরার কৃতিত্ব বাংলাদেশের পারফরম্যান্সকে দিলেন সিমন্স",
+      "link": "https://www.jagonews24.com/sports/cricket/1182459",
+      "summary": "টেস্টে আগ্রহ ফেরার কৃতিত্ব বাংলাদেশের পারফরম্যান্সকে দিলেন সিমন্স",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:25:57+00:00"
+    },
+    {
+      "title": "ছাগল, রাজহাঁস, ফ্ল্যামিংগো, চিংড়ি, গাছ: মিস ইউনিভার্সের ন্যাশনাল কস্টিউমের ইন্সপিরেশন যখন জীবজন্তু",
+      "link": "https://www.haal.fashion/fashion/style/ifmwpod3k8",
+      "summary": "ছাগল, রাজহাঁস, ফ্ল্যামিংগো, চিংড়ি কিংবা লজ্জাবতী গাছ। প্রকৃতির নানা জীবজন্তু ও উদ্ভিদ থেকে অনুপ্রেরণা নিয়ে মিস ইউনিভার্স ২০২৬-এর মঞ্চে হাজির হয়েছেন প্রতিযোগীরা। তাঁদের জাতীয় পোশাকে উঠে এসেছে বৈচিত্র্যময় সব ভাবনা, সঙ্গে রয়েছে নিজ দেশের ঐতিহ্য ও সংস্কৃতির গল্প। প্যারাকিট (বাদামি ঠোঁটের তোতা) মিস ইউনিভার্স আরুবা ২০২৬ মার্খো (পাহাড়ি ছাগল) মিস ইউনিভার্স পাকিস্তান",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:25:56+00:00"
+    },
+    {
+      "title": "ক্ষমতাকেন্দ্রিক রাজনীতি ও প্রতিহিংসায় সাধারণ মানুষের জীবন বিপন্ন হচ্ছে",
+      "link": "https://www.prothomalo.com/politics/pbeqs3csvv",
+      "summary": "দেশে রাজনৈতিক সংঘাত, হত্যা, হামলা, লুটপাট ও অগ্নিসংযোগ বন্ধ করে মানুষের জানমালের নিরাপত্তা নিশ্চিত করার আহ্বান জানিয়েছে গণতান্ত্রিক যুক্ত ফ্রন্ট। একই সঙ্গে রাজনৈতিক প্রতিহিংসার বদলে আইনের শাসন ও গণতান্ত্রিক রাজনৈতিক সংস্কৃতি প্রতিষ্ঠার দাবি জানিয়েছে জোটটি। আজ রোববার গণমাধ্যমে পাঠানো এক বিবৃতিতে এ আহ্বান জানানো হয় জোটের পক্ষ থেকে। এতে দেশের আইনশৃঙ্খলা পরিস্থি",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:25:06+00:00"
+    },
+    {
+      "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
+      "link": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+      "summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Antalya, Turkey and another week of French protests over the cost of living, FRANCE 24 looks back at some of the most striking images from the past week.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T14:22:56+00:00"
+    },
+    {
+      "title": "চট্টগ্রামে রেলের নিয়োগ পরীক্ষায় নম্বরপত্রে ঘষামাজা, সাবেক মহাব্যবস্থাপকের ২ বছরের কারাদণ্ড",
+      "link": "https://www.prothomalo.com/bangladesh/district/kjd46oa1wo",
+      "summary": "রেলওয়ে পূর্বাঞ্চলের রেকর্ড কিপার পদে নিয়োগ পরীক্ষায় নম্বরপত্রে ঘষামাজা ও জালিয়াতির মামলায় রেলওয়ের সাবেক মহাব্যবস্থাপক ইউসুফ আলী মৃধা ও সাবেক কর্মকর্তা গোলাম কিবরীয়ার কারাদণ্ড।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:21:07+00:00"
+    },
+    {
+      "title": "বাংলাদেশে বলিউড অভিনেতা মুকেশ ঋষি, কেমন চলছে শুটিং",
+      "link": "https://www.prothomalo.com/video/entertainment/kx3smq5yg8",
+      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/bangladese-bliud-ovineta-mukes-rrishi-kemn-clche-suting",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:20:59+00:00"
+    },
+    {
+      "title": "বিচ্ছেদের পর দুধ দিয়ে গোসল, জীবনে আর বিয়ে না করার ঘোষণা যুবকের",
+      "link": "https://www.jagonews24.com/country/news/1182458",
+      "summary": "বিচ্ছেদের পর দুধ দিয়ে গোসল, জীবনে আর বিয়ে না করার ঘোষণা যুবকের",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:20:45+00:00"
+    },
+    {
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:20:41+00:00"
+    },
+    {
+      "title": "হীরার হার পাহারা দিতে আনলেন চারজনকে, সেই হারের মূল্য কত?",
+      "link": "https://www.jagonews24.com/entertainment/news/1182457",
+      "summary": "হীরার হার পাহারা দিতে আনলেন চারজনকে, সেই হারের মূল্য কত?",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:20:38+00:00"
+    },
+    {
+      "title": "বাংলাদেশে বলিউড অভিনেতা মুকেশ ঋষি, কেমন চলছে শুটিং",
+      "link": "https://www.prothomalo.com/video/entertainment/qurkh55gv7",
+      "summary": "মোহাম্মদ ইকবাল পরিচালিত ও আরশাদ আদনান প্রযোজিত ‘নসীব’ সিনেমার শুটিংয়ে অংশ নিতে এখন বাংলাদেশে অবস্থান করছেন বলিউড অভিনেতা মুকেশ ঋষি। শুটিংয়ের ফাঁকে কথা বলেছেন নিজের অভিনয়জীবন, বলিউডের তারকাদের সঙ্গে কাজের অভিজ্ঞতা এবং বাংলাদেশে এসে তাঁর ভালো লাগার নানা বিষয় নিয়ে। বিস্তারিত ভিডিওতে...",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:20:35+00:00"
+    },
+    {
+      "title": "\"It can take years\": Why the AI Riemann proof is far from settled",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
+      "summary": "AI claimed another major scalp in maths on Friday, as Anthropic mathematician Levent Alpöge published what he says is a proof of the Riemann hypothesis, a Millennium Prize Problem, in 17 million lines of code that no human has read in full. Physicist Tony Padilla tells Tech 24 that verification could take years, and that Alpöge should share how he got there.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T14:18:55+00:00"
+    },
+    {
       "title": "এসএমই পণ্যমেলা: জামদানির স্টলে সুতার ফাঁসে ঐতিহ্যের গল্প",
       "link": "https://www.jagonews24.com/national/news/1182456",
-      "summary": "একটি শাড়ি তৈরি করতে কখনো লাগে এক সপ্তাহ, কখনো ১৫ দিন। আবার নকশা ও মানভেদে কোনো কোনো শাড়ি বুনতে সময় লাগে দুই থেকে তিন মাস। সুতা, নকশা আর কারিগরের নিপুণ হাতের সমন্বয়ে তাঁতে ধীরে ধীরে ফুটে ওঠে জামদানির ঐতিহ্য...",
+      "summary": "এসএমই পণ্যমেলা: জামদানির স্টলে সুতার ফাঁসে ঐতিহ্যের গল্প",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T14:16:02+00:00"
     },
     {
+      "title": "বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্ট উদ্ধার: তিন আসামির ৫ দিনের রিমান্ড",
+      "link": "https://www.prothomalo.com/bangladesh/crime/ybbtatqubs",
+      "summary": "আগমনী ২ নম্বর ক্যানোপির আউটগেট এলাকায় সন্দেহভাজন এক ব্যক্তির কোমরে কাপড়ে মোড়ানো অবস্থায় ১৫টি ডিম্বাকৃতির প্যাকেট পেয়ে আটক করে আর্মড পুলিশ ব্যাটালিয়ন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:13:53+00:00"
+    },
+    {
+      "title": "পথ ভুলে বাংলাদেশে, পাঁচ বছর পর দেশে ফিরলেন নেপালি যুবক",
+      "link": "https://www.prothomalo.com/bangladesh/district/lsuig6z81c",
+      "summary": "প্রায় পাঁচ বছর আগে পথ ভুলে বাংলাদেশে প্রবেশ করা এক নেপালি যুবককে দেশে ফেরত পাঠানো হয়েছে। আজ রোববার বেলা ১১টার দিকে পঞ্চগড় সীমান্তের ৭৩২ নম্বর মেইন পিলারের ১ নম্বর সাবপিলার–সংলগ্ন এলাকার বাংলাবান্ধা-ফুলবাড়ী শূন্যরেখা দিয়ে এই প্রত্যাবাসন প্রক্রিয়া সম্পন্ন হয়েছে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:12:45+00:00"
+    },
+    {
+      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+      "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T14:08:28+00:00"
+    },
+    {
       "title": "কৃষক দল নেতা রাজু হত্যা, নিক্সন চৌধুরীসহ ২৪৬ জনের বিরুদ্ধে মামলা",
       "link": "https://www.jagonews24.com/country/news/1182455",
-      "summary": "ফরিদপুরের ভাঙ্গায় কৃষক দল নেতা রাজু মোল্লা হত্যা মামলায় সাবেক সংসদ সদস্য ও কার্যক্রম নিষিদ্ধ যুবলীগের প্রেসিডিয়াম সদস্য মজিবুর রহমান নিক্সন চৌধুরীকে প্রধান আসামি করা হয়েছে। মামলায় ৯৬ জনের নাম উল্লেখ করে অজ্ঞাতপরিচয় আরও ১০০ থেকে ১৫০ জনকে আসামি করা হয়েছে....",
+      "summary": "কৃষক দল নেতা রাজু হত্যা, নিক্সন চৌধুরীসহ ২৪৬ জনের বিরুদ্ধে মামলা",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T14:07:34+00:00"
@@ -30,7 +390,7 @@
     {
       "title": "সেন্টমার্টিনে জাহাজ চলাচল শুরু, ফিরলেন আটকে পড়া পর্যটকরা",
       "link": "https://www.jagonews24.com/country/news/1182454",
-      "summary": "বৈরী আবহাওয়ার কারণে টানা তিনদিন পর সেন্টমার্টিন নৌপথে পর্যটকবাহী জাহাজ চলাচল শুরু হয়েছে। ফিরেছেন জাহাজ চলাচল বন্ধ হওয়ার পর...",
+      "summary": "সেন্টমার্টিনে জাহাজ চলাচল শুরু, ফিরলেন আটকে পড়া পর্যটকরা",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T14:00:55+00:00"
@@ -44,14 +404,6 @@
       "published": "2026-11-22T14:00:31+00:00"
     },
     {
-      "title": "দেশি-বিদেশি শিক্ষার্থীদের অংশগ্রহণে ৫ দিন ব্যাপী আর্কফেস্ট ড্যাফোডিলে",
-      "link": "https://www.prothomalo.com/lifestyle/mu1s7tmvg9",
-      "summary": "স্থাপত্য নিয়ে আলোচনা, প্রদর্শনী আর ডিজাইন শ্যারেট—ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটির স্থাপত্য বিভাগের উদ্যোগে ৮ থেকে ১২ নভেম্বর হয়ে গেল ‘আর্কফেস্ট ২০২৬’।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T14:00:00+00:00"
-    },
-    {
       "title": "সত্যিই কি ৫০০ কোটি টাকার মালিক অনুপম",
       "link": "https://www.prothomalo.com/entertainment/bollywood/li7p6xb3pp",
       "summary": "এত দীর্ঘ ক্যারিয়ারের পর অনুপমের আর্থিকভাবে সচ্ছল হওয়াটাই স্বাভাবিক। কিন্তু ইন্টারনেটে তাঁর সম্পদের যে হিসাব ঘুরে বেড়াচ্ছে, তা নিয়ে আপত্তি আছে অভিনেতার নিজেরই।",
@@ -60,9 +412,17 @@
       "published": "2026-11-22T14:00:00+00:00"
     },
     {
+      "title": "দেশি-বিদেশি শিক্ষার্থীদের অংশগ্রহণে ৫ দিন ব্যাপী আর্কফেস্ট ড্যাফোডিলে",
+      "link": "https://www.prothomalo.com/lifestyle/mu1s7tmvg9",
+      "summary": "স্থাপত্য নিয়ে আলোচনা, প্রদর্শনী আর ডিজাইন শ্যারেট—ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটির স্থাপত্য বিভাগের উদ্যোগে ৮ থেকে ১২ নভেম্বর হয়ে গেল ‘আর্কফেস্ট ২০২৬’।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-22T14:00:00+00:00"
+    },
+    {
       "title": "কেরানীগঞ্জে দুই শতাধিক শীতার্ত পরিবারের মধ্যে কম্বল বিতরণ",
       "link": "https://www.jagonews24.com/politics/news/1182453",
-      "summary": "ঢাকার কেরানীগঞ্জে দুই শতাধিক শীতার্ত পরিবারের মধ্যে কম্বল বিতরণ করা হয়েছে। ইসলামী আন্দোলন বাংলাদেশের কেরানীগঞ্জ মডেল উপজেলা শাখার উদ্যোগে রোববার (২২ নভেম্বর) আয়োজিত এক অনুষ্ঠানে এসব কম্বল বিতরণ করা হয়...",
+      "summary": "কেরানীগঞ্জে দুই শতাধিক শীতার্ত পরিবারের মধ্যে কম্বল বিতরণ",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:56:55+00:00"
@@ -70,7 +430,7 @@
     {
       "title": "বিআইডব্লিউটিসির নিয়োগ বিজ্ঞপ্তি, ৩৩ জনের সরকারি চাকরি",
       "link": "https://www.jagonews24.com/jago-jobs/news/1182452",
-      "summary": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন করপোরেশন (বিআইডব্লিউটিসি) নতুন নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। প্রতিষ্ঠানটিতে ৪টি পদে ৩৩ জনকে নিয়োগ দেওয়া হবে...",
+      "summary": "বিআইডব্লিউটিসির নিয়োগ বিজ্ঞপ্তি, ৩৩ জনের সরকারি চাকরি",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:56:21+00:00"
@@ -78,7 +438,7 @@
     {
       "title": "ডিসেম্বর পর্যন্ত নোট-গাইড বই ছাপা বন্ধের নির্দেশ",
       "link": "https://www.jagonews24.com/education/news/1182451",
-      "summary": "সব ধরনের নোট-গাইড ও অনুশীলনমূলক সহায়ক বই ছাপা বন্ধ রাখার নির্দেশ দিয়েছে জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)...",
+      "summary": "ডিসেম্বর পর্যন্ত নোট-গাইড বই ছাপা বন্ধের নির্দেশ",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:55:47+00:00"
@@ -102,7 +462,7 @@
     {
       "title": "নৈরাজ্য প্রতিহতে ঐক্যবদ্ধ থাকার ঘোষণা স্বেচ্ছাসেবক দল নেতার",
       "link": "https://www.jagonews24.com/politics/news/1182450",
-      "summary": "দেশে নৈরাজ্য সৃষ্টি করে শান্তি-শৃঙ্খলা বিনষ্টের যে কোনো অপচেষ্টা ঐক্যবদ্ধভাবে প্রতিহত করা হবে বলে মন্তব্য করেছেন চট্টগ্রাম মহানগর স্বেচ্ছাসেবক দলের সিনিয়র যুগ্ম আহ্বায়ক জিয়াউর রহমান জিয়া...",
+      "summary": "নৈরাজ্য প্রতিহতে ঐক্যবদ্ধ থাকার ঘোষণা স্বেচ্ছাসেবক দল নেতার",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:53:10+00:00"
@@ -110,7 +470,7 @@
     {
       "title": "কলকাতার সঙ্গে বাংলাদেশের সোনার দামের পার্থক্য কত?",
       "link": "https://www.jagonews24.com/international/news/1182449",
-      "summary": "কলকাতার তুলনায় বাংলাদেশে ২২ ক্যারেট সোনার ভরিপ্রতি দাম প্রায় ৯ হাজার ৯৬৪ টাকা বেশি। দুই বাজারেই গত এক মাসে সোনার দাম কমেছে....",
+      "summary": "কলকাতার সঙ্গে বাংলাদেশের সোনার দামের পার্থক্য কত?",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:53:08+00:00"
@@ -118,26 +478,10 @@
     {
       "title": "ঢাকার ৪৯ স্কুলে ভর্তি পরীক্ষা তিন দিনে, কোন গ্রুপের কবে",
       "link": "https://www.jagonews24.com/education/news/1182448",
-      "summary": "ঢাকা মহানগরীর ৪৯টি সরকারি মাধ্যমিক বিদ্যালয়ে ২০২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষা আগামী ১৭ ডিসেম্বর শুরু হবে...",
+      "summary": "ঢাকার ৪৯ স্কুলে ভর্তি পরীক্ষা তিন দিনে, কোন গ্রুপের কবে",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T13:50:04+00:00"
-    },
-    {
-      "title": "মুশফিকের ১০৮ টেস্টের অভিজ্ঞতা, বিকল্পদের কাছে কী চান সিমন্স?",
-      "link": "https://www.jagonews24.com/sports/cricket/1182447",
-      "summary": "কুঁচকির চোটে দক্ষিণ আফ্রিকায় দ্বিতোয় টেস্ট খেলা হচ্ছে না মুশফিকুর রহিমের। আগামীকাল সেঞ্চুরিয়নে শুরু হতে যাওয়া টেস্টে তাই একাদশে বাধ্যতামূলক পরিবর্তন আনতে হচ্ছে বাংলাদেশকে...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:49:52+00:00"
-    },
-    {
-      "title": "জবাবদিহি নিশ্চিতের মাধ্যমে দুদককে অনন্য উচ্চতায় নিতে কাজ করছে কমিশন",
-      "link": "https://www.jagonews24.com/national/news/1182446",
-      "summary": "দুর্নীতিমুক্ত দেশ গড়তে আমরা প্রতিজ্ঞাবদ্ধ। বর্তমান কমিশন কাজে বিশ্বাসী। কর্মকর্তাদের কাজের স্বচ্ছতা ও জবাবদিহি নিশ্চিতের মাধ্যমে দুদককে অনন্য উচ্চতায় নিতে কাজ করছে কমিশন...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:47:15+00:00"
     },
     {
       "title": "Israel investigates West Bank fires",
@@ -148,14 +492,6 @@
       "published": "2026-11-22T13:47:04+00:00"
     },
     {
-      "title": "বুটেক্সে ভর্তির আবেদন শুরু ১ ডিসেম্বর, সাপ্লিমেন্টারিতে পাসদেরও সুযোগ",
-      "link": "https://www.jagonews24.com/education/news/1182445",
-      "summary": "বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়ে (বুটেক্স) ২০২৬-২৭ শিক্ষাবর্ষে বিএসসি ইন টেক্সটাইল ইঞ্জিনিয়ারিং প্রোগ্রামে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে। আগামী ১ ডিসেম্বর...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:46:59+00:00"
-    },
-    {
       "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
       "link": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
       "summary": "Police in US investigating whether Tennessee Titans defensive end assaulted rideshare driver before collision.",
@@ -164,52 +500,12 @@
       "published": "2026-11-22T13:46:45+00:00"
     },
     {
-      "title": "ভারতীয় সেনাদের সাহস দিতে যে বার্তা দিলেন শাহরুখ খান",
-      "link": "https://www.jagonews24.com/entertainment/news/1182444",
-      "summary": "ভারতীয় জওয়ানদের প্রশংসা করে বক্তব্য দিয়েছেন শাহরুখ খান। তিনি বলেন, যারা দেশকে আক্রমণ করে, ভয় আসলে তাদেরই। তার এই বক্তব্যে.....",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:45:29+00:00"
-    },
-    {
-      "title": "ভর্তি পরীক্ষা স্থগিতের আদেশের বিরুদ্ধে আপিল সোমবারের শুনানির তালিকায়",
-      "link": "https://www.jagonews24.com/education/news/1182443",
-      "summary": "বুয়েট, মেডিকেল ও ঢাকা বিশ্ববিদ্যালয়সহ দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষা স্থগিত করে হাইকোর্টের দেওয়া আদেশের বিরুদ্ধে রাষ্ট্রপক্ষের করা আবেদনের শুনানি...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:45:20+00:00"
-    },
-    {
       "title": "পোশাকশিল্পের অস্থিরতায় ৩ হাজার কোটি টাকার ক্রয়াদেশ অন্য দেশে চলে গেছে",
       "link": "https://www.prothomalo.com/business/industry/bxgf1ouwdq",
       "summary": "রপ্তানি আদেশ ধরে রাখতে কারখানাগুলোকে এখন ব্যয়বহুল এয়ার শিপমেন্ট, বড় অঙ্কের মূল্যছাড়, এমনকি সরাসরি ক্রয়াদেশ বা অর্ডার বাতিলের মতো কঠিন পরিস্থিতির মুখোমুখি হতে হচ্ছে।",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-22T13:45:04+00:00"
-    },
-    {
-      "title": "‘আ’লীগকে আগামী ১ হাজার বছরেও রাজনীতির সুযোগ দেবে না জনগণ’",
-      "link": "https://www.jagonews24.com/country/news/1182442",
-      "summary": "রাজনৈতিকভাবে পরাজিত ও নিষিদ্ধ ঘোষিত দলকে দেশের জনগণ আগামী এক হাজার বছরেও রাজনীতি করার সুযোগ দেবে না বলে মন্তব্য করেছেন বিএনপির যুগ্ম মহাসচিব খায়রুল কবির খোকন....",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:42:38+00:00"
-    },
-    {
-      "title": "৫০০ টাকায় জাল সনদ, দেড়লাখ ঘুসে প্রাথমিক বিদ্যালয়ে চাকরি",
-      "link": "https://www.jagonews24.com/country/news/1182441",
-      "summary": "৫০০ টাকায় জাল সনদ, দেড়লাখ ঘুসে প্রাথমিক বিদ্যালয়ে চাকরি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:39:37+00:00"
-    },
-    {
-      "title": "কাল মাঠে নেমেই একাদশ চূড়ান্ত, উইকেট দেখে সিদ্ধান্ত বাংলাদেশের",
-      "link": "https://www.jagonews24.com/sports/cricket/1182440",
-      "summary": "কাল মাঠে নেমেই একাদশ চূড়ান্ত, উইকেট দেখে সিদ্ধান্ত বাংলাদেশের",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:36:38+00:00"
     },
     {
       "title": "নার্সিং ও মিডওয়াইফারি অধিদপ্তরের পরীক্ষার ফল প্রকাশ, উত্তীর্ণ ৭১৫০",
@@ -260,14 +556,6 @@
       "published": "2026-11-22T13:30:00+00:00"
     },
     {
-      "title": "কলকাতায় সোনার দামে বড় পতন, ভরি কত?",
-      "link": "https://www.jagonews24.com/international/news/1182439",
-      "summary": "কলকাতায় সোনার দামে বড় পতন, ভরি কত?",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:27:15+00:00"
-    },
-    {
       "title": "Major fire erupts at a fuel station in Lagos",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
       "summary": "Major fire erupts at a fuel station in Lagos",
@@ -276,36 +564,12 @@
       "published": "2026-11-22T13:26:19+00:00"
     },
     {
-      "title": "কবি নজরুল কলেজের গেটে ককটেল বিস্ফোরণ, ঢাবির কর্মচারী গুরুতর আহত",
-      "link": "https://www.jagonews24.com/national/news/1182438",
-      "summary": "কবি নজরুল কলেজের গেটে ককটেল বিস্ফোরণ, ঢাবির কর্মচারী গুরুতর আহত",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:24:41+00:00"
-    },
-    {
-      "title": "ঋণ করে মাছ চাষ, দুর্বৃত্তদের বিষে নিঃস্ব মিজানুর",
-      "link": "https://www.jagonews24.com/country/news/1182437",
-      "summary": "ঋণ করে মাছ চাষ, দুর্বৃত্তদের বিষে নিঃস্ব মিজানুর",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:23:36+00:00"
-    },
-    {
       "title": "টাকা আছে, মানসম্মত শিক্ষায় খরচ করতে পারছি না: শিক্ষামন্ত্রী",
       "link": "https://www.prothomalo.com/bangladesh/capital/pqc6lx3oya",
       "summary": "শিক্ষামন্ত্রী বলেন, ‘প্রধানমন্ত্রী বাজেট যা দিয়েছেন, সেটা আমি খরচ করতে পারছি না। বিলিভ অর নট (বিশ্বাস করুন), ১.৩৯ থেকে ২ শতাংশ আমরা করেছি।’",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-22T13:18:25+00:00"
-    },
-    {
-      "title": "কবি নজরুল কলেজের সামনে পরপর দুই ককটেল বিস্ফোরণ",
-      "link": "https://www.jagonews24.com/campus/news/1182436",
-      "summary": "কবি নজরুল কলেজের সামনে পরপর দুই ককটেল বিস্ফোরণ",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:18:13+00:00"
     },
     {
       "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
@@ -340,14 +604,6 @@
       "published": "2026-11-22T13:15:40+00:00"
     },
     {
-      "title": "গণভোটে ৭০ ভাগ মানুষের রায় কার্যকর ছাড়া দেশে শান্তি আসবে না",
-      "link": "https://www.jagonews24.com/politics/news/1182435",
-      "summary": "গণভোটে ৭০ ভাগ মানুষের রায় কার্যকর ছাড়া দেশে শান্তি আসবে না",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:15:39+00:00"
-    },
-    {
       "title": "ব্লাইন্ড ডেট থেকে প্রেম, আবার বিয়ে করলেন মাইলি",
       "link": "https://www.prothomalo.com/entertainment/song/z7g1pg88k3",
       "summary": "দীর্ঘদিনের প্রেমিক ম্যাক্স মোরান্দোর সঙ্গে বিয়ের বন্ধনে আবদ্ধ হয়েছেন মার্কিন পপ তারকা মাইলি সাইরাস।",
@@ -356,44 +612,12 @@
       "published": "2026-11-22T13:15:00+00:00"
     },
     {
-      "title": "রোগীর ভারে বেসামাল যশোর জেনারেল হাসপাতাল",
-      "link": "https://www.jagonews24.com/country/news/1182434",
-      "summary": "রোগীর ভারে বেসামাল যশোর জেনারেল হাসপাতাল",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:14:41+00:00"
-    },
-    {
-      "title": "ভারতে ইনস্টাগ্রাম অ্যাকাউন্ট ফেরত চেয়ে মেটার কার্যালয়ের সামনে বিক্ষোভ",
-      "link": "https://www.jagonews24.com/international/news/1182433",
-      "summary": "ভারতে ইনস্টাগ্রাম অ্যাকাউন্ট ফেরত চেয়ে মেটার কার্যালয়ের সামনে বিক্ষোভ",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:14:21+00:00"
-    },
-    {
       "title": "পাঠকের ছবি (২২ নভেম্বর ২০২৬)",
       "link": "https://nagorik.prothomalo.com/ridqka32l1",
       "summary": "নাগরিক সংবাদে ছবি ও লেখা পাঠাতে পারবেন পাঠকেরা। ই-মেইল: ns@prothomalo.com",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-22T13:13:49+00:00"
-    },
-    {
-      "title": "প্ল্যান ইন্টারন্যাশনালে নিয়োগ, বেতন ৩ লাখ ৮৬ হাজার",
-      "link": "https://www.jagonews24.com/jago-jobs/news/1182432",
-      "summary": "প্ল্যান ইন্টারন্যাশনালে নিয়োগ, বেতন ৩ লাখ ৮৬ হাজার",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:08:13+00:00"
-    },
-    {
-      "title": "পৃথিবীর এমন কিছু জায়গা যার কোনো মালিক নেই",
-      "link": "https://www.jagonews24.com/international/news/1182431",
-      "summary": "পৃথিবীর এমন কিছু জায়গা যার কোনো মালিক নেই",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:07:17+00:00"
     },
     {
       "title": "সাজেদা ফাউন্ডেশনের বার্ষিক সভায় ক্ষুদ্রঋণসহ বিভিন্ন কার্যক্রম নিয়ে আলোচনা",
@@ -412,14 +636,6 @@
       "published": "2026-11-22T13:04:13+00:00"
     },
     {
-      "title": "শাকিব নাকি পরীমনি, অপু বিশ্বাস ও জয়ের ছবি কে তুলে দিলেন?",
-      "link": "https://www.jagonews24.com/entertainment/news/1182430",
-      "summary": "শাকিব নাকি পরীমনি, অপু বিশ্বাস ও জয়ের ছবি কে তুলে দিলেন?",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:04:05+00:00"
-    },
-    {
       "title": "জিটিএ–৬ খেলতে আইশোস্পিডের নির্ঘুম সাড়ে ৫২ ঘণ্টা",
       "link": "https://www.prothomalo.com/video/entertainment/qmncfkqde2",
       "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/jitie-6-khelte-aisospider-nirghum-sade-52-ghnta",
@@ -428,148 +644,12 @@
       "published": "2026-11-22T13:03:32+00:00"
     },
     {
-      "title": "ফতুল্লায় গ্যাস বিস্ফোরণে দগ্ধ স্বামীর মৃত্যু, স্ত্রী আইসিইউতে",
-      "link": "https://www.jagonews24.com/country/news/1182429",
-      "summary": "ফতুল্লায় গ্যাস বিস্ফোরণে দগ্ধ স্বামীর মৃত্যু, স্ত্রী আইসিইউতে",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:01:44+00:00"
-    },
-    {
-      "title": "দুই মাসের দায়িত্ব শেষে সোমবার দেশে ফিরছেন ক্রুইফ",
-      "link": "https://www.jagonews24.com/sports/football/1182428",
-      "summary": "দুই মাসের দায়িত্ব শেষে সোমবার দেশে ফিরছেন ক্রুইফ",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:00:49+00:00"
-    },
-    {
-      "title": "নতুন স্নাতকদের জন্য ঢাকায় শিক্ষকতার সুযোগ, প্রভাষক নেবে ড্যাফোডিল কলেজ",
-      "link": "https://www.prothomalo.com/chakri/employment/6b2hdwywfk",
-      "summary": "রাজধানীর শিক্ষাপ্রতিষ্ঠান ‘ড্যাফোডিল ইন্টারন্যাশনাল কলেজ, ঢাকা’ শিক্ষক নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে। প্রতিষ্ঠানটি তাদের ঢাকা ক্যাম্পাসের জন্য ৭টি বিষয়ে জনবল নিয়োগ দেবে। চাকরিটি খণ্ডকালীন এবং অফিসে উপস্থিত থেকে কাজ করতে হবে। আগ্রহী প্রার্থীরা আগামী ২১ ডিসেম্বর ২০২৬ তারিখের মধ্যে আবেদন করতে পারবেন। নতুনদের জন্য শিক্ষকতা পেশায় ক্যারিয়ার গড়ার সুযোগ উচ্চশিক্ষা ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:00:16+00:00"
-    },
-    {
-      "title": "টেলিভিশনের প্রথম নাটক কীভাবে করলেন শহীদুজ্জামান সেলিম?",
-      "link": "https://www.prothomalo.com/video/cafelive/z5d6k0nnbf",
-      "summary": "অতিথি: শহীদুজ্জামান সেলিম অভিনয়শিল্পী সঞ্চালনা: নীল হুরেজাহান",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:00:00+00:00"
-    },
-    {
-      "title": "ভয়েজার–১ পৃথিবী থেকে এক আলোক-দিন দূরে, মানে কী",
-      "link": "https://www.kishoralo.com/feature/o233xx0zt8",
-      "summary": "এক আলোক-দিন কত বিশাল, একটু কল্পনা করা যাক। পৃথিবী থেকে চাঁদের গড় দূরত্ব প্রায় ৩ লাখ ৮৪ হাজার কিলোমিটার। এক আলোক-দিনের দূরত্ব পাড়ি দিতে হলে পৃথিবী থেকে চাঁদে যাওয়া-আসা করতে হবে প্রায় ৬৭ হাজার ৪০০ বার!",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T13:00:00+00:00"
-    },
-    {
-      "title": "রাষ্ট্রের মধ্যে আরেকটি শক্তি দাপট দেখাচ্ছে: গোলাম পরওয়ার",
-      "link": "https://www.prothomalo.com/politics/z6bt2w08f9",
-      "summary": "জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার বলেন, দিল্লির ইশারায় একটি আধিপত্যবাদী শক্তি এ দেশে অপশক্তিকে আবার সক্রিয় করে তুলছে। রাষ্ট্রের মধ্যে আরেকটি শক্তির দাপট দেখাচ্ছে। গোপালগঞ্জে টানা সংঘর্ষ, অবরোধ, অগ্নিসংযোগ এমনকি পুলিশের গাড়িতে ও থানায় আগুন দেওয়ার ঘটনার প্রসঙ্গ টেনে জামায়াতের এই নেতা বলেন, বাংলাদেশে অনেক রাজনৈতিক সহিংসতা দেখা গেছে। কিন্তু থ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:59:50+00:00"
-    },
-    {
-      "title": "বাংলাদেশ দলের কোচ সিমন্সকে নিয়ে কী বলতে চাইলেন তামিম",
-      "link": "https://www.prothomalo.com/sports/cricket/galkk2afei",
-      "summary": "কিছু পুরোনো কথা নতুন করে বললেন। কিছু বললেন সম্ভাবনার কথা এবং কিছু কথায় দিলেন আভাস। সব মিলিয়ে মিরপুরে আজকের সংবাদ সম্মেলনে বিসিবি সভাপতি তামিম ইকবাল যা বললেন, তাতে ‘ঘটমান বর্তমান’ জাতীয় তেমন কিছু না থাকলেও আছে সম্ভাবনার বীজ। তামিম সম্প্রতি ফিরেছেন ইন্দোনেশিয়ার বালিতে আইসিসির সভায় অংশ নিয়ে। এ রকম সভা থেকে ফেরার পর বোর্ড সভাপতিদের দেওয়া আভাস সাধারণত ভবিষ্যতে ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:58:49+00:00"
-    },
-    {
-      "title": "গাড়িবহর থামিয়ে শিশুকে নিয়ে হাসপাতালে ছুটলেন দুলু, তবুও গেল না বাঁচানো",
-      "link": "https://www.jagonews24.com/country/news/1182427",
-      "summary": "গাড়িবহর থামিয়ে শিশুকে নিয়ে হাসপাতালে ছুটলেন দুলু, তবুও গেল না বাঁচানো",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:56:56+00:00"
-    },
-    {
-      "title": "সম্পত্তি নিলাম নিয়ে প্রচারিত সংবাদের প্রতিবাদ ও ঘটনার ব্যাখ্যা দিল সিটি ব্যাংক",
-      "link": "https://www.prothomalo.com/business/bank/sjbn1cc5u0",
-      "summary": "সম্প্রতি বিভিন্ন সামাজিক যোগাযোগমাধ্যমে প্রচারিত সিটি ব্যাংকের বন্ধকি সম্পত্তি নিলাম ও অর্থ আত্মসাতের অভিযোগসংক্রান্ত সংবাদটি আমাদের দৃষ্টিগোচর হয়েছে। এই সংবাদে প্রকৃত তথ্য উপেক্ষা করে ব্যাংকের একটি আইনানুগ ঋণ আদায় কার্যক্রমকে বিভ্রান্তিকরভাবে উপস্থাপন করা হয়েছে। প্রকৃত ঘটনা হলো, সংশ্লিষ্ট গ্রাহক প্রতিষ্ঠানগুলো (এক গ্রাহকের কয়েকটি প্রতিষ্ঠান) ২০১৬ সাল থেকে স",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:56:08+00:00"
-    },
-    {
-      "title": "টেকনাফে অভিযানে নিহত সেনাসদস্যের পরিবারের পাশে বাংলাদেশ সেনাবাহিনী",
-      "link": "https://www.prothomalo.com/bangladesh/uiawdtlbdp",
-      "summary": "সেনাপ্রধান জেনারেল ওয়াকার-উজ-জামান কর্তব্যরত অবস্থায় নিহত সৈনিক তিতাস শেখের পরিবারকে আর্থিক সহায়তা দিয়েছেন। আজ রোববার আন্তঃবাহিনী জনসংযোগ পরিদপ্তরের (আইএসপিআর) এক বিজ্ঞপ্তিতে এ কথা জানানো হয়। বিজ্ঞপ্তিতে বলা হয়, আর্থিক সহায়তার পাশাপাশি নিহত সৈনিক তিতাস শেখের পরিবারের আবাসন–সুবিধার উন্নয়নে বাংলাদেশ সেনাবাহিনীর পক্ষ থেকে বিদ্যমান বসতবাড়ি সংস্কারের দায়িত্ব গ্রহ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:52:36+00:00"
-    },
-    {
-      "title": "ঐতিহ্যবাহী শাড়িতে ছবি দিয়ে মাহি লিখলেন, ‘নিঃস্বার্থ ভালোবাসার প্রতি শ্রদ্ধাঞ্জলি’",
-      "link": "https://www.prothomalo.com/video/entertainment/brlepw82xc",
-      "summary": "মিস ইউনিভার্সের মঞ্চে জাতীয় পোশাকে বাংলাদেশের সংস্কৃতি ও মাতৃত্বের গল্প তুলে ধরেছেন সামিরা খান মাহি। বিস্তারিত ভিডিও প্রতিবেদনে",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:52:00+00:00"
-    },
-    {
-      "title": "ঐতিহ্যবাহী শাড়িতে ছবি দিয়ে মাহি লিখলেন, ‘নিঃস্বার্থ ভালোবাসার প্রতি শ্রদ্ধাঞ্জলি’",
-      "link": "https://www.prothomalo.com/video/entertainment/akve853xh0",
-      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/oitihzbahee-sadite-chbi-dize-mahi-likhlen-niswarth-valobasar-prti-srddhanjli",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:50:39+00:00"
-    },
-    {
-      "title": "মক্কার পরিচ্ছন্নতাকর্মীদের গল্পে নতুন ভিডিও গেম ‘দ্য লাস্ট পিলার: হজ’",
-      "link": "https://www.prothomalo.com/religion/islam/epdktkgvc4",
-      "summary": "জনপ্রিয় অ্যাকশন গেম ‘গ্র্যান্ড থেফট অটো’ (জিটিএ) নির্মাতা প্রতিষ্ঠান রকস্টার গেমসের এক সাবেক নির্মাতা তৈরি করছেন ব্যতিক্রমী এক ভিডিও গেম। ‘দ্য লাস্ট পিলার: হজ’ নামের এই গেমটি আবর্তিত হয়েছে পবিত্র মক্কা নগরী ও মসজিদুল হারামের পরিচ্ছন্নতাকর্মীদের জীবন ও সেবাকে কেন্দ্র করে। ‘ক্রিসেন্ট ডায়াল গেমস’-এর ব্যানারে নির্মিত একক খেলোয়াড়ভিত্তিক এই গেমের বিনা মূল্যের পরীক",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:46:50+00:00"
-    },
-    {
-      "title": "নড়াইলের বেন্দারচরে ৬০টির বেশি ঘর ও দোকানে ভাঙচুর–আগুনের ক্ষতচিহ্ন, পুলিশের টহলেও কাটেনি আতঙ্ক",
-      "link": "https://www.prothomalo.com/bangladesh/district/jwb3sfug5j",
-      "summary": "নড়াইলের কালিয়ার বেন্দারচরে গত শুক্রবারের হামলা–ভাঙচুর–অগ্নিসংযোগের পর ভয়ে অনেকে রাতে নিজেদের বাড়িঘরে থাকছেন না।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:45:45+00:00"
-    },
-    {
       "title": "COP31: Climate deal 'not adopted,' summit president says",
       "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "The summit was extended as nations worked to reach a deal, but they couldn't agree on including fossil fuels. European nations, small island states and activists have criticized oil-producing countries for the impasse.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-22T12:39:00+00:00"
-    },
-    {
-      "title": "আবারও আলোচনায় নেতানিয়াহু ও আইজেনকটের দল, লক্ষ্য আরব দল বাদে সরকার গঠন",
-      "link": "https://www.prothomalo.com/world/middle-east/ka6mjfv2ck",
-      "summary": "ইসরায়েলের তত্ত্বাবধায়ক প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ও তাঁর প্রতিদ্বন্দ্বী গাদি আইজেনকটের দল আজ রোববার নতুন করে আলোচনা শুরু করতে যাচ্ছে। জোট সরকার গঠন করা যায় কি না, তা নিয়ে তাঁদের মধ্যে এ আলোচনা হবে। ইসরায়েলের টেলিভিশন চ্যানেল ১৪-এর খবরে বলা হয়েছে, তেল আবিবের কাছে হার্জলিয়ায় একটি হোটেলে স্থানীয় সময় বেলা একটায় (গ্রিনিচ মান সময় সকাল ১১টা) বৈঠকে বসবে আইজে",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:35:25+00:00"
-    },
-    {
-      "title": "৩৮০ উদ্যোক্তার দেশীয় পণ্যের পসরা নিয়ে শুরু হলো ১৩তম জাতীয় এসএমই পণ্য মেলা",
-      "link": "https://www.haal.fashion/arrangement/event/hre0p01obl",
-      "summary": "উদ্যোক্তাদের তৈরি পণ্যের প্রচার, প্রসার ও বিপণনের সুযোগ তৈরি করতে আগারগাঁওয়ে আয়োজিত এই মেলায় এক ছাদের নিচে মিলেছে দেশীয় নানা পণ্য।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:32:38+00:00"
-    },
-    {
-      "title": "চীনা ভ্লগারদের ভিডিওতে আলোচিত টেকপাড়া, উত্তরা বদলালেও বদলায়নি যে জনপদ",
-      "link": "https://www.prothomalo.com/bangladesh/capital/oeo8jzn0mi",
-      "summary": "চীনা নাগরিকদের ভিডিওতে আলোচনায় আসা উত্তরার টেকপাড়া একসময় ছিল কৃষিজমি ও জলাভূমি। পরিকল্পিত উত্তরা গড়ে উঠলেও জনপদটি রয়ে গেছে নাগরিক সুবিধাবঞ্চিত।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T12:31:47+00:00"
     },
     {
       "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
@@ -722,92 +802,12 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-22T09:34:15+00:00"
-    },
-    {
-      "title": "Restored wells bring life back to Hebron’s occupied Old City",
-      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-      "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T09:33:16+00:00"
-    },
-    {
-      "title": "Photos: People rally across France over living costs, public services",
-      "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
-      "summary": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T09:27:48+00:00"
-    },
-    {
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T09:20:45+00:00"
-    },
-    {
-      "title": "প্রেশার কুকারে খাবার দ্রুত সেদ্ধ হয় কেন",
-      "link": "https://www.bigganchinta.com/physics/075sailm7v",
-      "summary": "ধরুন, আপনার বাসায় মেহমান এসেছে। আপনি সিদ্ধান্ত নিলেন অতিথিদের মাংস রান্না করে খাওয়াবেন। কিন্তু হাতে সময় একদমই কম। সাধারণ হাঁড়িতে ডাল বা মাংস সেদ্ধ হতে বেশ খানিকটা সময় লাগে। তাই ভাবলেন, আজ প্রেশার কুকারেই মাংস রান্না করি! রান্নাও দ্রুত হবে, অতিথিসেবাও হয়ে যাবে। কিন্তু কখনো কি ভেবেছেন, একই পানি, একই খাবার আর প্রায় একই তাপ ব্যবহার করেও প্রেশার কুকারে রান্না এত ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T09:09:57+00:00"
-    },
-    {
-      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-      "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T09:06:27+00:00"
-    },
-    {
-      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
-      "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The Philippines wanted a South China Sea code of conduct in place by 2026. But persistent disagreements between China and ASEAN countries are slowing progress toward a deal.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-22T08:45:00+00:00"
-    },
-    {
-      "title": "Inspired by Bernie Sanders: A German agency is using US-Style campaigning to boost the left in 2029",
-      "link": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "\"The Goodforces\" wants to see a swing to the left in the 2029 German elections. The agency counts New York Mayor Zohran Mamdani and Bernie Sanders among its inspirations. Could it transform the political landscape?",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-22T08:39:00+00:00"
-    },
-    {
-      "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
-      "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T08:11:40+00:00"
-    },
-    {
-      "title": "Germany news: IG Metall union calls for new 24-hour strike",
-      "link": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Germany's biggest single union, IG Metall, is calling on car and shipyard workers to strike amid a pay row. Meanwhile, Germany's president is setting off on an Africa trip. DW has more.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-22T08:07:00+00:00"
-    },
-    {
-      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
-      "summary": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T07:59:29+00:00"
     }
   ],
   "sourceErrors": [
     "The Daily Star: no items parsed",
     "bdnews24.com: not well-formed (invalid token): line 8, column 46",
-    "Bangla News 24: HTTP Error 404: Not Found",
+    "Bangla News 24: HTTP Error 403: Forbidden",
     "Jugantor: HTTP Error 403: Forbidden",
     "Kaler Kantho: HTTP Error 403: Forbidden"
   ],
