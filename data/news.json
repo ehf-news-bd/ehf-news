@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-11-22T22:07:44.755095+00:00",
+  "updatedAt": "2026-11-22T23:06:36.280719+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "Russian ship attacked near Benghazi in suspected drone attack",
+      "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+      "summary": "Authorities in divided Libya's east said a Russian ship docked at the Benghazi port was hit on Sunday in a suspected drone attack, causing a blast but no casualties. There was no immediate claim of responsibility for the strike, but it comes as Ukrainian forces have stepped up their long-range barrages against Russia far beyond the front lines.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T22:37:45+00:00"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-22T22:37:43+00:00"
+    },
+    {
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+      "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T22:37:38+00:00"
+    },
+    {
+      "title": "ইরানের বিরুদ্ধে ফের যুদ্ধ শুরুর ইঙ্গিত ট্রাম্পের",
+      "link": "https://www.jagonews24.com/international/news/1182514",
+      "summary": "ইরানের সঙ্গে কোনো চুক্তি না হলে দেশটির বিরুদ্ধে আবারও যুদ্ধ শুরু করার দিকে ঝুঁকতে পারেন বলে জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-22T22:25:45+00:00"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T22:19:47+00:00"
+    },
+    {
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-22T22:01:48+00:00"
+    },
     {
       "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
       "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
@@ -228,14 +276,6 @@
       "published": "2026-11-22T18:46:55+00:00"
     },
     {
-      "title": "পরিবারকে আক্রমণ করলে চুপ থাকবেন না, ‘যোদ্ধা’ হয়ে উঠবেন রাশমিকা",
-      "link": "https://www.prothomalo.com/entertainment/bollywood/f9kccs8qz1",
-      "summary": "রাশমিকা জানিয়েছেন, আগে নেতিবাচক মন্তব্যের জবাব দিতেন। কিন্তু এখন আর সেই পথে হাঁটেন না। তাঁর উপলব্ধি হয়েছে, ট্রলের সঙ্গে তর্কে জড়ানো সময়ের অপচয় ছাড়া কিছু নয়।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:45:00+00:00"
-    },
-    {
       "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
       "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
       "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
@@ -250,22 +290,6 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-22T18:39:47+00:00"
-    },
-    {
-      "title": "টোলের তথ্য গোপনের অভিযোগে দুদকের অভিযান",
-      "link": "https://www.prothomalo.com/bangladesh/crime/q39p8qnky6",
-      "summary": "ঢাকা এলিভেটেড এক্সপ্রেসওয়েতে যানবাহন চলাচলের প্রকৃত সংখ্যা গোপন করে সরকারকে রাজস্ব থেকে বঞ্চিত করার অভিযোগ অনুসন্ধানে অভিযান চালিয়েছে দুর্নীতি দমন কমিশন (দুদক)। গতকাল রোববার দুদকের তিন সদস্যের একটি দল এ অভিযান চালায়। দুদকের এনফোর্সমেন্ট ইউনিটের দলটি তেজগাঁও ও কুড়িল টোল প্লাজা সরেজমিনে পরিদর্শন করে। এ সময় সংশ্লিষ্ট তথ্য-উপাত্ত ও রেকর্ডপত্র সংগ্রহ করা হয়। প্রা",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:35:20+00:00"
-    },
-    {
-      "title": "শিশুকে বাঁচাতে হাসপাতালে ছুটলেন হুইপ, তবু শেষ রক্ষা হলো না",
-      "link": "https://www.prothomalo.com/video/bangladesh/9olxb85n3w",
-      "summary": "গ্রামের বাড়ি থেকে ফেরার পথে পানিতে ডুবে যাওয়া শিশুকে উদ্ধার করে হাসপাতালে নেন হুইপ রুহুল কুদ্দুস তালুকদার। তবে শেষ পর্যন্ত বাঁচানো যায়নি তাকে। বিস্তারিত ভিডিও প্রতিবেদনে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:33:17+00:00"
     },
     {
       "title": "পচেত্তিনোর দুঃস্বপ্নের অভিষেক, ইউনাইটেডকে ৪-০ গোলে উড়িয়ে দিল লিভারপুল",
@@ -284,28 +308,12 @@
       "published": "2026-11-22T18:30:55+00:00"
     },
     {
-      "title": "‘শত বছর পরও সুকান্ত আমাদের কাছে সেই ২১ বছরের যুবক’",
-      "link": "https://www.prothomalo.com/entertainment/klyzybm2qg",
-      "summary": "বাংলাদেশ গণশিল্পী সংস্থা, খুলনার উদ্যোগে এবং কবি সুকান্ত ভট্টাচার্য জন্মশতবর্ষ উদ্‌যাপন কমিটির আয়োজনে অনুষ্ঠানটি হয় উমেশ চন্দ্র পাবলিক লাইব্রেরি মিলনায়তনে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:30:00+00:00"
-    },
-    {
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-22T18:29:46+00:00"
-    },
-    {
-      "title": "ডাকসু ভিপি সাদিক কায়েমের বাড়িতে অগ্নিসংযোগের প্রতিবাদে ডাকসু নেতাদের মশাল মিছিল",
-      "link": "https://www.prothomalo.com/politics/8km4qiaggk",
-      "summary": "ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের (ডাকসু) সহসভাপতি (ভিপি) সাদিক কায়েমের বাড়িতে অগ্নিসংযোগ এবং জুলাই বিপ্লবী ও তাঁদের পরিবারের সদস্যদের ওপর ধারাবাহিক হামলার প্রতিবাদে মশাল মিছিল করেছেন ডাকসুর নেতারা। তাঁরা কয়েক দিন ধরে দেশের বিভিন্ন স্থানে নৈরাজ্য ও সহিংসতা নিয়ন্ত্রণে সরকারের ভূমিকা নিয়ে প্রশ্ন তুলেছেন। পাশাপাশি কার্যক্রম নিষিদ্ধ আওয়ামী লীগের বিরুদ্ধে",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:22:20+00:00"
     },
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
@@ -348,14 +356,6 @@
       "published": "2026-11-22T18:04:25+00:00"
     },
     {
-      "title": "পরিচয় গোপন করে দুই মাস ধরে লক্ষ্মীপুরে আত্মগোপনে ছিলেন ‘বোমারু মামুন’",
-      "link": "https://www.prothomalo.com/bangladesh/district/xny2tq569i",
-      "summary": "গ্রেপ্তারের প্রায় দুই মাস আগে পরিচয় গোপন করে ওই বাড়ি ভাড়া নেন মামুন। সেখানে এক নারী ও এক পুরুষের সঙ্গে বসবাস করতেন তিনি।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T18:02:55+00:00"
-    },
-    {
       "title": "Cox’s Bazar: Rohingya Life in Exile",
       "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
       "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
@@ -370,22 +370,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-22T18:00:00+00:00"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T17:57:43+00:00"
-    },
-    {
-      "title": "পশ্চিমবঙ্গের পেট্রাপোল সীমান্তে নানক–নাছিমসহ কার্যক্রম নিষিদ্ধ আ.লীগের নেতারা",
-      "link": "https://www.prothomalo.com/politics/dej54h7rlr",
-      "summary": "বিধায়ক স্বপন মজুমদার স্থানীয় সংবাদমাধ্যমকে বলেন, এই পথ অর্থাৎ কলকাতা থেকে যশোর রোড ধরে বনগাঁ ও পেট্রাপোল হয়ে শেখ হাসিনা দেশে প্রবেশ করতে পারেন।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T17:52:39+00:00"
     },
     {
       "title": "চবির শাটল ট্রেনে কেরোসিন ঢেলে আগুন দেওয়ার চেষ্টা দুর্বৃত্তদের",
@@ -418,14 +402,6 @@
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T17:40:15+00:00"
-    },
-    {
-      "title": "টাইমস অব বাংলাদেশের ভারপ্রাপ্ত সম্পাদক ইলিয়াস খান",
-      "link": "https://www.prothomalo.com/bangladesh/dqew5dslly",
-      "summary": "সাংবাদিক ইলিয়াস খান টাইমস অব বাংলাদেশের ভারপ্রাপ্ত সম্পাদকের দায়িত্ব গ্রহণ করেছেন। সম্প্রতি তিনি আনুষ্ঠানিকভাবে এ দায়িত্ব নেওয়ার আগে পত্রিকাটির উপদেষ্টা সম্পাদকের দায়িত্বে ছিলেন। সাংবাদিক নেতা ইলিয়াস খান বিভিন্ন গণমাধ্যম ও সাংবাদিক সংগঠনে দীর্ঘ তিন দশক ধরে কাজ করছেন। টেলিভিশন টক শোতে পরিচিত মুখ তিনি। জাপানের ফরেন প্রেস সেন্টারের (এফপিসি) ফেলো ইলিয়াস খান ঢাকা",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T17:19:49+00:00"
     },
     {
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
@@ -492,6 +468,14 @@
       "published": "2026-11-22T16:50:00+00:00"
     },
     {
+      "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+      "link": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+      "summary": "Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T16:38:14+00:00"
+    },
+    {
       "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
       "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
       "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
@@ -532,17 +516,9 @@
       "published": "2026-11-22T16:23:23+00:00"
     },
     {
-      "title": "চলে গেলেন জাপানপ্রবাসী বিশিষ্ট সাংবাদিক ও লেখক মনজুরুল হক",
-      "link": "https://www.prothomalo.com/bangladesh/gktyjt8zcv",
-      "summary": "টোকিওর অদূরে ফুটাবা শহরে তাঁর নিজের বাসায় গতকাল ইন্তেকাল করেছেন। জাপানেই তাঁকে দাফনের ব্যবস্থা করা হবে। এ-সংক্রান্ত বিস্তারিত তথ্য পরে জানানো হবে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-22T16:20:51+00:00"
-    },
-    {
       "title": "ওভারটেক করতে গিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালক নিহত",
       "link": "https://www.jagonews24.com/country/news/1182499",
-      "summary": "ঢাকা-সিলেট মহাসড়কের সোনারগাঁয়ে ওভারটেক করতে গিয়ে নিয়ন্ত্রণ হারিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালকের মৃত্যু হয়েছে...",
+      "summary": "ওভারটেক করতে গিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালক নিহত",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-22T16:15:14+00:00"
@@ -684,44 +660,12 @@
       "published": "2026-11-22T15:24:20+00:00"
     },
     {
-      "title": "ধারাবাহিকভাবে ব্যাংকে ফিরছে মানুষের হাতে থাকা নগদ টাকা",
-      "link": "https://www.jagonews24.com/economy/news/1182484",
-      "summary": "ধারাবাহিকভাবে ব্যাংকে ফিরছে মানুষের হাতে থাকা নগদ টাকা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-22T15:20:50+00:00"
-    },
-    {
       "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
       "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-22T15:09:00+00:00"
-    },
-    {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T15:03:38+00:00"
-    },
-    {
-      "title": "The Drugs Don’t Work",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-      "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T14:51:39+00:00"
-    },
-    {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "summary": "Three Russian attacks kill at least six people near Kyiv as overnight Russian shelling kills one in Zaporizhzhia.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-22T14:48:50+00:00"
     },
     {
       "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
@@ -802,6 +746,62 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-22T10:25:52+00:00"
+    },
+    {
+      "title": "Princess of Wales opens up about cancer",
+      "link": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
+      "summary": "A new documentary titled Heal follows Britain’s Princess Catherine as she navigates life since her cancer diagnosis in 2024. The film tracks the 44-year-old as she attempts to climb the highest mountains in Scotland, England and Wales within 24 hours. In the trailer, she reflects on healing as a journey. Ophelie Jacobson reports.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T10:07:02+00:00"
+    },
+    {
+      "title": "South Korea: AI cheating sparks exam security chaos",
+      "link": "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
+      "summary": "South Korea’s education minister resigned on Sunday following a major cheating scandal that erupted just ahead of the country’s university entrance exams. The controversy centred on the top scorer in a national tax accountant exam, who admitted to using a miniature camera and smartphone to secure a near-perfect result. Jack Pownall reports.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T10:05:28+00:00"
+    },
+    {
+      "title": "Europe sees new protests over rising costs, inequality and public services",
+      "link": "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
+      "summary": "Sunday marks the third consecutive day of protests across Europe, following large demonstrations on Friday and smaller rallies on Saturday, from Portugal to France. The protests have largely focused on the rising cost of living and access to affordable housing. In France, demonstrations have now taken place for six weekends in a row. Ophelie Jacobson reports",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T09:41:29+00:00"
+    },
+    {
+      "title": "English village votes to \"leave UK\"",
+      "link": "https://www.france24.com/en/english-village-votes-to-leave-uk",
+      "summary": "Residents of the small English village of Barnham voted on Saturday in a symbolic referendum to leave the UK, in protest against government plans to house 931 asylum seekers at a nearby former air force base – more than the village’s own population of 584. The vote follows a similar protest in another village in September, highlighting growing tensions over ",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T09:40:05+00:00"
+    },
+    {
+      "title": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
+      "link": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
+      "summary": "NATO officials and defence experts gathered at the NATO Edge conference in Turkey this week to discuss how militaries can harness artificial intelligence and high tech without compromising control over sensitive data and defence capabilities.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-22T09:34:15+00:00"
+    },
+    {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-22T09:20:45+00:00"
+    },
+    {
+      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+      "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The Philippines wanted a South China Sea code of conduct in place by 2026. But persistent disagreements between China and ASEAN countries are slowing progress toward a deal.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-22T08:45:00+00:00"
     }
   ],
   "sourceErrors": [
