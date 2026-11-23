@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-11-23T21:40:02.736896+00:00",
+  "updatedAt": "2026-11-23T22:39:35.184883+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+      "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The Trump administration has added Megaspeed to a trade blacklist after tensions over its failure to do so raised questions. The news came the same day that Jensen Huang was reinstated as Nvidia's CEO.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-23T22:35:00+00:00"
+    },
+    {
+      "title": "নির্বাচনের আগে দেওয়া প্রতিশ্রুতি আমৃত্যু রক্ষা করবো: ডেপুটি স্পিকার",
+      "link": "https://www.jagonews24.com/country/news/1182922",
+      "summary": "নেত্রকোনার দুর্গাপুর ও কলমাকান্দাকে উন্নয়ন, শিক্ষা, শান্তি ও মানবিকতার আদর্শ জনপদ হিসেবে গড়ে তুলতে সবাইকে ঐক্যবদ্ধভাবে কাজ করার আহ্বান জানিয়েছেন জাতীয় সংসদের ডেপুটি...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-23T22:21:05+00:00"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T22:15:26+00:00"
+    },
+    {
+      "title": "মঠবাড়িয়ায় সম্ভাব্য দুই চেয়ারম্যান প্রার্থীর সমর্থকদের সংঘর্ষ, আহত ৬",
+      "link": "https://www.jagonews24.com/country/news/1182921",
+      "summary": "পিরোজপুরের মঠবাড়িয়া উপজেলায় ইউনিয়ন পরিষদ নির্বাচনের দুই চেয়ারম্যান প্রার্থীর সমর্থকদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে উভয় পক্ষের অন্তত ছয়জন আহত হয়েছেন...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-23T21:56:49+00:00"
+    },
     {
       "title": "খাতা পুনর্নিরীক্ষণে দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী",
       "link": "https://www.jagonews24.com/country/news/1182920",
@@ -308,20 +340,20 @@
       "published": "2026-11-23T18:43:24+00:00"
     },
     {
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T18:43:00+00:00"
+    },
+    {
       "title": "Tajikistan follows US call, withdraws from ICC",
       "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Tajikistan has initiated its withdrawal from the International Criminal Court as the US calls for it to be \"dismantled.\" The decision was made during a recent visit from Russian President Vladimir Putin.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-23T18:40:00+00:00"
-    },
-    {
-      "title": "তরুণদের মাদক থেকে দূরে রাখতে খেলাধুলার বিকল্প নেই",
-      "link": "https://www.prothomalo.com/bangladesh/capital/fmv374v3rt",
-      "summary": "এম রশিদুজ্জামান মিল্লাত বলেন, নগর উন্নয়ন শুধু রাস্তাঘাট ও অবকাঠামো নির্মাণের মধ্যে সীমাবদ্ধ নয়। নগরবাসীর সুস্থতা, তরুণদের ইতিবাচক কর্মকাণ্ডে সম্পৃক্ত করা এবং খেলাধুলার সুযোগ নিশ্চিত করাও প্রকৃত নগর উন্নয়নের অংশ।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T18:29:27+00:00"
     },
     {
       "title": "What Russian warship did Ukraine just sink?",
@@ -340,22 +372,6 @@
       "published": "2026-11-23T18:23:02+00:00"
     },
     {
-      "title": "কর্তৃপক্ষের পূর্বানুমতি ছাড়া কর্মস্থল ত্যাগ না করতে অধস্তন আদালতের বিচারকদের প্রতি নির্দেশনা",
-      "link": "https://www.prothomalo.com/bangladesh/4peqfbxsjh",
-      "summary": "প্রতি কর্মদিবসে যথাসময়ে নিজ নিজ কর্মস্থলে উপস্থিত থাকা ও যথাযথ কর্তৃপক্ষের পূর্বানুমতি ছাড়া কোনো বিচার বিভাগীয় কর্মকর্তা কর্মদিবসে নিজ কর্মস্থল ত্যাগ না করেন এবং সপ্তাহ শেষে পরবর্তী কার্যদিবসে কর্মস্থলে যোগদানে দেরি না করার বিষয়ে নির্দেশনা সংবলিত সার্কুলার জারি করেছে সুপ্রিম কোর্ট প্রশাসন। প্রধান বিচারপতির আদেশে সোমবার এ বিষয়ে সার্কুলার জারি করেছে সুপ্রিম কো",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T18:16:54+00:00"
-    },
-    {
-      "title": "আবার এনভিডিয়ার সিইও পদে ফিরলেন জেনসেন হুয়াং",
-      "link": "https://www.prothomalo.com/video/international/xo6h1z6kmn",
-      "summary": "এনভিডিয়ার সিইও পদে আবার ফিরিয়ে আনা হয়েছে জেনসেন হুয়াংকে। অবিলম্বে এ সিদ্ধান্ত কার্যকর হবে। বিস্তারিত ভিডিওতে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T18:15:34+00:00"
-    },
-    {
       "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
       "link": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
       "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
@@ -372,14 +388,6 @@
       "published": "2026-11-23T18:07:09+00:00"
     },
     {
-      "title": "বিয়ে ও চাকরির প্রলোভনে পাহাড়ের নারীদের চীনে পাচার, পাঁচ বছরে ৭৩০টি ঘটনা",
-      "link": "https://www.prothomalo.com/bangladesh/district/1ykc3d2fjk",
-      "summary": "বিয়ে, চাকরি ও উন্নত জীবনের প্রলোভন দেখিয়ে পার্বত্য চট্টগ্রামের নারী ও কিশোরীদের চীনে পাচারের ঝুঁকি বাড়ছে। ২০২০ থেকে ২০২৫ সাল পর্যন্ত তিন পার্বত্য জেলায় মানব পাচারের ৭৩০টির বেশি ঘটনা নথিভুক্ত হয়েছে। এর মধ্যে খাগড়াছড়িতে প্রায় ৪০০, রাঙামাটিতে ৩০০ এবং বান্দরবানে ৩০টি ঘটনা রয়েছে। পাচারের প্রকৃত সংখ্যা আরও বেশি হতে পারে; কারণ সামাজিক ভয় ও লোকলজ্জার কারণে অনেকে তা ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T18:07:01+00:00"
-    },
-    {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
       "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
@@ -388,28 +396,12 @@
       "published": "2026-11-23T18:04:20+00:00"
     },
     {
-      "title": "বিশ্বে সবচেয়ে বেশি সোনার মালিক কোন দেশ, বাংলাদেশের মজুত কত টন?",
-      "link": "https://www.prothomalo.com/business/world-business/ebhkq5yi6i",
-      "summary": "২০০৯ সালের বৈশ্বিক আর্থিক সংকটের পর থেকে বিভিন্ন দেশের কেন্দ্রীয় ব্যাংককে সোনা মজুতের প্রবণতা অনুসরণ করতে দেখা গেছে। তার আলোকে কোন দেশে কি পরিমাণ সোনার মজুত আছে, তা দেখা নেওয়া যেতে পারে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T18:01:49+00:00"
-    },
-    {
       "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
       "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
       "summary": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-23T18:00:23+00:00"
-    },
-    {
-      "title": "শৈলকুপায় আধিপত্য বিস্তার নিয়ে বিএনপির দুপক্ষের সংঘর্ষ, আহত ১৫, বাড়ি ও দোকান ভাঙচুর",
-      "link": "https://www.prothomalo.com/bangladesh/district/qk3bt7lza6",
-      "summary": "ঝিনাইদহের শৈলকুপায় আধিপত্য বিস্তার নিয়ে দুই পক্ষের সংঘর্ষে অন্তত ১৫ জন আহত হয়েছেন। এ সময় উভয় পক্ষের অন্তত ২৮টি বাড়িঘর ও ব্যবসাপ্রতিষ্ঠানে ভাঙচুরের ঘটনা ঘটেছে। পরিস্থিতি নিয়ন্ত্রণে এলাকায় পুলিশ মোতায়েন করা হয়েছে। সোমবার বেলা তিনটা থেকে বিকেল পাঁচটা পর্যন্ত উপজেলার হাকিমপুর ইউনিয়নের দোহারো গ্রামে এ ঘটনা ঘটে। সংঘর্ষে জড়ানো দুই পক্ষের লোকজন বিএনপির রাজনীতির সঙ্গ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T17:59:14+00:00"
     },
     {
       "title": "'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign",
@@ -428,22 +420,6 @@
       "published": "2026-11-23T17:50:13+00:00"
     },
     {
-      "title": "মজুরি বোর্ডের পৌনে ৯ ঘণ্টার সভা শেষে মুলতবি, মঙ্গলবার আবার বৈঠক",
-      "link": "https://www.prothomalo.com/business/industry/pf6u369e5t",
-      "summary": "মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানী সাংবাদিকদের বলেন, ‘আজকের সভা আমরা মুলতবি করেছি। কাল মঙ্গলবার বেলা দুইটায় এই মুলতবি সভা আবার শুরু হবে।’",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T17:42:45+00:00"
-    },
-    {
-      "title": "দক্ষিণ আফ্রিকার বিপক্ষে ব্যাটিং–বিপর্যয়, ৯১ রানেই অলআউট বাংলাদেশ",
-      "link": "https://www.prothomalo.com/video/sports/k32m5fkr0n",
-      "summary": "জোহানেসবার্গে বড় হারের পর এবার সেঞ্চুরিয়নে ব্যাটিং–বিপর্যয়ের মুখে পড়ল লাল–সবুজের বাংলাদেশ। বিস্তারিত ভিডিও প্রতিবেদনে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T17:42:16+00:00"
-    },
-    {
       "title": "Tajikistan moves to leave ICC amid US push against court",
       "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
       "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
@@ -458,14 +434,6 @@
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T17:33:50+00:00"
-    },
-    {
-      "title": "‘আকভান’ আসেনি: তবু কেন এত্ত ক্ষতি",
-      "link": "https://www.prothomalo.com/bangladesh/p5vfl3dh5b",
-      "summary": "কোথাও মাঠে কেটে রাখা পাকা ধান বৃষ্টির পানিতে তলিয়ে গেছে, কোথাও ধান ডুবে গেছে পানিতে, কোথাও শীতের সবজির বীজতলা আবার কোথাওবা পেঁয়াজ বীজতলা, আলুখেত ভেসে গেছে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T17:32:39+00:00"
     },
     {
       "title": "ঈশ্বরদীতে আধিপত্য বিস্তার নিয়ে গোলাগুলি-বাড়িতে আগুন, গুলিবিদ্ধ ৫",
@@ -502,7 +470,7 @@
     {
       "title": "পোশাকশ্রমিকদের নতুন মজুরি নির্ধারণে মঙ্গলবার বসছে চতুর্থ সভা",
       "link": "https://www.jagonews24.com/economy/news/1182907",
-      "summary": "তৈরি পোশাকশিল্পে কর্মরত সব শ্রেণির শ্রমিক ও কর্মচারীর নিম্নতম মজুরি নির্ধারণে সুপারিশ প্রণয়নের লক্ষ্যে মঙ্গলবার (২৪ নভেম্বর) চতুর্থ সভায় বসছে নিম্নতম মজুরি বোর্ড...",
+      "summary": "পোশাকশ্রমিকদের নতুন মজুরি নির্ধারণে মঙ্গলবার বসছে চতুর্থ সভা",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T17:08:06+00:00"
@@ -518,7 +486,7 @@
     {
       "title": "ভালুকায় স্বামীকে বাইরে ডেকে গৃহবধূকে ধর্ষণের অভিযোগ, গ্রেফতার ৩",
       "link": "https://www.jagonews24.com/country/news/1182906",
-      "summary": "ময়মনসিংহের ভালুকায় গভীর রাতে স্বামীকে কৌশলে ঘরের বাইরে নিয়ে গিয়ে স্ত্রীকে ধর্ষণের অভিযোগ উঠেছে বাড়িওয়ালার ছেলে ও তার দুই সহযোগীর বিরুদ্ধে...",
+      "summary": "ভালুকায় স্বামীকে বাইরে ডেকে গৃহবধূকে ধর্ষণের অভিযোগ, গ্রেফতার ৩",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T17:00:30+00:00"
@@ -676,14 +644,6 @@
       "published": "2026-11-23T15:50:11+00:00"
     },
     {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-23T15:49:52+00:00"
-    },
-    {
       "title": "12,000 evacuated from Don Toliver concert after unknown substance sickens fans",
       "link": "https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans",
       "summary": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver and over 80 were treated by medics after an unknown irritant was released in the crowd, authorities in the English city of Manchester said Monday.",
@@ -796,12 +756,52 @@
       "published": "2026-11-23T15:19:44+00:00"
     },
     {
-      "title": "জাবিতে এক দশকে কমেছে প্রজাপতির ৩০ প্রজাতি, হুমকিতে আবাসস্থল",
-      "link": "https://www.jagonews24.com/campus/news/1182892",
-      "summary": "জাবিতে এক দশকে কমেছে প্রজাপতির ৩০ প্রজাতি, হুমকিতে আবাসস্থল",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-23T15:18:14+00:00"
+      "title": "France's socioeconomic crisis: Macron 'trying to impose fiscal discipline on his successor'",
+      "link": "https://www.france24.com/en/france-s-socioeconomic-crisis-macron-trying-to-impose-fiscal-discipline-on-his-successor",
+      "summary": "Charli James is pleased to welcome Andrew Smith, Historian of Modern France and Lecturer in Liberal Arts at Queen Mary University of London. He argues that Emmanuel Macron is seeking to \"impose fiscal discipline on his successor as president\" after \"presiding over quite a substantial deterioration in the public finances.\" For Smith, the difficulty is that \"i",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-23T15:15:37+00:00"
+    },
+    {
+      "title": "Brazil coach mistaken for pitch invader, put in headlock",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss",
+      "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T15:15:36+00:00"
+    },
+    {
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T14:55:14+00:00"
+    },
+    {
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T14:54:03+00:00"
+    },
+    {
+      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+      "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-23T14:49:00+00:00"
+    },
+    {
+      "title": "Dhaka bursting at the seams: Bangladeshi capital faces public health, housing crisis",
+      "link": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
+      "summary": "The Bangladeshi capital Dhaka is one of the most densely populated places on Earth, with over 35,000 people per square kilometre, compared with 20,000 in Paris. Every year, 400,000 people from across Bangladesh move to the city. Its rapid and unplanned growth is triggering a crisis in housing, transport and public health. FRANCE 24's Gabrielle Gohin and Navo",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-23T14:39:25+00:00"
     }
   ],
   "sourceErrors": [
