@@ -1,8 +1,112 @@
 {
-  "updatedAt": "2026-11-23T19:52:24.939026+00:00",
+  "updatedAt": "2026-11-23T20:40:06.942930+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "আইসিইউতে শনাক্ত জীবাণুর ৯৩% বহু অ্যান্টিবায়োটিক প্রতিরোধী",
+      "link": "https://www.prothomalo.com/bangladesh/kgfs8223dh",
+      "summary": "‘অ্যান্টিমাইক্রোবিয়াল রেজিস্ট্যান্স: বর্তমান পরিস্থিতি ও করণীয়’ শীর্ষক গোলটেবিল বৈঠকের আয়োজন করে বিএসএমএম। প্রচার সহযোগী ছিল প্রথম আলো।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-23T20:33:52+00:00"
+    },
+    {
+      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+      "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T20:26:40+00:00"
+    },
+    {
+      "title": "Turkish police hunting for lioness stalking Istanbul",
+      "link": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+      "summary": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T20:22:28+00:00"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+      "summary": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T20:22:12+00:00"
+    },
+    {
+      "title": "মালয়েশিয়া থেকে ঢাকার ‘অপরাধ নিয়ন্ত্রণ করতেন’ সুইডেন আসলাম",
+      "link": "https://www.prothomalo.com/bangladesh/crime/mh5rhu6ccp",
+      "summary": "মালয়েশিয়া থেকে ৪ নভেম্বর ঢাকায় আসেন সুইডেন আসলাম। আবার যাওয়ার পথে বিমানবন্দরে গ্রেপ্তার।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-23T20:12:23+00:00"
+    },
+    {
+      "title": "Denmark: Top court backs hardline immigration \"ghetto law\"",
+      "link": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Denmark's Supreme Court has found that evictions of \"non-Western\" residents do not amount to discrimination. The government in Copenhagen argues its \"ghetto law\" encourages integration.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-23T20:08:00+00:00"
+    },
+    {
+      "title": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে অঙ্গীকারবদ্ধ চীন",
+      "link": "https://www.prothomalo.com/bangladesh/z6rmeme3cb",
+      "summary": "নেতৃত্ব পর্যায়ে কৌশলগত সমন্বয় নিশ্চিত হলেই কেবল রাজনৈতিক পালাবদলের মধ্যেও পৃথক প্রকল্পগুলোর ধারাবাহিকতা বজায় রাখা সম্ভব বলে মন্তব্য করেছেন ঢাকায় নিযুক্ত চীনের ভারপ্রাপ্ত রাষ্ট্রদূত লিউ ইউয়িন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-23T20:04:32+00:00"
+    },
+    {
+      "title": "Protesting Bangladesh garment workers reject pay offer",
+      "link": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+      "summary": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T20:03:48+00:00"
+    },
+    {
+      "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+      "link": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+      "summary": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T20:01:41+00:00"
+    },
+    {
+      "title": "পল্টনে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কর্মী সন্দেহে একজনকে মারধর",
+      "link": "https://www.prothomalo.com/bangladesh/crime/udw8n2wt4j",
+      "summary": "ওই ব্যক্তির নাম রায়হান রনি (৪০)। সোমবার রাত সাড়ে সাতটার দিকে পল্টনের কালভার্ট রোডে এ ঘটনা ঘটে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-23T20:01:30+00:00"
+    },
+    {
+      "title": "ফতুল্লায় বিএনপি কার্যালয়ে আগুন, আসামি ছাত্রদলের সাবেক নেতা ও তার বাবা",
+      "link": "https://www.jagonews24.com/country/news/1182918",
+      "summary": "নারায়ণগঞ্জের ফতুল্লায় বিএনপির কার্যালয়ে অগ্নিসংযোগের ঘটনায় দায়ের করা মামলায় পারিবারিক ও রাজনৈতিক বিরোধের জেরে জেলা ছাত্রদলের সাবেক এক নেতা এবং তার বাবাকে আসামি করার অভিযোগ উঠেছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-23T19:52:26+00:00"
+    },
+    {
+      "title": "As tech outages mount, some New Yorkers prepare for the worst",
+      "link": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+      "summary": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T19:43:45+00:00"
+    },
+    {
+      "title": "CEO Jensen Huang returns to Nvidia’s office",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
+      "summary": "Employees at Nvidia cheered as CEO Jensen Huang returned to the office",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T19:40:41+00:00"
+    },
     {
       "title": "হাতিরঝিলে সন্ত্রাসীদের গুলি ও ধারালো অস্ত্রের আঘাতে দুই অটোরিকশাচালক আহত",
       "link": "https://www.prothomalo.com/bangladesh/crime/bi0u6igoyr",
@@ -28,7 +132,7 @@
       "published": "2026-11-23T19:22:04+00:00"
     },
     {
-      "title": "আফ্রিকার খনিজ সম্পদ নিয়ে যুক্তরাষ্ট্র, রাশিয়া ও চীনের লড়াই, এগিয়ে কে",
+      "title": "আফ্রিকার খনিজ সম্পদ নিয়ে ৩ দেশের লড়াই, এগিয়ে কে",
       "link": "https://www.prothomalo.com/world/africa/uavasq6vei",
       "summary": "আফ্রিকার খনিজ সম্পদ নিয়ে প্রতিযোগিতার কেন্দ্রে রয়েছে ডেমোক্রেটিক রিপাবলিক অব দ্য কঙ্গো (ডিআরসি)। দেশটি বিশ্বে সবচেয়ে বেশি কোবাল্ট উৎপাদন করে।",
       "source": "Prothom Alo",
@@ -428,44 +532,12 @@
       "published": "2026-11-23T16:36:22+00:00"
     },
     {
-      "title": "পরীক্ষা ছাড়াই ‘ভেজাল’ ঘোষণা করায় ভোক্তা অধিদপ্তরে লিখিত অভিযোগ",
-      "link": "https://www.prothomalo.com/bangladesh/district/ys4icvmo72",
-      "summary": "জামালপুরের মেলান্দহ উপজেলার সুন্সি নাংলা এলাকায় গ্রিন বায়োটেকনোলজি নামের একটি উৎপাদন প্রতিষ্ঠানের পক্ষ থেকে ভোক্তা অধিদপ্তরের কর্মকর্তা মো. শরীফুল ইসলামের বিরুদ্ধে এ অভিযোগ করা হয়।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T16:35:58+00:00"
-    },
-    {
       "title": "Gaza mourns UNRWA worker killed in Israeli strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
       "summary": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-23T16:35:28+00:00"
-    },
-    {
-      "title": "মতপ্রকাশের স্বাধীনতা মানে সহিংসতা উসকে দেওয়া নয়: ইইউ রাষ্ট্রদূত",
-      "link": "https://www.prothomalo.com/bangladesh/ltewz99ho0",
-      "summary": "মাইকেল মিলার বলেন, ‘বিগত শাসনকালে বাংলাদেশের নাগরিক এবং প্রতিষ্ঠানগুলোর মধ‍্যে অবিশ্বাস ছিল। বর্তমানে সেই সংকট পূরণে আমরা পাশে থাকতে চাই।’",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T16:32:04+00:00"
-    },
-    {
-      "title": "ভয়টাই সত্যি হলো, ৯১ রানেই শেষ বাংলাদেশ",
-      "link": "https://www.prothomalo.com/sports/cricket/4eog4mc8n3",
-      "summary": "সবুজ উইকেটে রাবাদা, নর্কিয়া ও ইয়ানসেনের গতির সামনে বাংলাদেশ কতটুকু কী করতে পারবে, তা নিয়ে একটা ভয় তাই শুরু থেকেই ছিল।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T16:30:58+00:00"
-    },
-    {
-      "title": "অন্য গাছের আড়ালে বেড়ে উঠছিল ১০ ফুটের গাঁজাগাছ",
-      "link": "https://www.prothomalo.com/video/bangladesh/a7p80mprem",
-      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/onz-gacher-adale-bede-uthchil-10-futer-gannjagach",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T16:28:30+00:00"
     },
     {
       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
@@ -494,7 +566,7 @@
     {
       "title": "সাজেক-মিজোরাম সীমান্তে বিজিবির নিরাপত্তা জোরদার",
       "link": "https://www.jagonews24.com/country/news/1182903",
-      "summary": "রাঙ্গামাটির বাঘাইছড়িতে সাজেক ও ভারতের মিজোরাম সীমান্তের প্রায় ১৫১ কিলোমিটার এলাকায় নিরাপত্তা ও নজরদারি জোরদার করেছে বিজিবি। অবৈধ অনুপ্রবেশ...",
+      "summary": "সাজেক-মিজোরাম সীমান্তে বিজিবির নিরাপত্তা জোরদার",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T16:14:38+00:00"
@@ -730,78 +802,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-23T15:15:36+00:00"
-    },
-    {
-      "title": "চুয়াডাঙ্গায় তিন দিনের বৃষ্টিতে ১৬৮ হেক্টর জমির ফসল ক্ষতিগ্রস্ত",
-      "link": "https://www.jagonews24.com/country/news/1182889",
-      "summary": "চুয়াডাঙ্গায় তিন দিনের বৃষ্টিতে ১৬৮ হেক্টর জমির ফসল ক্ষতিগ্রস্ত",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-23T15:14:26+00:00"
-    },
-    {
-      "title": "মিউচুয়াল ট্রাস্ট ব্যাংকের নিয়োগ বিজ্ঞপ্তি, কর্মস্থল ঢাকা",
-      "link": "https://www.jagonews24.com/jago-jobs/news/1182888",
-      "summary": "মিউচুয়াল ট্রাস্ট ব্যাংকের নিয়োগ বিজ্ঞপ্তি, কর্মস্থল ঢাকা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-23T15:13:57+00:00"
-    },
-    {
-      "title": "Police investigating bomb threats against schools in Germany and Denmark",
-      "link": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss",
-      "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T15:07:59+00:00"
-    },
-    {
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-23T14:55:14+00:00"
-    },
-    {
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-23T14:54:03+00:00"
-    },
-    {
-      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
-      "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-23T14:49:00+00:00"
-    },
-    {
-      "title": "Dhaka bursting at the seams: Bangladeshi capital faces public health, housing crisis",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
-      "summary": "The Bangladeshi capital Dhaka is one of the most densely populated places on Earth, with over 35,000 people per square kilometre, compared with 20,000 in Paris. Every year, 400,000 people from across Bangladesh move to the city. Its rapid and unplanned growth is triggering a crisis in housing, transport and public health. FRANCE 24's Gabrielle Gohin and Navo",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-23T14:39:25+00:00"
-    },
-    {
-      "title": "Ukraine claims strikes on Russian ships off Libyan coast",
-      "link": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
-      "summary": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day. Here is what we know about the operation, claimed by President Volodymyr Zelensky shortly after the United Nations called for an investigation into the strikes.",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-23T14:36:26+00:00"
-    },
-    {
-      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-23T14:26:33+00:00"
     }
   ],
   "sourceErrors": [
