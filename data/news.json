@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-11-23T23:38:42.646485+00:00",
+  "updatedAt": "2026-11-24T00:41:43.856075+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+      "link": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+      "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as early as Tuesday.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T00:30:11+00:00"
+    },
+    {
+      "title": "পরিচয় ভুলে যাওয়া বৃদ্ধার স্বজনদের খুঁজছে পুলিশ",
+      "link": "https://www.jagonews24.com/country/news/1182924",
+      "summary": "শেরপুরের ঝিনাইগাতী উপজেলার সদর বাজার এলাকা থেকে উদ্ধার হওয়া পরিচয় ভুলে যাওয়া এক বৃদ্ধার পরিবারের সন্ধান চেয়েছে পুলিশ...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T00:19:42+00:00"
+    },
+    {
+      "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+      "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+      "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T00:04:15+00:00"
+    },
+    {
+      "title": "Borno school enrolment nearly doubles after years of conflict",
+      "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+      "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T00:02:16+00:00"
+    },
+    {
+      "title": "ইরানে হামলা নিয়ে নেতানিয়াহুর তোড়জোড় কিসের ইঙ্গিত, আইজেনকট কি বড় ঝামেলায় পড়ছেন",
+      "link": "https://www.prothomalo.com/world/middle-east/qyydp9n329",
+      "summary": "ইরানে নতুন করে হামলার পক্ষে যুক্তি তুলে ধরতে গিয়ে নেতানিয়াহু যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সঙ্গে কথা বলেছেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+      "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+      "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T23:54:27+00:00"
+    },
+    {
+      "title": "Drone attack on Colombia police base injures civilians, including infant",
+      "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+      "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-23T23:49:37+00:00"
+    },
+    {
+      "title": "বেকুটিয়া সেতুতে মোটরসাইকেল-ট্রলির সংঘর্ষ, দুই খালাতো ভাইসহ নিহত ৩",
+      "link": "https://www.jagonews24.com/national/news/1182923",
+      "summary": "পিরোজপুরের বেকুটিয়া সেতুতে মোটরসাইকেল ও মালবোঝাই ট্রলির সংঘর্ষে তিন যুবক নিহত হয়েছেন। নিহতদের মধ্যে আপন দুই খালাতো ভাই রয়েছেন...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-23T23:36:22+00:00"
+    },
     {
       "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
       "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
@@ -204,14 +276,6 @@
       "published": "2026-11-23T20:22:12+00:00"
     },
     {
-      "title": "মালয়েশিয়া থেকে ঢাকার ‘অপরাধ নিয়ন্ত্রণ করতেন’ সুইডেন আসলাম",
-      "link": "https://www.prothomalo.com/bangladesh/crime/mh5rhu6ccp",
-      "summary": "মালয়েশিয়া থেকে ৪ নভেম্বর ঢাকায় আসেন সুইডেন আসলাম। আবার যাওয়ার পথে বিমানবন্দরে গ্রেপ্তার।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T20:12:23+00:00"
-    },
-    {
       "title": "Libya's east seeks UN probe into claims Ukrainian military present in west",
       "link": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
       "summary": "Authorities in divided Libya's east called on Monday for the United Nations to investigate claims that Ukrainian forces were present in the country's west, as they lodged a complaint over Ukrainian attacks on two Russian ships off Benghazi. The strikes on Sunday, claimed by Kyiv, come as Ukraine steps up strikes against Russia far from the front lines of the",
@@ -228,14 +292,6 @@
       "published": "2026-11-23T20:08:00+00:00"
     },
     {
-      "title": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে অঙ্গীকারবদ্ধ চীন",
-      "link": "https://www.prothomalo.com/bangladesh/z6rmeme3cb",
-      "summary": "নেতৃত্ব পর্যায়ে কৌশলগত সমন্বয় নিশ্চিত হলেই কেবল রাজনৈতিক পালাবদলের মধ্যেও পৃথক প্রকল্পগুলোর ধারাবাহিকতা বজায় রাখা সম্ভব বলে মন্তব্য করেছেন ঢাকায় নিযুক্ত চীনের ভারপ্রাপ্ত রাষ্ট্রদূত লিউ ইউয়িন।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T20:04:32+00:00"
-    },
-    {
       "title": "Protesting Bangladesh garment workers reject pay offer",
       "link": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
       "summary": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
@@ -250,14 +306,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-23T20:01:41+00:00"
-    },
-    {
-      "title": "পল্টনে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কর্মী সন্দেহে একজনকে মারধর",
-      "link": "https://www.prothomalo.com/bangladesh/crime/udw8n2wt4j",
-      "summary": "ওই ব্যক্তির নাম রায়হান রনি (৪০)। সোমবার রাত সাড়ে সাতটার দিকে পল্টনের কালভার্ট রোডে এ ঘটনা ঘটে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T20:01:30+00:00"
     },
     {
       "title": "Trump backs Nvidia boss's return but top Democrat vows probe",
@@ -322,14 +370,6 @@
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T19:22:04+00:00"
-    },
-    {
-      "title": "আফ্রিকার খনিজ সম্পদ নিয়ে ৩ দেশের লড়াই, এগিয়ে কে",
-      "link": "https://www.prothomalo.com/world/africa/uavasq6vei",
-      "summary": "আফ্রিকার খনিজ সম্পদ নিয়ে প্রতিযোগিতার কেন্দ্রে রয়েছে ডেমোক্রেটিক রিপাবলিক অব দ্য কঙ্গো (ডিআরসি)। দেশটি বিশ্বে সবচেয়ে বেশি কোবাল্ট উৎপাদন করে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-23T19:20:49+00:00"
     },
     {
       "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
@@ -460,14 +500,6 @@
       "published": "2026-11-23T17:50:13+00:00"
     },
     {
-      "title": "Tajikistan moves to leave ICC amid US push against court",
-      "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
-      "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T17:36:17+00:00"
-    },
-    {
       "title": "সেমিফাইনালের আগে বাংলাদেশ ‘এ’ দলে বড় পরিবর্তন",
       "link": "https://www.jagonews24.com/sports/cricket/1182910",
       "summary": "এশিয়া কাপ রাইজিং স্টারস ওয়ানডে ‍টুর্নামেন্টে এরই মধ্যে সেমিফাইনাল নিশ্চিত হয়েছে বাংলাদেশের। তার আগে বাংলাদেশ ‘এ’ দলে এলো বড় পরির্বতন...",
@@ -478,7 +510,7 @@
     {
       "title": "ঈশ্বরদীতে আধিপত্য বিস্তার নিয়ে গোলাগুলি-বাড়িতে আগুন, গুলিবিদ্ধ ৫",
       "link": "https://www.jagonews24.com/country/news/1182909",
-      "summary": "ঈশ্বরদীতে আধিপত্য বিস্তারকে কেন্দ্র করে দুর্বৃত্তদের অতর্কিত হামলা ও গোলাগুলির ঘটনা ঘটেছে। এ সময় পাঁচজন গুলিবিদ্ধ হন। পরে চারটি বাড়ি ও আটটি...",
+      "summary": "ঈশ্বরদীতে আধিপত্য বিস্তার নিয়ে গোলাগুলি-বাড়িতে আগুন, গুলিবিদ্ধ ৫",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-23T17:29:08+00:00"
@@ -548,44 +580,12 @@
       "published": "2026-11-23T16:50:41+00:00"
     },
     {
-      "title": "Why did COP31 climate talks collapse without a deal?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
-      "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T16:38:30+00:00"
-    },
-    {
       "title": "🔴Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
       "link": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
       "summary": "",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-23T16:37:04+00:00"
-    },
-    {
-      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
-      "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T16:36:22+00:00"
-    },
-    {
-      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
-      "summary": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T16:35:28+00:00"
-    },
-    {
-      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-      "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-      "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-23T16:23:33+00:00"
     },
     {
       "title": "পাকিস্তানের আন্তর্জাতিক মেলায় বাংলাদেশের চা-খাদ্যপণ্যের প্রদর্শনী",
@@ -748,28 +748,12 @@
       "published": "2026-11-23T15:29:07+00:00"
     },
     {
-      "title": "‘গাজী মাজহারুল আনোয়ার স্মৃতি পুরস্কার’ পাচ্ছেন গীতিকবি আসিফ ইকবাল",
-      "link": "https://www.jagonews24.com/entertainment/news/1182894",
-      "summary": "‘গাজী মাজহারুল আনোয়ার স্মৃতি পুরস্কার’ পাচ্ছেন গীতিকবি আসিফ ইকবাল",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-23T15:27:58+00:00"
-    },
-    {
       "title": "Is Cannes mayor David Lisnard a dark horse for French presidential elections?",
       "link": "https://www.france24.com/en/video/20261123-is-cannes-mayor-david-lisnard-a-dark-horse-for-french-presidential-elections",
       "summary": "French presidential candidate David Lisnard has surprised many by surpassing former prime ministers Edouard Philippe and Gabriel Attal in a recent voter intention pole. The mayor of Cannes is running on an ultra-liberal platform and has gained a large following on social media, but some critics say he lacks the national experience needed for the Elysée.",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-23T15:24:22+00:00"
-    },
-    {
-      "title": "সিরীয় সেনাদের প্রশিক্ষণ দিতে চায় যুক্তরাষ্ট্র, চলছে আলোচনা",
-      "link": "https://www.jagonews24.com/international/news/1182893",
-      "summary": "সিরীয় সেনাদের প্রশিক্ষণ দিতে চায় যুক্তরাষ্ট্র, চলছে আলোচনা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-23T15:20:55+00:00"
     },
     {
       "title": "Tens of thousands take to streets in Belgium in anti-austerity protests",
@@ -802,12 +786,28 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-23T14:54:03+00:00"
+    },
+    {
+      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+      "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-23T14:49:00+00:00"
+    },
+    {
+      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T14:26:33+00:00"
     }
   ],
   "sourceErrors": [
     "The Daily Star: no items parsed",
     "bdnews24.com: not well-formed (invalid token): line 8, column 46",
-    "Bangla News 24: HTTP Error 404: Not Found",
+    "Bangla News 24: HTTP Error 403: Forbidden",
     "Jugantor: HTTP Error 403: Forbidden",
     "Kaler Kantho: HTTP Error 403: Forbidden"
   ],
