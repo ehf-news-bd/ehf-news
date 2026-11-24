@@ -1,8 +1,520 @@
 {
-  "updatedAt": "2026-11-24T10:45:18.300286+00:00",
+  "updatedAt": "2026-11-24T11:45:17.108416+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "গরু পাচারকারীদের ধরতে গিয়ে নদীতে ঝাঁপ, নিখোঁজ বিএসএফ সদস্য",
+      "link": "https://www.jagonews24.com/international/news/1183204",
+      "summary": "আসামের বরাক নদীতে গরু পাচারকারীদের ধাওয়া করতে গিয়ে ঝাঁপ দিয়ে নিখোঁজ হয়েছেন বিএসএফের এক সদস্য। তার সন্ধানে উদ্ধার অভিযান চলছে....",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:41:01+00:00"
+    },
+    {
+      "title": "শেখ হাসিনাকে ভারত একটা বিমান পর্যন্ত দিচ্ছে না: আসিফ মাহমুদ",
+      "link": "https://www.jagonews24.com/politics/news/1183202",
+      "summary": "পলাতক স্বৈরাচার শেখ হাসিনা যখন দেশে ছিলেন তখন বলতেন, ‘ভারতকে যা দিয়েছি সারাজীবন মনে রাখবে’। কিন্তু ভারত এখন তাকে একটা বিমান পর্যন্ত দিচ্ছে না...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:39:26+00:00"
+    },
+    {
+      "title": "সচিবালয়ে মোবাইল কোর্ট: নির্বাহী ম্যাজিস্ট্রেটের ক্ষমতা পেলেন ৩ উপসচিব",
+      "link": "https://www.jagonews24.com/national/news/1183201",
+      "summary": "বাংলাদেশ সচিবালয়ে অপরাধ নিয়ন্ত্রণে ভ্রাম্যমাণ আদালত (মোবাইল কোর্ট) পরিচালনা করবে সরকার। এজন্য স্বরাষ্ট্র মন্ত্রণালয়ের তিন উপসচিবকে নির্বাহী ম্যাজিস্ট্রেটের ক্ষমতা দেওয়া হয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:39:05+00:00"
+    },
+    {
+      "title": "পরিচয় গোপন করে ছাত্রশক্তির নেতাদের ওপর হামলার অভিযোগ",
+      "link": "https://www.jagonews24.com/politics/news/1183200",
+      "summary": "চট্টগ্রাম সরকারি মহসিন কলেজে জাতীয় ছাত্রশক্তির নেতাকর্মীদের ওপর হামলার অভিযোগ করেছে সংগঠনটি। এ ঘটনায় কলেজ শাখার মুখ্য সংগঠকসহ কয়েকজন আহত হয়েছেন বলে দাবি করা হয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:37:17+00:00"
+    },
+    {
+      "title": "হাসপাতাল-রেস্টুরেন্টে ভ্রাম্যমাণ আদালতের অভিযান, জরিমানা",
+      "link": "https://www.jagonews24.com/country/news/1183199",
+      "summary": "ব্রাহ্মণবাড়িয়ায় নানা অনিয়মের অভিযোগে দুটি বেসরকারি হাসপাতালকে তিন লাখ টাকা জরিমানা করা হয়েছে। এসময় একটি রেস্টুরেন্টকে ১০ হাজার টাকা জরিমানা করেছেন জেলা প্রশাসনের ভ্রাম্যমাণ আদালত...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:36:23+00:00"
+    },
+    {
+      "title": "হঠাৎ সফর সংক্ষিপ্ত করে দেশে ফিরছেন জামায়াত আমির, নেপথ্যে কী?",
+      "link": "https://www.jagonews24.com/politics/news/1183198",
+      "summary": "আগামী বৃহস্পতিবার দেশে ফেরার কথা ছিল জামায়াত আমিরের। কিন্তু মালয়েশিয়া সফর স্থগিত করে মঙ্গলবারই দেশে ফিরছেন তিনি। এরই মধ্যে সিডনির...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:34:01+00:00"
+    },
+    {
+      "title": "‘শিমের গ্রাম’ কুশলীবাসা, ১৫ হাজার খরচে লাখ টাকা আয়",
+      "link": "https://www.jagonews24.com/country/news/1183197",
+      "summary": "মাঠের যেদিকেই চোখ যায় সবুজের সমারোহ। মাচাজুড়ে ঝুলছে থোকায় থোকায় তরতাজা শিম। কুষ্টিয়ার কুমারখালী উপজেলার চাঁদপুর ইউনিয়নের কুশলীবাসা গ্রাম এখন পরিচিতি পেয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:33:36+00:00"
+    },
+    {
+      "title": "ঢাবির জীববিজ্ঞান অনুষদে ডিনস অ্যাওয়ার্ড পেলেন ৭৩ শিক্ষার্থী",
+      "link": "https://www.jagonews24.com/education/news/1183196",
+      "summary": "ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) জীববিজ্ঞান অনুষদভুক্ত বিভিন্ন বিভাগের ৭৩ মেধাবী শিক্ষার্থীকে ‘ডিনস অ্যাওয়ার্ড’ এবং অসাধারণ গবেষণাকর্মের স্বীকৃতিস্বরূপ চার শিক্ষককে ‘ডিনস রিসার্চ অ্যাওয়ার্ড’ দেওয়া হয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:32:52+00:00"
+    },
+    {
+      "title": "বিনিয়োগ বাড়ানো-ভিসা প্রক্রিয়া দ্রুত করতে কানাডাকে শামা ওবায়েদের আহ্বান",
+      "link": "https://www.jagonews24.com/national/news/1183195",
+      "summary": "বাংলাদেশ ও কানাডার মধ্যে দ্বিপক্ষীয় বাণিজ্য ও বিনিয়োগ সম্প্রসারণ, ভিসা প্রক্রিয়া দ্রুত করা এবং রোহিঙ্গা সংকট সমাধানে সহযোগিতা জোরদারের বিষয়ে আলোচনা হয়েছে। মঙ্গলবার (২৪ নভেম্বর) ঢাকায়...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:31:00+00:00"
+    },
+    {
+      "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+      "link": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+      "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T11:30:07+00:00"
+    },
+    {
+      "title": "প্রাণিসম্পদ অধিদপ্তরের নতুন নিয়োগ বিজ্ঞপ্তি, ২২১ জনের সরকারি চাকরি",
+      "link": "https://www.jagonews24.com/jago-jobs/news/1183194",
+      "summary": "প্রাণিসম্পদ অধিদপ্তর নতুন নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। প্রতিষ্ঠানটির অধীনে বিভিন্ন দপ্তর/প্রতিষ্ঠানসমূহের জন্য আউটসোর্সিং প্রক্রিয়ায় ১৬টি পদে ২২১ জনকে নিয়োগ দেওয়া হবে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:29:48+00:00"
+    },
+    {
+      "title": "'Nothing will ever be the same' for Jensen Huang and Nvidia after his return",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
+      "summary": "PRESS REVIEW – Tuesday, November 24: Jensen Huang's return to Nvidia dominates the papers. In other news, leaked records shed new light on Russian military losses in Ukraine. Also, the UK will host the 2035 Women's World Cup. Finally, a devilled eggs world championship crowns its winner.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T11:28:12+00:00"
+    },
+    {
+      "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+      "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+      "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T11:27:35+00:00"
+    },
+    {
+      "title": "সরকারি প্রায় ৫০টি কারখানায় বেসরকারি বিনিয়োগ আহ্বান করা হবে: বাণিজ্যমন্ত্রী",
+      "link": "https://www.prothomalo.com/bangladesh/district/pajot91ac3",
+      "summary": "বাণিজ্যমন্ত্রী বলেন, একসময় পেঁয়াজে আমদানিনির্ভরতা থাকলেও বর্তমানে দেশের চাহিদার তুলনায় বেশি উৎপাদন হচ্ছে। কৃষি ও কৃষিপণ্য প্রক্রিয়াজাতকরণ খাতে বিপুল সম্ভাবনা রয়েছে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:27:28+00:00"
+    },
+    {
+      "title": "‘নসিব’ সিনেমার শুটিংয়ে গিয়ে হোটেলে অভিনেতা সোহেল খানের মৃত্যু, কী হয়েছিল তাঁর",
+      "link": "https://www.prothomalo.com/video/entertainment/67hjyb7nvn",
+      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/nsib-sinemar-sutingze-gize-hotele-ovineta-sohel-khaner-mrritzu-kee-hzechil-tannr",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:23:24+00:00"
+    },
+    {
+      "title": "ঝিনাইদহ সীমান্তে ভারতে প্রবেশের চেষ্টাকালে নারী-শিশুসহ আটক ১৩",
+      "link": "https://www.jagonews24.com/country/news/1183193",
+      "summary": "ঝিনাইদহের মহেশপুরে অবৈধভাবে সীমান্ত পেরিয়ে ভারতে প্রবেশের চেষ্টাকালে ১৩ জনকে আটক করেছে বিজিবি। আটকদের মধ্যে তিনজন নারী ও তিন শিশু রয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:22:49+00:00"
+    },
+    {
+      "title": "জিয়াউলের মামলায় অ্যাটর্নি জেনারেল, বর্তমান-সাবেক দুই চিফ প্রসিকিউটর",
+      "link": "https://www.jagonews24.com/law-courts/news/1183192",
+      "summary": "শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে জিয়াউল আহসানের বিরুদ্ধে মানবতাবিরোধী অপরাধের মামলায় যুক্তিতর্ক শুরু হয়েছে। রাষ্ট্রপক্ষের প্রতি সংহতি জানাতে ট্রাইব্যুনালে উপস্থিত ছিলেন অ্যাটর্নি জেনারেল, বর্তমান ও সাবেক চিফ প্রসিকিউটর...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:22:24+00:00"
+    },
+    {
+      "title": "AFCON: Ten months on, court to rule on 2025 winner",
+      "link": "https://www.france24.com/en/video/20261124-afcon-ten-months-on-court-to-rule-on-2025-winner",
+      "summary": "Ten months after the Africa Cup of Nations final was chaotically played on the field between Morocco and Senegal, the title will be awarded Tuesday by sports’ highest court. The Court of Arbitration for Sport set the target Monday to publish the verdict of its panel of three judges on Senegal’s appeal to regain the title the team won on the field in Morocco ",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T11:21:54+00:00"
+    },
+    {
+      "title": "মানবাকৃতির রোবট সহকারী নাকি ঘরের ভেতরের চোখ",
+      "link": "https://www.prothomalo.com/technology/jqa4h3cda5",
+      "summary": "কেনার আগে ভাবুন: ১. কোন কাজ রোবট নিজে করে, কোনটায় মানুষ সাহায্য করে? ২. ক্যামেরার ছবি কোথায় জমা থাকে? ৩. ‘প্রবেশ নিষেধ’ এলাকা সত্যিই ঠিক করা যায় কি?",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:20:00+00:00"
+    },
+    {
+      "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+      "link": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+      "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T11:19:04+00:00"
+    },
+    {
+      "title": "ইরানে হিজাব ছাড়া গান গেয়ে ৭৪ বার বেত্রাঘাতের শিকার গায়িকা",
+      "link": "https://www.jagonews24.com/international/news/1183191",
+      "summary": "হিজাব ছাড়া গান গাওয়ায় ইরানের জনপ্রিয় গায়িকা পারাস্তো আহমাদিকে ৭৪ বার বেত্রাঘাত করা হয়েছে। তার দলের আরও চার সদস্য একই শাস্তি পেয়েছেন....",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:18:36+00:00"
+    },
+    {
+      "title": "শ্রেণিকক্ষ সংকটে মাঠে পাঠদান, ছাত্রীদের ভিডিও ছড়াচ্ছে ফেসবুক-টিকটকে",
+      "link": "https://www.jagonews24.com/country/news/1183190",
+      "summary": "বিদ্যালয়ে এসেও স্বস্তি নেই পাবনার চাটমোহরের ধানকুনিয়া বালিকা উচ্চ বিদ্যালয়ের ছাত্রীদের। শ্রেণিকক্ষের অভাবে খোলা মাঠে ক্লাস করতে হয় তাদের...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:18:31+00:00"
+    },
+    {
+      "title": "Vietnam restaurant blast kills at least six",
+      "link": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+      "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T11:17:20+00:00"
+    },
+    {
+      "title": "২৮ বলে দ্রুততম সেঞ্চুরির বিশ্বরেকর্ড সূর্যবংশীর",
+      "link": "https://www.jagonews24.com/sports/cricket/1183188",
+      "summary": "২৮ বলে দ্রুততম সেঞ্চুরির বিশ্বরেকর্ড সূর্যবংশীর",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:16:57+00:00"
+    },
+    {
+      "title": "২৮ বলে সেঞ্চুরি সূর্যবংশীর, ৫০ ওভারের খেলায় বিশ্ব রেকর্ড",
+      "link": "https://www.prothomalo.com/sports/cricket/a9gsum2evb",
+      "summary": "৫০ ওভারের খেলায় ২৮ বলে সেঞ্চুরি করলেন বৈভব সূর্যবংশী। লিস্ট এ ক্রিকেটে এটাই দ্রুততম সেঞ্চুরির রেকর্ড।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:15:13+00:00"
+    },
+    {
+      "title": "আলো-ক্যামেরায় রহস্য গড়ে ৬৫ বছর আগেই আধুনিক জহির রায়হান",
+      "link": "https://www.prothomalo.com/entertainment/dhallywood/kdv59dzddq",
+      "summary": "ইউটিউবে ‘কখনো আসেনি’ আবার দেখতে বসেছিলাম। সাদাকালো। ছবির শুরুতে রাস্তায় জমে থাকা পানিতে আলো পড়ছে। সেই পথ ধরে পুলিশ পৌঁছায় একটি বাড়িতে। বিছানায় পাশাপাশি পড়ে আছে দুই নারীর মরদেহ। ওপরতলায় তাঁদের ভাইয়ের আঁকা একটি ছবি। সেখানেও তাঁরা শুয়ে আছেন ঠিক একই ভঙ্গিতে। ছবিটা দেখে পুলিশ থমকে যায়। দর্শক হিসেবে আমিও থমকে গেলাম। কী ঘটেছে, তা বলার আগেই একটি আঁকা ছবি দিয়ে জহির র",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:15:00+00:00"
+    },
+    {
+      "title": "হিন্দুদের নিয়ে অপপ্রচার করছে ভারতীয় গণমাধ্যম, অভিযোগ মেঘনা আলমের",
+      "link": "https://www.jagonews24.com/entertainment/news/1183187",
+      "summary": "হিন্দুদের নিয়ে অপপ্রচার করছে ভারতীয় গণমাধ্যম, অভিযোগ মেঘনা আলমের",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:14:27+00:00"
+    },
+    {
+      "title": "বিএনপি লাশের রাজনীতিতে বিশ্বাস করে না: সমাজকল্যাণমন্ত্রী",
+      "link": "https://www.jagonews24.com/country/news/1183186",
+      "summary": "বিএনপি লাশের রাজনীতিতে বিশ্বাস করে না: সমাজকল্যাণমন্ত্রী",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:13:57+00:00"
+    },
+    {
+      "title": "পোড়া মবিলের সঙ্গে রং মিশিয়ে তৈরি করা হতো নামি ব্র্যান্ডের নকল মবিল",
+      "link": "https://www.jagonews24.com/national/news/1183185",
+      "summary": "পোড়া মবিলের সঙ্গে রং মিশিয়ে তৈরি করা হতো নামি ব্র্যান্ডের নকল মবিল",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:11:50+00:00"
+    },
+    {
+      "title": "ম্যাগাজিনে পঞ্চম ক্যাবিনেট বাদ দেওয়া নিয়ে তদন্ত কমিটি গঠন",
+      "link": "https://www.jagonews24.com/campus/news/1183184",
+      "summary": "ম্যাগাজিনে পঞ্চম ক্যাবিনেট বাদ দেওয়া নিয়ে তদন্ত কমিটি গঠন",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:10:53+00:00"
+    },
+    {
+      "title": "‘নসিব’ সিনেমার শুটিংয়ে গিয়ে হোটেলে অভিনেতা সোহেল খানের মৃত্যু, কী হয়েছিল তাঁর",
+      "link": "https://www.prothomalo.com/video/entertainment/5lwdhwjkzb",
+      "summary": "‘নসিব’ সিনেমার শুটিংয়ে বগুড়ায় অবস্থান করছিলেন অভিনেতা সোহেল খান। ২৪ নভেম্বর সকালে হোটেল রুমে তাঁকে অচেতন অবস্থায় পাওয়া যায়। দ্রুত হাসপাতালে নেওয়া হলে চিকিৎসক তাঁকে মৃত ঘোষণা করেন। বিস্তারিত ভিডিওতে...",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:10:41+00:00"
+    },
+    {
+      "title": "হ্যান্ডকাপ পরা হাসিনাকে বরণ করতে বাংলাদেশ প্রস্তুত: রাশেদ খাঁন",
+      "link": "https://www.jagonews24.com/politics/news/1183182",
+      "summary": "হ্যান্ডকাপ পরা হাসিনাকে বরণ করতে বাংলাদেশ প্রস্তুত: রাশেদ খাঁন",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:10:32+00:00"
+    },
+    {
+      "title": "‘মায়ের সাহস ও সংগ্রামই আমাকে এত দূর নিয়ে এসেছে’",
+      "link": "https://trust.prothomalo.com/activities/oditiya/hwxcl19uah",
+      "summary": "প্রথম আলো ট্রাস্টের একটি নিয়মিত আয়োজন হলো ‘অদ্বিতীয়ার গল্প’। এ আয়োজনে আইডিএলসি-প্রথম আলো ট্রাস্টের ‘অদ্বিতীয়া’ শিক্ষাবৃত্তি পাওয়া একজনকে আমন্ত্রণ জানানো হয়। অনলাইন এই আয়োজনে ২৯ জুলাই বিকেল ৫টায় আমন্ত্রণ জানানো হয়েছিল ২০২৩ সালে এই বৃত্তি পাওয়া লিজা আখতারকে। পরিবারের প্রথম কন্যা সন্তান হিসেবে আর্থিক ও সামাজিক নানা প্রতিকূলতা পেরিয়ে উচ্চশিক্ষার পথে পা বাড়ানো লি",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:09:53+00:00"
+    },
+    {
+      "title": "ঢাবির সাংবাদিকতা বিভাগের নতুন চেয়ারম্যান ড. শামীম রেজা",
+      "link": "https://www.jagonews24.com/campus/news/1183181",
+      "summary": "ঢাবির সাংবাদিকতা বিভাগের নতুন চেয়ারম্যান ড. শামীম রেজা",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:09:49+00:00"
+    },
+    {
+      "title": "সামাজিক মাধ্যমে ৩০০ ফিটে ডাকাতির গুজব, যা বলছে পুলিশ",
+      "link": "https://www.jagonews24.com/national/news/1183180",
+      "summary": "সামাজিক মাধ্যমে ৩০০ ফিটে ডাকাতির গুজব, যা বলছে পুলিশ",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:09:37+00:00"
+    },
+    {
+      "title": "শিক্ষা মন্ত্রণালয়–এনটিআরসিএ বৈঠক শেষ সিদ্ধান্ত ছাড়াই",
+      "link": "https://www.prothomalo.com/chakri/chakri-news/0m6si5zj24",
+      "summary": "শিক্ষা মন্ত্রণালয় ও এনটিআরসিএর শিক্ষক নিয়োগ বৈঠকে কোনো সিদ্ধান্ত হয়নি; আগামী মাসে পুনর্বৈঠকের পরিকল্পনা।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:08:27+00:00"
+    },
+    {
+      "title": "French astronaut Thomas Pesquet answers kids' space questions",
+      "link": "https://www.france24.com/en/video/20261124-french-astronaut-thomas-pesquet-answers-kids-space-questions",
+      "summary": "What does it feel like to blast off in a rocket and what happens to a spaceship in a meteor shower? These are some of the questions sent in by children to French astronaut Thomas Pesquet as he joined France 24 to share his experience on board the International Space Station.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T11:08:22+00:00"
+    },
+    {
+      "title": "বালিশ চেপে মাথায় গুলি, নাড়িভুঁড়ি বের করে সিমেন্টের বস্তায় ফেলতো পানিতে",
+      "link": "https://www.jagonews24.com/law-courts/news/1183179",
+      "summary": "বালিশ চেপে মাথায় গুলি, নাড়িভুঁড়ি বের করে সিমেন্টের বস্তায় ফেলতো পানিতে",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:05:55+00:00"
+    },
+    {
+      "title": "আরএফএল গ্রুপে নিয়োগ, ৪০ বছর বয়সেও আবেদন",
+      "link": "https://www.jagonews24.com/jago-jobs/news/1183178",
+      "summary": "আরএফএল গ্রুপে নিয়োগ, ৪০ বছর বয়সেও আবেদন",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:05:22+00:00"
+    },
+    {
+      "title": "আমিরাতে সর্বোচ্চ বেতনের চাকরি কোনগুলো?",
+      "link": "https://www.jagonews24.com/international/news/1183177",
+      "summary": "আমিরাতে সর্বোচ্চ বেতনের চাকরি কোনগুলো?",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:04:55+00:00"
+    },
+    {
+      "title": "নিজেই গুলি ছোড়ার কথা জানিয়ে ফেসবুকে পোস্ট সন্ত্রাসীর",
+      "link": "https://www.prothomalo.com/bangladesh/district/61axiu3u6h",
+      "summary": "গতকাল রাতে ফটিকছড়ির সুয়াবিলের শোভনছড়ি ও চুরখারহাট এলাকায় সন্ত্রাসীদের এলোপাতাড়ি গুলিতে কয়েকজন আহত হন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:03:33+00:00"
+    },
+    {
+      "title": "Five women killed every hour by family members or partners — UN report",
+      "link": "https://www.dw.com/en/five-women-killed-every-hour-by-family-members-or-partners-un-report/a-80030010?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "On average, 129 women or girls were killed every day in 2025 by someone in their close social circle, UN data showed.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-24T11:03:00+00:00"
+    },
+    {
+      "title": "ICE raids add to jitters ahead of Thanksgiving travel rush",
+      "link": "https://www.france24.com/en/video/20261124-ice-raids-add-to-jitters-ahead-of-thanksgiving-travel-rush",
+      "summary": "Travellers in the US are heading into a particularly stressful holiday travel period this week. Recent network outages for US airlines and the Federal Aviation Administration have raised concerns about flight delays and cancellations ahead of Thanksgiving on Thursday. This, plus ICE agents ramping up arrests at airports, has made many travellers anxious.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T11:02:37+00:00"
+    },
+    {
+      "title": "জবির আইন অনুষদের সেমিনার লাইব্রেরিতে ৩২ কপি বই দিল জকসু",
+      "link": "https://www.jagonews24.com/campus/news/1183176",
+      "summary": "জবির আইন অনুষদের সেমিনার লাইব্রেরিতে ৩২ কপি বই দিল জকসু",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T11:00:17+00:00"
+    },
+    {
+      "title": "Bombed factories, billion-dollar opportunity: Why German companies keep investing in Ukraine",
+      "link": "https://www.dw.com/en/bombed-factories-billion-dollar-opportunity-why-german-companies-keep-investing-in-ukraine/a-80030201?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "German companies remain committed to Ukraine despite million-dollar losses, an unreliable energy supply and a shortage of skilled workers. They are betting on new markets and long-term growth.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-24T11:00:00+00:00"
+    },
+    {
+      "title": "How the AI trade could trap even cautious investors",
+      "link": "https://www.dw.com/en/how-the-ai-trade-could-trap-even-cautious-investors/a-80016412?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-24T10:59:00+00:00"
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-24T10:58:51+00:00"
+    },
+    {
+      "title": "কিউআর কোড কী, এর ব্যবহার বাড়ছে কেন",
+      "link": "https://www.prothomalo.com/technology/ju35gkea8a",
+      "summary": "কিউআর (কুইক রেসপন্স) কোড একধরনের দ্বিমাত্রিক বারকোড। দেখতে বর্গাকার এই কোডে বিভিন্ন তথ্য সাংকেতিক পদ্ধতিতে সংরক্ষণ করা হয়।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:57:27+00:00"
+    },
+    {
+      "title": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ",
+      "link": "https://www.jagonews24.com/economy/news/1183175",
+      "summary": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:57:07+00:00"
+    },
+    {
+      "title": "মেটার মিউজ এআই এজেন্টে থাকা ব্যক্তিগত বার্তা ও তথ্য কতটা নিরাপদ",
+      "link": "https://www.prothomalo.com/technology/cyberworld/5fhbpfwy3e",
+      "summary": "মেটার মিউজ এআই এজেন্টে থাকা ব্যক্তিগত বার্তা ও তথ্য কতটা নিরাপদ",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:56:58+00:00"
+    },
+    {
+      "title": "আন্তর্জাতিক ইরাসমাস প্লাস সম্মেলনে প্রথমবার কুমিল্লা বিশ্ববিদ্যালয়",
+      "link": "https://www.jagonews24.com/campus/news/1183174",
+      "summary": "আন্তর্জাতিক ইরাসমাস প্লাস সম্মেলনে প্রথমবার কুমিল্লা বিশ্ববিদ্যালয়",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:55:42+00:00"
+    },
+    {
+      "title": "Thousands evacuated from UK concert after release of 'unknown substance'",
+      "link": "https://www.france24.com/en/video/20261124-thousands-evacuated-from-uk-concert-after-release-of-unknown-substance",
+      "summary": "British police said they evacuated 12,000 people from ​a concert venue in Manchester, northern England, after the release of an \"unknown substance\" required some in the crowd to be treated and one person to be taken to hospital. Police ​declared ‌a major incident late on Sunday after staff at the ⁠Co-op Live arena alerted them at 10 p.m. (2200 GMT) that peop",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T10:55:08+00:00"
+    },
+    {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-24T10:53:37+00:00"
+    },
+    {
+      "title": "বদ্ধ ঘর থেকে ভেসে আসছিল শিশুর কান্নার শব্দ, ভেতরে যেতেই মিলল মায়ের ঝুলন্ত মরদেহ",
+      "link": "https://www.prothomalo.com/bangladesh/district/gw4xhzb8af",
+      "summary": "বদ্ধ কক্ষ থেকে শিশুর কান্নার শব্দ শুনে আশপাশের লোকজন জড়ো হন। ঘরের ভেতরে ঢুকে ঝুলন্ত অবস্থায় এক নারীর মরদেহ দেখতে পান তাঁর এক স্বজন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:52:57+00:00"
+    },
+    {
+      "title": "পরিবারের সুখের আশায় সৌদি আরবে ১২ বছর, এখন আইসিইউতে কাটছে আজাদের দিন",
+      "link": "https://www.jagonews24.com/country/news/1183172",
+      "summary": "পরিবারের সুখের আশায় সৌদি আরবে ১২ বছর, এখন আইসিইউতে কাটছে আজাদের দিন",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:52:39+00:00"
+    },
+    {
+      "title": "কথা–কাটাকাটির পর ক্ষুব্ধ হয়ে কিশোরীকে শ্বাসরোধে হত্যা করেন তরুণ",
+      "link": "https://www.prothomalo.com/bangladesh/district/luj61hwop3",
+      "summary": "ময়মনসিংহের মুক্তাগাছায় কিশোরী জাকিয়া আক্তার হত্যা মামলায় আকিবুল (১৯) নামের ওই তরুণকে গ্রেপ্তার করেছে পুলিশ। গতকাল সোমবার সন্ধ্যা সাড়ে ছয়টার দিকে উপজেলার দাওগাঁও ইউনিয়নের পোড়াবাড়ী এলাকার একটি আসবাবের দোকান থেকে তাঁকে গ্রেপ্তার করা হয়।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:52:37+00:00"
+    },
+    {
+      "title": "বিদেশিদের শেয়ার বিক্রির চাপ অব্যাহত, ব্যক্তি বিনিয়োগকারীরা কিনছেন",
+      "link": "https://www.jagonews24.com/economy/news/1183171",
+      "summary": "বিদেশিদের শেয়ার বিক্রির চাপ অব্যাহত, ব্যক্তি বিনিয়োগকারীরা কিনছেন",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:51:43+00:00"
+    },
+    {
+      "title": "আমার পা ভাঙা পর্যন্ত কি অপেক্ষা করতে হবে: ১০ বারের বেশি ফাউলের শিকার হয়ে ক্ষুব্ধ নেইমার",
+      "link": "https://www.prothomalo.com/sports/football/l4go3gi1in",
+      "summary": "গতকাল সন্ধ্যায় ব্রাজিলিয়ান লিগের ম্যাচে গ্রেমিওর কাছে হেরেছে সান্তোস। ম্যাচ শেষে রেফারি রামন আবাত্তি আবেলের সঙ্গে উত্তপ্ত বাক্যবিনিময়েও জড়ান নেইমার।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:48:46+00:00"
+    },
+    {
+      "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+      "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+      "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T10:48:38+00:00"
+    },
+    {
+      "title": "‘বরিশল’ উপজেলায় যুক্ত হতে চায় না মাছিহাতা, এক ঘণ্টা রেলপথ অবরোধ",
+      "link": "https://www.prothomalo.com/bangladesh/district/20m4fcbubo",
+      "summary": "ব্রাহ্মণবাড়িয়া সদর উপজেলার মাছিহাতা, সুলতানপুর, বাসুদেব ও বরিশল ইউনিয়নের সমন্বয়ে ‘বরিশল’ নামে নতুন উপজেলা গঠনের আবেদন করেন এক বিএনপি নেতা।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:48:37+00:00"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-24T10:48:27+00:00"
+    },
+    {
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+      "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+      "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-24T10:47:41+00:00"
+    },
+    {
+      "title": "Spain set to head to polls in snap election that could boost far right",
+      "link": "https://www.france24.com/en/video/20261124-spain-set-to-head-to-polls-in-snap-election-that-could-boost-far-right",
+      "summary": "Socialist Prime Minister Pedro Sanchez seeks to thwart grim polls as polarised Spain holds an election on Sunday that could propel the opposition conservative Popular Party (PP) and the far right to power. The outcome will be closely watched across Europe as it opens a cycle of elections over the next 12 months that could reshape the balance of power within ",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T10:46:02+00:00"
+    },
+    {
+      "title": "হিন্দুত্ববাদী সাভারকরকে নিয়ে আত্মকথায় ‘আপত্তিকর’ মন্তব্য, সোনিয়াকে আইনি নোটিশ",
+      "link": "https://www.prothomalo.com/world/india/pv9bx36z1v",
+      "summary": "সাত্যকির পক্ষে তাঁর আইনজীবী সংগ্রাম কোলহতকর ওই নোটিশ পাঠিয়ে বলেছেন, বিলংগিংয়ের ২০১ ও ৪৪৩ পৃষ্ঠায় সোনিয়া সাভারকর সম্পর্কে কিছু ‘আপত্তিকর’ মন্তব্য করেছেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:44:03+00:00"
+    },
     {
       "title": "EU imposes import quotas for hybrid vehicles from China",
       "link": "https://www.dw.com/en/eu-imposes-import-quotas-for-hybrid-vehicles-from-china/a-80029981?maca=en-rss-en-all-1573-xml-mrss",
@@ -10,6 +522,46 @@
       "source": "DW",
       "category": "World",
       "published": "2026-11-24T10:42:00+00:00"
+    },
+    {
+      "title": "বিদেশে বাংলাদেশের যেকোনো মিশনে গেলেই গ্রেপ্তার হবেন শেখ হাসিনা: শামা ওবায়েদ",
+      "link": "https://www.prothomalo.com/video/bangladesh/7pavy2hu1d",
+      "summary": "বিদেশে বাংলাদেশের যেকোনো কূটনৈতিক মিশনে গেলে সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে গ্রেপ্তার করা হবে বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম। ২৪ নভেম্বর সকালে ঢাকায় পররাষ্ট্র মন্ত্রণালয়ে সাংবাদিকদের প্রশ্নের উত্তরে এ কথাগুলো বলেন শামা ওবায়েদ। বিস্তারিত ভিডিওতে...",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:41:40+00:00"
+    },
+    {
+      "title": "Is Russia preparing to launch a nuclear-armed satellite?",
+      "link": "https://www.france24.com/en/video/20261124-is-russia-preparing-to-launch-a-nuclear-armed-satellite",
+      "summary": "German media reports, citing unnamed German military and BND spy agency sources, have claimed that Russia may be preparing to launch a nuclear-armed satellite in the coming weeks, giving it the capability to destroy other satellites. In response, NATO chief Mark Rutte said Monday the alliance would defend against threats in space. France 24’s correspondent i",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T10:41:37+00:00"
+    },
+    {
+      "title": "হামের উপসর্গে গেল ৯ প্রাণ, নতুন আক্রান্ত ১৩৫১",
+      "link": "https://www.prothomalo.com/bangladesh/e307v1p36a",
+      "summary": "যে ৯ জনের মৃত্যু হয়েছে, তাঁদের মধ্যে ঢাকা ও সিলেট বিভাগে তিনজন করে, চট্টগ্রাম বিভাগে একজন, বরিশাল বিভাগে একজন এবং খুলনা বিভাগের একজন রয়েছেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:41:07+00:00"
+    },
+    {
+      "title": "Republicans, Democrats unite in anger over Trump's Nvidia intervention",
+      "link": "https://www.france24.com/en/video/20261124-republicans-democrats-unite-in-anger-over-trump-s-nvidia-intervention",
+      "summary": "Members of Congress responded with swift, bipartisan fury Monday over the Nvidia board's surprise decision to reinstate CEO Jensen Huang at the behest of US President Donald Trump, opening a new phase of questions about the chipmaking giant and potential national security lapses. France 24's Douglas Herbert takes a closer look.",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T10:39:46+00:00"
+    },
+    {
+      "title": "বাহাউদ্দিন নাছিমের ঘনিষ্ঠ কার্যক্রম নিষিদ্ধ আ.লীগের নেতা মোস্তাফিজুর আটক, অভিযোগ নাশকতায় অর্থায়ন",
+      "link": "https://www.prothomalo.com/bangladesh/crime/zbmr44wlpq",
+      "summary": "ডিবি রমনা বিভাগের উপকমিশনার মির্জা তারেক আহমেদ বেগ প্রথম আলোকে বলেন, মোস্তাফিজুর রহমানের বিরুদ্ধে জুলাই অভ্যুত্থানের ঘটনায় করা মামলাসহ একাধিক মামলা রয়েছে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-24T10:38:47+00:00"
     },
     {
       "title": "কাঁদতে কাঁদতে মুকিত বলেন, ‘তোমারে ঘুমাইতে দিমু না বলে বন্ধু চিরঘুমে গেল!’",
@@ -20,12 +572,12 @@
       "published": "2026-11-24T10:36:51+00:00"
     },
     {
-      "title": "শেখ হাসিনাকে হাতকড়া পরিয়ে দেশে ফিরিয়ে আনা হতে পারে: হুমায়ুন কবির",
-      "link": "https://www.jagonews24.com/national/news/1183158",
-      "summary": "ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে হাতকড়া পরিয়ে অথবা কঠোর নজরদারির মধ্যে দেশে ফিরিয়ে আনা হতে পারে বলে মন্তব্য করেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:36:23+00:00"
+      "title": "Nvidia's position as cornerstone of AI trade confirmed by market reaction to Huang's return",
+      "link": "https://www.france24.com/en/tv-shows/business/20261124-nvidia-s-position-as-cornerstone-of-ai-trade-confirmed-by-market-reaction-to-huang-s-return",
+      "summary": "Tech shares in Asia and Europe rebounded on Tuesday, following in the footsteps of Nvidia's shares closing on Wall Street 31 percent higher on Monday. The return of CEO Jensen Huang, 11 days after his resignation over an extramarital affair with an alleged Chinese spy, has reassured investors in the AI trade. In this edition, we look at Nvidia's central role",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-24T10:36:24+00:00"
     },
     {
       "title": "হুয়াংকে কেন ফেরাতে বাধ্য হলো এনভিডিয়া, কোথায় তাঁর গুরুত্ব",
@@ -34,38 +586,6 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-24T10:36:12+00:00"
-    },
-    {
-      "title": "মধ্যস্বত্বভোগী নয়, সরাসরি কৃষকের কাছ থেকে ধান কিনতে হবে",
-      "link": "https://www.jagonews24.com/economy/news/1183157",
-      "summary": "মধ্যস্বত্বভোগী নয়, ধান সংগ্রহের ক্ষেত্রে অবশ্যই কৃষকের কাছ থেকে সরাসরি ধান সংগ্রহ নিশ্চিত করতে হবে। কোনো মধ্যস্বত্বভোগী যেন কৃষকদের ন্যায্য প্রাপ্য থেকে বঞ্চিত...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:36:11+00:00"
-    },
-    {
-      "title": "৩০০ কর্মী নিয়োগ দেবে ইজি ফ্যাশন, অভিজ্ঞতা ছাড়াও আবেদন",
-      "link": "https://www.jagonews24.com/jago-jobs/news/1183156",
-      "summary": "পোশাক প্রস্তুত ও বিপণন প্রতিষ্ঠান ইজি ফ্যাশন লিমিটেড ‘সেলসম্যান’ পদে ৩০০ জন কর্মী নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে। এরই মধ্যে আবেদন শুরু হয়েছে, চলবে ২১ ডিসেম্বর...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:36:08+00:00"
-    },
-    {
-      "title": "ব্যাংকের দাপটে ৫৬০০ পয়েন্টের কাছাকাছি সূচক",
-      "link": "https://www.jagonews24.com/economy/news/1183154",
-      "summary": "দেশের শেয়ারবাজারে ঊর্ধ্বমুখী ধারা অব্যাহত রয়েছে। ব্যাংক খাতের শেয়ারে বিনিয়োগকারীদের আগ্রহ বাড়ায় ঢাকা স্টক এক্সচেঞ্জের (ডিএসই) প্রধান মূল্যসূচক ডিএসইএক্স ৫ হাজার ৫৮৮ পয়েন্টে অবস্থান করছে...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:31:19+00:00"
-    },
-    {
-      "title": "রোহিঙ্গা গণহত্যার রায়কে স্বীকৃতি দিল যুক্তরাজ্যসহ ১৪ দেশ",
-      "link": "https://www.jagonews24.com/international/news/1183153",
-      "summary": "রোহিঙ্গা গণহত্যার ঘটনায় আন্তর্জাতিক বিচার আদালতের রায়কে স্বীকৃতি দিয়েছে যুক্তরাজ্যসহ ১৪ দেশ। একই সঙ্গে মিয়ানমারের পাঁচ সামরিক কর্মকর্তার ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য....",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:30:25+00:00"
     },
     {
       "title": "সশস্ত্র বাহিনীর মহড়া শেষে নিজেই সামরিক গাড়ি চালালেন প্রধানমন্ত্রী",
@@ -84,52 +604,12 @@
       "published": "2026-11-24T10:27:49+00:00"
     },
     {
-      "title": "‘ব্ল্যাক রাইস ও ব্ল্যাক গার্লিক’ চাষ করে আল-জায়েদের বাজিমাত",
-      "link": "https://www.jagonews24.com/agriculture-and-nature/news/1183152",
-      "summary": "২৬ বছর বয়সী আল-জায়েদ পড়াশোনা শেষ করেছেন অণুজীববিদ্যায়। চাকরির পেছনে না ছুটে শুরু করেছেন পুষ্টিগুণে সমৃদ্ধ ‘ব্ল্যাক রাইস’ চাষ। পাশাপাশি প্রাকৃতিকভাবে ফারমেন্টেশন বা গাঁজন প্রক্রিয়ায়...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:27:08+00:00"
-    },
-    {
-      "title": "বাংলাদেশ-কানাডা বাণিজ্য ৪ বিলিয়ন ডলার ছাড়াল",
-      "link": "https://www.jagonews24.com/economy/news/1183151",
-      "summary": "বাংলাদেশ ও কানাডার মধ্যে দ্বিপক্ষীয় বাণিজ্য ২০২৫ সালে প্রায় ২৫ শতাংশ বেড়ে ৪ বিলিয়ন কানাডীয় ডলার ছাড়িয়েছে...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:26:25+00:00"
-    },
-    {
       "title": "Accused of ‘emptying the coffers’, Macron mulls spending caps for future French governments",
       "link": "https://www.france24.com/en/france/20261124-accused-emptying-coffers-macron-mulls-spending-caps-future-french-governments-golden-rule",
       "summary": "Right-wing candidates vying to succeed French President Emmanuel Macron have welcomed his suggestion of a “golden rule” to cap government spending and keep deficits in check, even as they mock the profligacy of his decade in power. Critics of the proposal denounce a budgetary straitjacket imposed on future governments and a distraction from the president’s g",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-24T10:25:23+00:00"
-    },
-    {
-      "title": "অ্যাকারম্যানের ঝড়ো ১৫০, প্রথম সেশনে বাংলাদেশের অর্জন ২ উইকেট",
-      "link": "https://www.jagonews24.com/sports/cricket/1183149",
-      "summary": "১৩৭ বলেই ১৫০ রান। টেস্ট ফরম্যাটে মার্কাস অ্যাকারম্যান ওয়ানডে নাকি টি-টোয়েন্টি খেলছিলেন, বোঝা যাচ্ছিল না। তবে লাঞ্চের ঠিক আগে তাকে এলবিডব্লিউ করেছেন শরিফুল ইসলাম...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:23:02+00:00"
-    },
-    {
-      "title": "‘শেষ দৃশ্যটা শেষ করে যেতে পারলেন না’, সোহেল খানকে নিয়ে যা বললেন ইকবাল",
-      "link": "https://www.jagonews24.com/entertainment/news/1183148",
-      "summary": "বিশাল এক টিমের সঙ্গে এসেছিলেন শুটিংয়ে। কথা ছিল সিনেমার কাজ শেষ করবেন, মুক্তি নিয়ে পরিকল্পনা করবেন, সহকর্মীদের সঙ্গে আরও কিছু সময়.....",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:22:14+00:00"
-    },
-    {
-      "title": "বেপজার অগ্রযাত্রা অব্যাহত রাখতে দায়িত্বশীলতার সঙ্গে কাজ করতে হবে",
-      "link": "https://www.jagonews24.com/economy/news/1183147",
-      "summary": "বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষের (বেপজা) চলমান অগ্রযাত্রা অব্যাহত রাখতে ও প্রতিষ্ঠানটিকে আরও এগিয়ে নিতে সংশ্লিষ্ট সবাইকে আন্তরিকতা ও দায়িত্বশীলতার সঙ্গে কাজ করার আহ্বান জানিয়েছেন প্রধানমন্ত্রীর মুখ্য সচিব এ বি এম আব্দুস সাত্তার...",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:21:24+00:00"
     },
     {
       "title": "২৬ নভেম্বর শুরু ষষ্ঠ গুলশান ক্লাব অলিম্পিয়াড, যুক্ত হচ্ছে দুটি নতুন ইভেন্ট",
@@ -148,30 +628,6 @@
       "published": "2026-11-24T10:15:57+00:00"
     },
     {
-      "title": "এইচআর বিভাগে নিয়োগ দেবে পলমল গ্রুপ, আবেদন অনলাইনে",
-      "link": "https://www.jagonews24.com/jago-jobs/news/1183145",
-      "summary": "এইচআর বিভাগে নিয়োগ দেবে পলমল গ্রুপ, আবেদন অনলাইনে",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:15:06+00:00"
-    },
-    {
-      "title": "শান্তিরক্ষায় সশস্ত্র বাহিনীর অবদানের প্রশংসা আইরিন খানের",
-      "link": "https://www.jagonews24.com/national/news/1183144",
-      "summary": "শান্তিরক্ষায় সশস্ত্র বাহিনীর অবদানের প্রশংসা আইরিন খানের",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:14:31+00:00"
-    },
-    {
-      "title": "রংপুরে সপ্তাহের ব্যবধানে বেড়েছে সবজির দাম, কমেছে মুরগির",
-      "link": "https://www.jagonews24.com/country/news/1183143",
-      "summary": "রংপুরে সপ্তাহের ব্যবধানে বেড়েছে সবজির দাম, কমেছে মুরগির",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:13:35+00:00"
-    },
-    {
       "title": "মাত্র তিন ঘণ্টায় মাহিকে মিস ইউনিভার্সের মঞ্চের জন্য প্রস্তুত করেছেন নিরঞ্জন, কে তিনি",
       "link": "https://www.prothomalo.com/lifestyle/fashion/wdublc15if",
       "summary": "প্রায় পাঁচ বছর ধরে হাঁটার প্রশিক্ষণ নিয়ে কাজ করলেও সামাজিক যোগাযোগমাধ্যমে নিজের পরিচয় আড়াল করে রেখেছিলেন নিরঞ্জন। মাহিকে প্রশিক্ষণ দেওয়ার পর প্রথমবার নিজের চেহারা প্রকাশ্যে আনেন। কীভাবে শুরু হয়েছিল নিরঞ্জনের এই পথচলা? এত অল্প সময়ে কীভাবেই-বা মাহিকে প্রস্তুত করেছেন তিনি? প্রশিক্ষণের প্রথম দিনই নিরঞ্জন বুঝতে পারেন, শেখার প্রতি মাহির আগ্রহ অনেক মিস ইউনিভার্সের ",
@@ -186,22 +642,6 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-24T10:11:47+00:00"
-    },
-    {
-      "title": "বুধবারের মধ্যে ভোটকেন্দ্র ও ভোটার সংখ্যার তথ্য চাইলো ইসি",
-      "link": "https://www.jagonews24.com/national/news/1183142",
-      "summary": "বুধবারের মধ্যে ভোটকেন্দ্র ও ভোটার সংখ্যার তথ্য চাইলো ইসি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:10:47+00:00"
-    },
-    {
-      "title": "শেখ হাসিনার দেশে ফেরার খবর নিয়ে দেশীয় গণমাধ্যমের শিরোনাম বিভ্রান্তিকর",
-      "link": "https://www.jagonews24.com/national/news/1183141",
-      "summary": "শেখ হাসিনার দেশে ফেরার খবর নিয়ে দেশীয় গণমাধ্যমের শিরোনাম বিভ্রান্তিকর",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:10:24+00:00"
     },
     {
       "title": "গাজীপুরে মহাসড়কে শ্রমিকদের বিক্ষোভ, পুলিশ বক্স ভাঙচুর–আগুন, ৭০ কারখানায় ছুটি",
@@ -220,110 +660,6 @@
       "published": "2026-11-24T10:07:29+00:00"
     },
     {
-      "title": "স্কুল বাংক দিয়ে ক্রিকেট খেলা দেখতে গিয়ে ভাইরাল তিন কিশোর, কী বললেন মা-বাবা",
-      "link": "https://www.kishoralo.com/feature/ep0p09n9cq",
-      "summary": "ক্রিকেট ম্যাচ দেখতে গিয়ে যে লুকিয়ে স্কুল থেকে বেরিয়ে পড়েছিল, তা প্রথমেই স্বীকার করে নেয় তিন কিশোর। তবে এ জন্য খুব কড়া কোনো শাস্তি ওদের পেতে হয়নি। পুরো স্কুলের ময়লা পরিষ্কার করার",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:06:43+00:00"
-    },
-    {
-      "title": "বাধার মুখে বন্ধের পথে এক হাজার কোটি টাকার প্রকল্প",
-      "link": "https://www.jagonews24.com/country/news/1183139",
-      "summary": "বাধার মুখে বন্ধের পথে এক হাজার কোটি টাকার প্রকল্প",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:04:57+00:00"
-    },
-    {
-      "title": "সৌরবিদ্যুৎচালিত হিমাগার ব্যবহারে জোর দিলেন পরিবেশমন্ত্রী",
-      "link": "https://www.jagonews24.com/national/news/1183138",
-      "summary": "সৌরবিদ্যুৎচালিত হিমাগার ব্যবহারে জোর দিলেন পরিবেশমন্ত্রী",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:04:14+00:00"
-    },
-    {
-      "title": "ঢাকা–রিয়াদ–ঢাকা রুটে বিমানের ফ্লাইট স্থগিতের মেয়াদ বাড়ল ১৬ ডিসেম্বর পর্যন্ত",
-      "link": "https://www.prothomalo.com/bangladesh/7ndrjrf0zw",
-      "summary": "বিমান বাংলাদেশ এয়ারলাইনসের এক সংবাদ বিজ্ঞপ্তিতে বলা হয়, ১৬ ডিসেম্বর পর্যন্ত ঢাকা-রিয়াদ-ঢাকা রুটে নিয়মিত ফ্লাইট চলাচল বন্ধ থাকবে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:03:25+00:00"
-    },
-    {
-      "title": "গাজীপুরে সংস্কৃতির উৎসবে প্রথম আলোর ২৮ বছর",
-      "link": "https://www.bondhushava.com/activities/i7w91msi5t",
-      "summary": "গাজীপুরে প্রথম আলোর ২৮তম প্রতিষ্ঠাবার্ষিকী উপলক্ষে আয়োজিত অনুষ্ঠানে বক্তারা এ কথা বলেন। তাঁরা মনে করেন, প্রথম আলো সব সময়, যেকোনো পরিস্থিতিতে সত্য প্রকাশ করবে এবং মানুষের পক্ষে কথা বলবে। গাজীপুরের বাংলাদেশ ধান গবেষণা ইনস্টিটিউট উচ্চবিদ্যালয় মিলনায়তনে অনুষ্ঠানটির আয়োজন করে গাজীপুর বন্ধুসভা।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:03:04+00:00"
-    },
-    {
-      "title": "হরমুজ প্রণালিতে মাইন বিস্ফোরণ, যুক্তরাষ্ট্রের নিরাপত্তায় থাকা ৩ ট্যাংকার ক্ষতিগ্রস্ত",
-      "link": "https://www.prothomalo.com/video/international/e0g797emgu",
-      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/hrmuj-prnalite-main-bisforn-zuktrashtrer-nirapttaz-thaka-3-tzangkar-kshtigrst",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:01:47+00:00"
-    },
-    {
-      "title": "রেস্তোরাঁর বাসন ধোয়ার কাজ থেকে গড়েছেন ৫ লাখ কোটি ডলারের সাম্রাজ্য, জেনসেনের এক বিস্ময়কর যাত্রা",
-      "link": "https://www.prothomalo.com/world/kv4eo5vvkl",
-      "summary": "কেন্টাকির বোর্ডিং স্কুলে সহপাঠীদের ছুরিকাঘাত আর ডেনিস রেস্তোরাঁয় এঁটো বাসন মাজার চরম লড়াই পেরিয়েই বিশ্বখ্যাত প্রযুক্তিপ্রতিষ্ঠান এনভিডিয়ার পাঁচ ট্রিলিয়ন ডলারের বৈশ্বিক সাম্রাজ্য গড়েছেন তিনি।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T10:00:00+00:00"
-    },
-    {
-      "title": "হরমুজ প্রণালিতে মাইন বিস্ফোরণ, যুক্তরাষ্ট্রের নিরাপত্তায় থাকা ৩ ট্যাংকার ক্ষতিগ্রস্ত",
-      "link": "https://www.prothomalo.com/video/international/m1749iq6q8",
-      "summary": "হরমুজ প্রণালিতে সামুদ্রিক মাইনের আঘাতে বিস্ফোরণের শিকার হয়েছে যুক্তরাষ্ট্রের তিনটি তেলবাহী ট্যাংকার। এ দাবি করেছে ইরানের আইআরজিসি। এদিকে ইরানের বিরুদ্ধে সাইবার হামলার তদন্ত ও নিষেধাজ্ঞার উদ্যোগ যুক্তরাষ্ট্রের। দেখুন ভিডিওতে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:59:08+00:00"
-    },
-    {
-      "title": "প্রত্যর্পণ চুক্তির মাধ্যমেই শেখ হাসিনাকে ফিরতে হবে, লালগালিচায় নয়",
-      "link": "https://www.jagonews24.com/national/news/1183137",
-      "summary": "প্রত্যর্পণ চুক্তির মাধ্যমেই শেখ হাসিনাকে ফিরতে হবে, লালগালিচায় নয়",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:58:02+00:00"
-    },
-    {
-      "title": "হোটেলের তৃতীয় তলা থেকে ফেলে প্রেমিকাকে হত্যা",
-      "link": "https://www.jagonews24.com/international/news/1183136",
-      "summary": "হোটেলের তৃতীয় তলা থেকে ফেলে প্রেমিকাকে হত্যা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:57:23+00:00"
-    },
-    {
-      "title": "আফ্রিকার খনিজ সম্পদ নিয়ে ৩ পরাশক্তির লড়াই",
-      "link": "https://www.jagonews24.com/international/news/1183135",
-      "summary": "আফ্রিকার খনিজ সম্পদ নিয়ে ৩ পরাশক্তির লড়াই",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:57:06+00:00"
-    },
-    {
-      "title": "মিশরে আল-আশার মিন রামাদানে বিশেষ কনস্যুলার সেবা ২৭-২৮ নভেম্বর",
-      "link": "https://www.jagonews24.com/probash/news/1183134",
-      "summary": "মিশরে আল-আশার মিন রামাদানে বিশেষ কনস্যুলার সেবা ২৭-২৮ নভেম্বর",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:57:00+00:00"
-    },
-    {
-      "title": "বাংলাদেশি পণ্য বেশি আমদানি ও বিনিয়োগে ভিয়েতনামকে রাষ্ট্রপতির আহ্বান",
-      "link": "https://www.jagonews24.com/national/news/1183133",
-      "summary": "বাংলাদেশি পণ্য বেশি আমদানি ও বিনিয়োগে ভিয়েতনামকে রাষ্ট্রপতির আহ্বান",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:55:42+00:00"
-    },
-    {
       "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
       "link": "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
       "summary": "A French police officer who shot and killed 17-year-old Nahel Merzouk during a traffic stop in June 2023 will stand trial for murder following a ruling by the Versailles appeals court. Merzouk's death at the hands of the police sparked intense riots in the sprawling suburbs surrounding Paris.",
@@ -340,14 +676,6 @@
       "published": "2026-11-24T09:53:55+00:00"
     },
     {
-      "title": "মালার ‘খোকাবাবু’, পুলিশ কর্মকর্তা হয়ে এলেন পাপন মৃধা",
-      "link": "https://www.jagonews24.com/entertainment/news/1183131",
-      "summary": "মালার ‘খোকাবাবু’, পুলিশ কর্মকর্তা হয়ে এলেন পাপন মৃধা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:53:30+00:00"
-    },
-    {
       "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
       "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
       "summary": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
@@ -356,100 +684,12 @@
       "published": "2026-11-24T09:51:26+00:00"
     },
     {
-      "title": "ইরানের সশস্ত্র বাহিনী প্রস্তুত: জেনারেল মোস্তফা ইজাদি",
-      "link": "https://www.jagonews24.com/international/news/1183130",
-      "summary": "ইরানের সশস্ত্র বাহিনী প্রস্তুত: জেনারেল মোস্তফা ইজাদি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:49:10+00:00"
-    },
-    {
-      "title": "অনুমতি ছাড়া জেলার বাইরে নেওয়া যাবে না বিচারকদের সরকারি গাড়ি",
-      "link": "https://www.jagonews24.com/national/news/1183129",
-      "summary": "অনুমতি ছাড়া জেলার বাইরে নেওয়া যাবে না বিচারকদের সরকারি গাড়ি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:49:07+00:00"
-    },
-    {
-      "title": "মাছ কেন জবাই ছাড়াই হালাল, ভেসে ওঠা মরা মাছ কেন নয়",
-      "link": "https://www.prothomalo.com/religion/islam/6qowkguldx",
-      "summary": "প্রাণীদের জবাই করার উদ্দেশ্য গলার রগ কেটে শরীরের দূষিত ও প্রবাহিত রক্ত বের করে দেওয়া, যা রোগজীবাণুর আধার। কিন্তু মাছের শরীরে এমন রক্ত থাকে না।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:48:35+00:00"
-    },
-    {
-      "title": "বেনাপোলের কাছে ককটেল বিস্ফোরণে দুই শ্রমিকনেতা আহত, প্রতিবাদে বিক্ষোভ মিছিল",
-      "link": "https://www.prothomalo.com/bangladesh/district/fq1h1b7xp8",
-      "summary": "যশোরের বেনাপোল স্থলবন্দর–সংলগ্ন এলাকায় ককটেল বিস্ফোরণে শ্রমিক ইউনিয়নের দুই নেতা আহত হয়েছেন। গতকাল সোমবার রাত একটার দিকে শার্শা উপজেলার ছোট আঁচড়া গ্রামে এ ঘটনা ঘটে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:45:32+00:00"
-    },
-    {
-      "title": "সেনাবাহিনীর গাড়ি চালিয়ে মহড়া প্রত্যক্ষ করলেন প্রধানমন্ত্রী",
-      "link": "https://www.jagonews24.com/national/news/1183128",
-      "summary": "সেনাবাহিনীর গাড়ি চালিয়ে মহড়া প্রত্যক্ষ করলেন প্রধানমন্ত্রী",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:43:07+00:00"
-    },
-    {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-24T09:42:54+00:00"
-    },
-    {
-      "title": "অভিভাবকত্বের প্রশ্নে শিশুর কল্যাণই হোক শেষ কথা",
-      "link": "https://www.prothomalo.com/opinion/column/zemz7ikd5m",
-      "summary": "মা–বাবা ও দুই সন্তানের একটি পরিবার। সন্তানদের শৈশব থেকে কৈশোর—বেড়ে ওঠার প্রতিটি বাঁকে বাবার স্নেহময় উপস্থিতি ছিল যেন নির্ভরতার এক নির্ভার ছায়া।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:42:05+00:00"
-    },
-    {
-      "title": "তৃতীয় শ্রেণির ছাত্রীকে ধর্ষণ মামলায় একজনের যাবজ্জীবন",
-      "link": "https://www.jagonews24.com/country/news/1183127",
-      "summary": "তৃতীয় শ্রেণির ছাত্রীকে ধর্ষণ মামলায় একজনের যাবজ্জীবন",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:41:22+00:00"
-    },
-    {
-      "title": "How two directors fought back when their film was stolen — and won an International Emmy Award",
-      "link": "https://www.dw.com/en/how-two-directors-fought-back-when-their-film-was-stolen-and-won-an-international-emmy-award/a-76103455?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "German directors' doc on stolen film wins International Emmy Award",
+      "link": "https://www.dw.com/en/german-directors-doc-on-stolen-film-wins-international-emmy-award/a-76103455?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Two German film students confronted the American who won festival prizes with their animated movie. \"The Talented Mr. F,\" their documentary on their fight against plagiarism, is now in the spotlight.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-24T09:41:00+00:00"
-    },
-    {
-      "title": "হাওর-চর-পাহাড়ের ১৪৭ বিদ্যালয় জাতীয়করণ চান শিক্ষকরা",
-      "link": "https://www.jagonews24.com/education/news/1183126",
-      "summary": "হাওর-চর-পাহাড়ের ১৪৭ বিদ্যালয় জাতীয়করণ চান শিক্ষকরা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:40:15+00:00"
-    },
-    {
-      "title": "রেজিস্ট্রি অফিসের কর্মীদের দৈনিক মজুরি বাড়ানোর প্রস্তাব",
-      "link": "https://www.jagonews24.com/national/news/1183125",
-      "summary": "রেজিস্ট্রি অফিসের কর্মীদের দৈনিক মজুরি বাড়ানোর প্রস্তাব",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:36:26+00:00"
-    },
-    {
-      "title": "ট্রাম্পের হস্তক্ষেপে এনভিডিয়ার সিইও পদ ফিরে পেয়েছেন হুয়াং!",
-      "link": "https://www.jagonews24.com/international/news/1183124",
-      "summary": "ট্রাম্পের হস্তক্ষেপে এনভিডিয়ার সিইও পদ ফিরে পেয়েছেন হুয়াং!",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:35:02+00:00"
     },
     {
       "title": "Istanbul 'lion hunt' ends with no big cat found after all",
@@ -458,46 +698,6 @@
       "source": "DW",
       "category": "World",
       "published": "2026-11-24T09:34:00+00:00"
-    },
-    {
-      "title": "ইউক্রেন যুদ্ধে রাশিয়ার ৭ লাখের বেশি সেনা নিহত",
-      "link": "https://www.prothomalo.com/world/europe/bph3opfppr",
-      "summary": "রাশিয়ার রাষ্ট্রীয় পরিসংখ্যান সংস্থা রসস্ট্যাট থেকে ইউক্রেনপন্থী দুই হ্যাকার গোষ্ঠীর সংগ্রহ করা বিপুল পরিমাণ নতুন তথ্য বিশ্লেষণ করে এই তালিকা তৈরি করা হয়েছে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "title": "সিডনিতে বিজয়া সম্মিলন অনুষ্ঠিত",
-      "link": "https://nagorik.prothomalo.com/durporobash/7i4qu90dm4",
-      "summary": "অশুভর বিনাশ ও বিশ্বলোকের শুচিতার কামনায় অস্ট্রেলিয়ার সিডনিতে উৎসবমুখর পরিবেশে অনুষ্ঠিত হয়েছে বার্ষিক সামাজিক ও সাংস্কৃতিক আয়োজন বিজয়া সম্মিলন।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:26:58+00:00"
-    },
-    {
-      "title": "স্বতন্ত্র পরিচালকদের স্বাধীনভাবে কাজের পরিবেশ থাকতে হবে",
-      "link": "https://www.prothomalo.com/business/analysis/mqn4sxpkdi",
-      "summary": "বেসরকারি ব্যাংকে একই পরিবারের তিনজন এখন পরিচালক হতে পারেন। এটা একসময় দুজন ছিল।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:20:29+00:00"
-    },
-    {
-      "title": "নওহাটায় আছে ‘পঙ্খীরাজ’, হয় মাটি-পানি পরীক্ষা, হাসি ফুটছে কৃষকের মুখে",
-      "link": "https://www.prothomalo.com/bangladesh/gtmvmjasxf",
-      "summary": "বেসরকারি সংগঠন ব্র্যাকের ক্ষুদ্রঋণ কর্মসূচির সমন্বিত গ্রামভিত্তিক উদ্যোগ ‘এগ্রি মডার্ন ভিলেজ’ বা ‘আধুনিক কৃষি গ্রাম’ বদলে দিচ্ছে মানিকগঞ্জের নওহাটা গ্রামের দৃশ্যপট।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:18:02+00:00"
-    },
-    {
-      "title": "ঢাবিতে পরিবেশ পরিকল্পনা ও টেকসই উন্নয়নে মাস্টার্স, আবেদনে যোগ্যতা কী কী",
-      "link": "https://www.prothomalo.com/education/admission/mgjb7lnfqj",
-      "summary": "ঢাকা বিশ্ববিদ্যালয়ে পরিবেশ পরিকল্পনা ও টেকসই উন্নয়নে প্রফেশনাল মাস্টার্স প্রোগ্রামে ভর্তিপ্রক্রিয়া শুরু হয়েছে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T09:10:00+00:00"
     },
     {
       "title": "Watch: Moment troops raid home and capture Mexican drug lord",
@@ -516,22 +716,6 @@
       "published": "2026-11-24T09:03:00+00:00"
     },
     {
-      "title": "সূর্যের আলো থেকে জ্বালানি তৈরির ব্যাটারিবিহীন যন্ত্র তৈরি করেছেন বিজ্ঞানীরা",
-      "link": "https://www.prothomalo.com/technology/science/6gq87nep1h",
-      "summary": "সূর্যের আলো থেকে জ্বালানি তৈরির ব্যাটারিবিহীন যন্ত্র তৈরি করেছেন বিজ্ঞানীরা",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T08:56:45+00:00"
-    },
-    {
-      "title": "ঈশ্বরদীতে বিএনপির মিছিলে গুলির পর জামায়াতের চার নেতা-কর্মীর বাড়িতে হামলা, অগ্নিসংযোগ",
-      "link": "https://www.prothomalo.com/bangladesh/district/rv8tg3id87",
-      "summary": "পাবনার ঈশ্বরদীতে বিএনপির মিছিলের প্রস্তুতির সময় গোলাগুলির ঘটনার জেরে জামায়াতে ইসলামীর স্থানীয় নেতা–কর্মীদের বাড়িঘরে হামলা, লুটপাট ও অগ্নিসংযোগের অভিযোগ উঠেছে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T08:56:29+00:00"
-    },
-    {
       "title": "China to launch first space mission with a foreign astronaut",
       "link": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
       "summary": "Pakistan's Muhammad Zeeshan Ali will become the first foreign astronaut to board China's Tiangong space station when the latest crew blasts off Wednesday. Ali said he would be carrying \"the hopes of 250 million Pakistanis\" with him.",
@@ -540,44 +724,12 @@
       "published": "2026-11-24T08:50:18+00:00"
     },
     {
-      "title": "স্বীকৃতি সবার প্রাপ্য—সরকারি চাকরি নয়, অবদানই হোক মর্যাদার মাপকাঠি",
-      "link": "https://nagorik.prothomalo.com/ayojon/h76diy052u",
-      "summary": "স্বীকৃতি কার না ভালো লাগে? মানুষ তার জীবনের প্রায় প্রতিটি ক্ষেত্রেই কোনো না কোনোভাবে স্বীকৃতি পাওয়ার প্রত্যাশা নিয়ে কাজ করে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T08:49:56+00:00"
-    },
-    {
-      "title": "শেখ হাসিনা বিমানে চড়ে নাকি হেঁটে ফিরবেন, সেই আলোচনা হবে ভারতের সঙ্গে: জাহেদ উর রহমান",
-      "link": "https://www.prothomalo.com/video/bangladesh/jvuubgp9e4",
-      "summary": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে ভারত থেকে কীভাবে দেশে আনা হবে, সেই আলোচনা কেবল ভারতের সঙ্গেই হবে বলে জানিয়েছেন প্রধানমন্ত্রীর তথ্য ও সম্প্রচার উপদেষ্টা জাহেদ উর রহমান। দেখুন ভিডিওতে…",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T08:49:37+00:00"
-    },
-    {
-      "title": "ফিলিপাইনে সোনার ব্যাটন চাইলেন ট্রাম্প, কেন দেওয়া হয়নি জানাল সেনাবাহিনী",
-      "link": "https://www.prothomalo.com/world/asia/mqqplsivy5",
-      "summary": "ফিলিপাইনের প্রেসিডেন্ট ফার্দিনান্দ মার্কোস জুনিয়রের আয়োজিত রাষ্ট্রীয় মধ্যাহ্নভোজে ডোনাল্ড ট্রাম্প বলেন, তাঁকে সোনার ব্যাটন ও ফিল্ড মার্শাল পদমর্যাদা দেওয়া হয়নি।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-24T08:48:17+00:00"
-    },
-    {
       "title": "Chinese official gets death sentence in spy case, report says",
       "link": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "A Chinese official recruited while working abroad was paid more than a million yuan to leak secrets, state-affiliated media reported.",
       "source": "DW",
       "category": "World",
       "published": "2026-11-24T08:41:00+00:00"
-    },
-    {
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-24T08:35:41+00:00"
     },
     {
       "title": "What happens if a nuclear weapon explodes in space?",
@@ -650,158 +802,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-24T07:36:07+00:00"
-    },
-    {
-      "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-      "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-      "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T07:35:02+00:00"
-    },
-    {
-      "title": "Exiled leader Sheikh Hasina plans to return to Bangladesh on Dec. 16",
-      "link": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "After two years of exile in India, ousted Prime Minister Sheikh Hasina has set a return date to Bangladesh. She was sentenced to death in absentia last year over a brutal crackdown that left hundreds dead.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-24T07:32:00+00:00"
-    },
-    {
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-24T07:26:27+00:00"
-    },
-    {
-      "title": "Jensen Huang’s return has calmed markets but fears of an AI bubble still run deep",
-      "link": "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
-      "summary": "Nvidia's decision to bring back Jensen Huang as CEO pushed the AI computing company's stocks up more than 30 percent Monday. But the model of circular financing increasingly underwriting the AI boom still has some analysts worried that the party can't last forever.",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-24T07:15:21+00:00"
-    },
-    {
-      "title": "Member states must not betray the ICC",
-      "link": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
-      "summary": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T07:13:18+00:00"
-    },
-    {
-      "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-      "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-      "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T07:02:52+00:00"
-    },
-    {
-      "title": "Why Eisenkot is negotiating with Netanyahu",
-      "link": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
-      "summary": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T07:02:40+00:00"
-    },
-    {
-      "title": "Collapse of COP31: 'This deal was a bad deal and better no deal than a bad deal'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261124-collapse-of-cop31-this-deal-was-a-bad-deal-and-better-no-deal-than-a-bad-deal",
-      "summary": "François Picard is joined by Ireland's former environment minister Eamon Ryan following the collapse of COP31 in Antalya, Turkey. \"Political science trumps climate science still,\" Ryan reacted. The talks failed after the European Union and up to 100 countries refused to accept a final text that abandoned earlier commitments to transition away from fossil fue",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-24T06:51:34+00:00"
-    },
-    {
-      "title": "AFCON 2025: CAS set to hand down ruling on controversial final",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261124-2025-afcon-cas-set-to-hand-down-ruling-on-controversial-final",
-      "summary": "The Court of Arbitration for Sport will deliver its ruling this Tuesday on the 2025 Africa Cup of Nations final. Senegal won the match on the pitch, but Morocco were awarded the trophy following an appeal to the CAF.",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-24T06:35:07+00:00"
-    },
-    {
-      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T06:24:25+00:00"
-    },
-    {
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-24T06:23:01+00:00"
-    },
-    {
-      "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
-      "link": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "According to a study by the Körber Foundation, a growing number of Germans now oppose providing military aid to Ukraine. The majority also believes that Germany should take a neutral position between the US and China.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-24T05:59:00+00:00"
-    },
-    {
-      "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
-      "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T05:56:41+00:00"
-    },
-    {
-      "title": "Live: Russian strikes on Ukraine’s Zaporizhzhia kill two people and wound dozens more",
-      "link": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
-      "summary": "A Russian attack killed two people in the Ukrainian city of Zaporizhzhia overnight, regional governor Mykhailo Semikin said on Tuesday. Some 40 people, four of them children, were also wounded in the strikes, the governor added. Follow our liveblog for all the latest updates.",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-24T05:50:16+00:00"
-    },
-    {
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-24T05:33:07+00:00"
-    },
-    {
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-      "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T04:59:13+00:00"
-    },
-    {
-      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
-      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T04:52:06+00:00"
-    },
-    {
-      "title": "Car bomb strikes governor’s office in Meta, Colombia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
-      "summary": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T04:49:31+00:00"
-    },
-    {
-      "title": "India’s best known bottled water under scrutiny",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
-      "summary": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-24T04:44:35+00:00"
     }
   ],
   "sourceErrors": [
