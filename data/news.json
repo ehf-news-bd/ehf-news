@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-11-25T20:42:17.202049+00:00",
+  "updatedAt": "2026-11-25T21:45:46.782283+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-25T21:43:18+00:00"
+    },
+    {
+      "title": "কুয়েতে সশস্ত্র বাহিনী দিবস উদযাপন",
+      "link": "https://www.jagonews24.com/probash/news/1183775",
+      "summary": "‘বাংলাদেশ মিলিটারি কন্টিনজেন্টস (বিএমসি) টু কুয়েত’-এর উদ্যোগে যথাযোগ্য মর্যাদা ও উৎসবমুখর পরিবেশে সশস্ত্র বাহিনী দিবস উদযাপন করা হয়েছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-25T21:41:11+00:00"
+    },
+    {
+      "title": "Egypt: At least 30 dead after fuel truck overturns on highway",
+      "link": "https://www.dw.com/en/egypt-at-least-30-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The accident occurred on the packed Ring Road in Giza near Cairo. Dozens of ambulances are responding to the crash, and Egyptian health authorities say the death toll could rise.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-25T21:37:00+00:00"
+    },
+    {
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-25T21:25:14+00:00"
+    },
+    {
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-25T21:03:51+00:00"
+    },
+    {
+      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-25T20:52:32+00:00"
+    },
+    {
+      "title": "‘আর ব্যর্থতা মেনে নিতে পারছি না’ লিখে ঢাকা কলেজের ছাত্রের আত্মহত্যা",
+      "link": "https://www.jagonews24.com/national/news/1183774",
+      "summary": "ঢাকা কলেজের গণিত বিভাগের অনার্স চতুর্থ বর্ষের শিক্ষার্থী কামরুল ইসলাম সুইসাইড নোট লিখে রেখে আত্মহত্যা করেছেন। মঙ্গলবার (২৪ নভেম্বর) রাত ১০টার দিকে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-25T20:43:51+00:00"
+    },
+    {
+      "title": "Baby Aliyah steals the show during Australian Senate debate",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+      "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-25T20:42:41+00:00"
+    },
+    {
+      "title": "Did GTA 6 really recreate Charlie Kirk's assassination?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261125-did-gta-6-really-recreate-charlie-kirk-s-assassination",
+      "summary": "Just days after its release, Grand Theft Auto 6 has become a vehicle for political misinformation. Viral footage falsely claims the game features a mission recreating Charlie Kirk’s assassination, while pro-Russian accounts are sharing fake screenshots containing anti-Ukrainian messages. Meanwhile, Russia’s own Defence Ministry has exploited the game's popul",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T20:38:28+00:00"
+    },
+    {
+      "title": "‘ওয়েস্ট বেঙ্গল’ নাম পরিবর্তনের প্রস্তাব বিজেপির, সত্যিই কি বদলে যাচ্ছে রাজ্যটির নাম",
+      "link": "https://www.prothomalo.com/world/india/wg4wra43q3",
+      "summary": "বিজেপি নেতৃত্বাধীন সরকার যে যুক্তিই দিক, নাম পরিবর্তন হলে মানুষের সুবিধার চেয়ে সমস্যা তৈরি হতে পারে বলে মনে করছেন বুদ্ধিজীবীদের অনেকে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-25T20:34:50+00:00"
+    },
+    {
+      "title": "What’s behind Europe’s protests?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+      "summary": "Increase in protests and industrial disputes across EU and UK.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-25T20:30:22+00:00"
+    },
     {
       "title": "শেখ হাসিনার সাবেক উপ–প্রেস সচিব শাখাওয়াতকে আটক করে পুলিশে দিলেন ছাত্রদলের নেতা-কর্মীরা",
       "link": "https://www.prothomalo.com/bangladesh/97ciszq5lu",
@@ -10,6 +98,14 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-25T20:29:59+00:00"
+    },
+    {
+      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+      "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-25T20:29:22+00:00"
     },
     {
       "title": "Nigeria detains 5 Mexicans, confiscates over $220 million of meth",
@@ -76,6 +172,14 @@
       "published": "2026-11-25T19:57:08+00:00"
     },
     {
+      "title": "Campaign rules for influencers? French regulator targets content creators",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261125-campaign-rules-for-influencers-french-regulator-targets-content-creators",
+      "summary": "Ever since 1965 when the French first got to cast a ballot by universal suffrage for their president, they've valued campaign rules that guarantee ‘equal time’ for candidates. But what does equal time mean when you're closing in on 2027? Last week a bombshell announcement ahead of next Spring’s presidential elections: major online content creators will have ",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T19:55:03+00:00"
+    },
+    {
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
@@ -98,6 +202,14 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-25T19:53:49+00:00"
+    },
+    {
+      "title": "EU says 'strongly' rejects premise of new US tariffs",
+      "link": "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
+      "summary": "The EU said Wednesday that it rejected the premise of new tariffs on its exports proposed by the United States and expected Washington to stick by a deal struck with Brussels last year. The US unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. FRANCE 24's Dave Keating re",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T19:48:32+00:00"
     },
     {
       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
@@ -148,6 +260,14 @@
       "published": "2026-11-25T19:33:05+00:00"
     },
     {
+      "title": "In boost for Netanyahu, judges question corruption trial charges",
+      "link": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
+      "summary": "Judges in the long-running corruption trial of Israeli caretaker Prime Minister Benjamin Netanyahu handed his defence a major boost on Wednesday in recommending the prosecution drop one of the cases in which he is accused of bribery. The recommendations, which came as Israel's longest-serving prime minister fights for his political survival, were immediately",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T19:28:13+00:00"
+    },
+    {
       "title": "Bellingham’s wondergoal sparks Zidane comparisons",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
       "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
@@ -172,6 +292,14 @@
       "published": "2026-11-25T19:26:44+00:00"
     },
     {
+      "title": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+      "link": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "summary": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other metho",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T19:22:43+00:00"
+    },
+    {
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
       "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
@@ -194,6 +322,14 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-25T19:15:52+00:00"
+    },
+    {
+      "title": "US unveils proposed tariffs on major partners, including EU and China",
+      "link": "https://www.france24.com/en/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
+      "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production -- the latest move by US President Donald Trump to remake Washington's trade relationships. The duties, proposed at up to 20 percent, come over allegations the economies \"are promoting produ",
+      "source": "France 24",
+      "category": "World",
+      "published": "2026-11-25T19:15:03+00:00"
     },
     {
       "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
@@ -270,7 +406,7 @@
     {
       "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
       "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
-      "summary": "An additional 15 were injured in blaze of fire after vehicle carrying petroleum products flipped on a major road.",
+      "summary": "An additional 15 were injured in blaze after vehicle carrying petroleum products flipped on a major road.",
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-25T18:55:23+00:00"
@@ -404,14 +540,6 @@
       "published": "2026-11-25T17:50:41+00:00"
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-25T17:48:09+00:00"
-    },
-    {
       "title": "টিকটকে পরিচয়, কিশোরীকে ঢাকায় এনে ধর্ষণের অভিযোগ, চীনা নাগরিক গ্রেপ্তার",
       "link": "https://www.prothomalo.com/bangladesh/district/konmd1ebaa",
       "summary": "ঢাকার উত্তরার একটি ফ্ল্যাট থেকে ওই কিশোরীকে উদ্ধার করে পরিবারের জিম্মায় দিয়েছে পুলিশ। ধর্ষণের অভিযোগের মামলায় চীনা নাগরিককে গ্রেপ্তারের পর কারাগারে পাঠানো হয়েছে।",
@@ -452,14 +580,6 @@
       "published": "2026-11-25T17:30:16+00:00"
     },
     {
-      "title": "বাংলাদেশের পোশাকশ্রমিকের মজুরি কোন প্রতিদ্বন্দ্বী দেশের চেয়ে বেশি",
-      "link": "https://www.prothomalo.com/business/industry/120032n4bt",
-      "summary": "ডলারের হিসাবে বাংলাদেশের পোশাকশ্রমিকের ন্যূনতম মজুরি এখন ভারত ও পাকিস্তানের চেয়ে বেশি।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T17:30:00+00:00"
-    },
-    {
       "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
       "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
       "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
@@ -484,14 +604,6 @@
       "published": "2026-11-25T17:19:21+00:00"
     },
     {
-      "title": "‘সোনার বার’ ৪১টি, পরীক্ষার পর দেখা গেল লোহা",
-      "link": "https://www.prothomalo.com/bangladesh/district/wp61sy52qu",
-      "summary": "গতকাল মঙ্গলবার রাত আটটার দিকে রাজশাহী নগরের কর্ণহার থানার কৈকুড়ি মোড়-সংলগ্ন ব্রিজের পশ্চিম পাশে পুলিশের চেকপোস্টে ওই দুজনকে গ্রেপ্তার করা হয়।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T17:06:27+00:00"
-    },
-    {
       "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
       "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64",
@@ -502,7 +614,7 @@
     {
       "title": "মরদেহগুলো যাতে ভেসে না ওঠে, তাই পেট চিরে ইট-সিমেন্টের বস্তা বাঁধা হয়",
       "link": "https://www.jagonews24.com/law-courts/news/1183760",
-      "summary": "একজনকে নয়, একে একে সাতজনকে অপহরণ। এরপর ইনজেকশন দিয়ে অচেতন করে মুখে পলিথিন পেঁচিয়ে শ্বাসরোধে হত্যা। মৃত্যু নিশ্চিত হওয়ার পর মরদেহের পেট...",
+      "summary": "মরদেহগুলো যাতে ভেসে না ওঠে, তাই পেট চিরে ইট-সিমেন্টের বস্তা বাঁধা হয়",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-25T17:05:26+00:00"
@@ -514,14 +626,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-25T17:01:26+00:00"
-    },
-    {
-      "title": "বাংলাদেশকে ইসলামি অর্থায়নের আঞ্চলিক কেন্দ্র হিসেবে গড়ার পরামর্শ বিশেষজ্ঞদের",
-      "link": "https://www.prothomalo.com/business/corporate/e1d9iyyk9c",
-      "summary": "কৃষি, সীমান্তবাণিজ্য ও নদীবন্দর ঘিরে কুড়িগ্রামে শিল্পায়নের বিপুল সম্ভাবনা থাকলেও পুঁজি ও যোগাযোগ সংকটে তা কাজে লাগছে না। বন্ধ কারখানা চালু, অর্থনৈতিক অঞ্চল প্রতিষ্ঠা ও বন্দর সচল করার দাবি ব্যবসায়ীদের।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T17:00:00+00:00"
     },
     {
       "title": "Djibouti: The Man Who Dared",
@@ -548,30 +652,6 @@
       "published": "2026-11-25T16:52:22+00:00"
     },
     {
-      "title": "বাঘায় বিদ্যালয়ের প্রধান শিক্ষকের কক্ষে তালা, নেপথ্যে কি",
-      "link": "https://www.prothomalo.com/bangladesh/district/rzxlbio1to",
-      "summary": "রাজশাহীর বাঘা উপজেলার একটি সরকারি প্রাথমিক বিদ্যালয়ের প্রধান শিক্ষকের কক্ষে তালা ঝোলানোর ঘটনা ঘটেছে। খবর পেয়ে উপজেলা শিক্ষা কর্মকর্তা গিয়ে তালা খোলার ব্যবস্থা করেন। তবে দুই ঘণ্টা ধরে প্রধান শিক্ষককে তাঁর কক্ষের বাইরে অপেক্ষা করতে হয়।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:51:02+00:00"
-    },
-    {
-      "title": "নানক–নাছিমদের আগরতলায় অবস্থানের খবর, বিএনপির বিক্ষোভ",
-      "link": "https://www.prothomalo.com/video/bangladesh/49bsrfdo6x",
-      "summary": "https://admin-prothomalo-video.chorki.net/v1/bytes/nank-nachimder-agrtlaz-obsthaner-khbr-bienpir-bikshov",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:47:32+00:00"
-    },
-    {
-      "title": "নানক–নাছিমদের আগরতলায় অবস্থানের খবর, বিএনপির বিক্ষোভ",
-      "link": "https://www.prothomalo.com/video/bangladesh/0m4uvm2g9h",
-      "summary": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা জাহাঙ্গীর কবির নানক, বাহাউদ্দিন নাছিমসহ কয়েকজন নেতা ভারতের আগরতলায় অবস্থান করছেন—এমন খবর ছড়িয়ে পড়ার পর আখাউড়া স্থলবন্দরে বিক্ষোভ করেছেন বিএনপির নেতা-কর্মীরা। বিস্তারিত ভিডিওতে…",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:46:27+00:00"
-    },
-    {
       "title": "Colombian forces rescue all hostages after supermarket siege",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
       "summary": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
@@ -580,17 +660,9 @@
       "published": "2026-11-25T16:44:22+00:00"
     },
     {
-      "title": "সাবেক সচিবসহ ৯৭ জনের ব্যাংক হিসাব জব্দ, তালিকায় আছেন কারা",
-      "link": "https://www.prothomalo.com/business/economics/y6totvgr0s",
-      "summary": "গোপালগঞ্জে সহিংসতার ঘটনায় অর্থায়নের অভিযোগে সাবেক স্বাস্থ্যসচিবসহ ৯৭ জনের ব্যাংক হিসাব জব্দ করেছে জাতীয় রাজস্ব বোর্ডের (এনবিআর) আয়কর গোয়েন্দা সংস্থা। তাঁদের মধ্যে স্থানীয় আওয়ামী লীগের বিভিন্ন পর্যায়ের নেতা, সাবেক জনপ্রতিনিধি ও ব্যবসায়ীরাও রয়েছেন। তাঁদের আয়কর নথি ও আর্থিক লেনদেন খতিয়ে দেখতে এ উদ্যোগ নিয়েছে সংস্থাটি। এনবিআরের গোয়েন্দা সংস্থার তথ্য অনুযায়ী, গোপ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:40:00+00:00"
-    },
-    {
       "title": "বগুড়ায় বিএনপি কার্যালয়ে আগুন দেওয়ার ঘটনাটি সঠিক নয়",
       "link": "https://www.jagonews24.com/politics/news/1183759",
-      "summary": "বগুড়ার নন্দীগ্রামে উপজেলা বিএনপির দলীয় কার্যালয়ে আগুন দেওয়ার খবর ছড়িয়ে পড়লেও ঘটনাটি সঠিক নয়। কার্যালয়ের পাশে ময়লার স্তূপে লাগা আগুনে...",
+      "summary": "বগুড়ায় বিএনপি কার্যালয়ে আগুন দেওয়ার ঘটনাটি সঠিক নয়",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-25T16:39:24+00:00"
@@ -602,14 +674,6 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-25T16:37:37+00:00"
-    },
-    {
-      "title": "শুধু আইন করলেই হবে না, আইনের প্রয়োগ ও জবাবদিহি নিশ্চিত করতে হবে",
-      "link": "https://www.prothomalo.com/bangladesh/9twd2sdo1u",
-      "summary": "নারী ও কন্যাশিশুর ওপর সহিংসতা বন্ধে শুধু আইন প্রণয়ন করলেই হবে না, আইনের কার্যকর বাস্তবায়ন ও জবাবদিহি নিশ্চিত করা জরুরি বলে উল্লেখ করেছেন একটি আলোচনা সভার বক্তারা। নারী ও কন্যাশিশুদের ওপর সহিংসতা বন্ধে আজ বুধবার রাজধানীর আলোকিতে আয়োজিত জাতীয় সংলাপে বক্তারা এ অভিমত দিয়েছেন। ‘সুরক্ষা, ন্যায়বিচার নিশ্চিত ও দায়মুক্তির অবসানে আইনি কাঠামো জোরদার’ শীর্ষক এ সংলাপের আ",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:37:33+00:00"
     },
     {
       "title": "Why are school shootings continuing to shake the Balkans?",
@@ -628,28 +692,12 @@
       "published": "2026-11-25T16:36:39+00:00"
     },
     {
-      "title": "বাংলাদেশসহ ১৬ দেশের ওপর নতুন শুল্ক আরোপ করতে পারে যুক্তরাষ্ট্র ও অন্যান্য খবর",
-      "link": "https://www.prothomalo.com/video/business/qotgsfpgko",
-      "summary": "বাংলাদেশসহ ১৬ দেশের ওপর নতুন শুল্ক আরোপ করতে পারে যুক্তরাষ্ট্র। নড়াইলসহ সাত জেলার এসপি বদল। এ ছাড়া দিনের গুরুত্বপূর্ণ খবর শুনুন অডিও সংবাদে...",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:34:58+00:00"
-    },
-    {
       "title": "Moldova launches national preparedness campaign after drone incursions",
       "link": "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions",
       "summary": "Moldova is urging its citizens to prepare for emergencies as the war in neighbouring Ukraine brings new risks across its border. The “Moldova Ready” campaign, launched in Chisinau, includes a display of the remains of a drone carrying 52kg of explosives after it crashed in the country last month. FRANCE 24's Daniel Whittington reports.",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-25T16:34:45+00:00"
-    },
-    {
-      "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
-      "summary": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-25T16:34:42+00:00"
     },
     {
       "title": "বাড়িভাড়া ও দ্রব্যমূল্য নিয়ন্ত্রণ না করলে মজুরি বৃদ্ধি অর্থবহ হবে না",
@@ -674,14 +722,6 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-25T16:24:17+00:00"
-    },
-    {
-      "title": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
-      "summary": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-25T16:22:04+00:00"
     },
     {
       "title": "US unveils proposed tariffs on major partners, including EU and China",
@@ -740,6 +780,14 @@
       "published": "2026-11-25T16:14:36+00:00"
     },
     {
+      "title": "বিচ্ছেদের ঘোষণা দিলেন সংগীতশিল্পী ন্যান্‌সি",
+      "link": "https://www.prothomalo.com/entertainment/song/fzruyo0kpz",
+      "summary": "সংগীতশিল্পী নাজমুন মুনিরা ন্যান্‌সি ও গীতিকার মহসিন মেহেদীর সংসারে বিচ্ছেদ ঘটেছে। ৫ বছরের দাম্পত্যজীবনের ইতি টানার সিদ্ধান্ত নিয়েছেন তাঁরা। আজ বুধবার রাত পৌনে ১০টায় নিজের ফেসবুক পোস্টে স্বামী মহসিন মেহেদীর সঙ্গে আলাদা হয়ে যাওয়ার কথা জানিয়েছেন ন্যান্‌সি। প্রথম আলোকে দুজনের ঘনিষ্ঠজনেরাও বিচ্ছেদের খবরটি নিশ্চিত করেছেন। ইংরেজিতে দেওয়া পোস্টে ন্যান্‌সি লিখেছেন, ",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-25T16:09:18+00:00"
+    },
+    {
       "title": "Colombia: Security forces rescue hostages in supermarket siege",
       "link": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
       "summary": "Some 25 people being held hostage by gunmen in a supermarket in Cartagena, Colombia, were freed Tuesday after security forces stormed the building. One assailant was killed during the operation but no hostages were injured.",
@@ -754,60 +802,12 @@
       "source": "France 24",
       "category": "World",
       "published": "2026-11-25T16:08:10+00:00"
-    },
-    {
-      "title": "€561 Billion and Still Not Enough: Germany's 2027 Budget Exposes a Coalition on the Brink",
-      "link": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The budget for 2027 has reached new highs, and pension funds, defense spending and a weak economy are increasing the pressure. At the same time, tensions are mounting within the government.",
-      "source": "DW",
-      "category": "World",
-      "published": "2026-11-25T16:06:00+00:00"
-    },
-    {
-      "title": "বিশ্ববাজারে হঠাৎ সোনার দামে বড় পতন",
-      "link": "https://www.jagonews24.com/international/news/1183754",
-      "summary": "বিশ্ববাজারে হঠাৎ সোনার দামে বড় পতন",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:05:08+00:00"
-    },
-    {
-      "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
-      "summary": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-25T16:02:22+00:00"
-    },
-    {
-      "title": "ন্যান্সির তৃতীয় সংসারেও বিচ্ছেদ, ঘোষণা দিলেন নিজেই",
-      "link": "https://www.jagonews24.com/entertainment/news/1183753",
-      "summary": "ন্যান্সির তৃতীয় সংসারেও বিচ্ছেদ, ঘোষণা দিলেন নিজেই",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-25T16:01:14+00:00"
-    },
-    {
-      "title": "বিএনপিকর্মী হত্যা মামলায় সিটিটিসির সাবেক কর্মকর্তা আবুল হাসান কারাগারে",
-      "link": "https://www.jagonews24.com/law-courts/news/1183752",
-      "summary": "বিএনপিকর্মী হত্যা মামলায় সিটিটিসির সাবেক কর্মকর্তা আবুল হাসান কারাগারে",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-25T15:55:05+00:00"
-    },
-    {
-      "title": "বগুড়ায় বিএনপি কার্যালয়ে আগুন লাগেনি, ‌‘অপপ্রচার’ বললেন এমপি",
-      "link": "https://www.jagonews24.com/country/news/1183751",
-      "summary": "বগুড়ায় বিএনপি কার্যালয়ে আগুন লাগেনি, ‌‘অপপ্রচার’ বললেন এমপি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-25T15:53:41+00:00"
     }
   ],
   "sourceErrors": [
     "The Daily Star: no items parsed",
     "bdnews24.com: not well-formed (invalid token): line 8, column 46",
-    "Bangla News 24: HTTP Error 403: Forbidden",
+    "Bangla News 24: HTTP Error 404: Not Found",
     "Jugantor: HTTP Error 403: Forbidden",
     "Kaler Kantho: HTTP Error 403: Forbidden"
   ],
