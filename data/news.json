@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-11-26T22:43:46.297866+00:00",
+  "updatedAt": "2026-11-26T23:43:05.895870+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "আজ গাজীপুরে বিক্ষোভ সমাবেশ করবে এনসিপি",
+      "link": "https://www.jagonews24.com/politics/news/1184198",
+      "summary": "আট দফা দাবিতে আজ শুক্রবার গাজীপুরে বিক্ষোভ মিছিল ও সমাবেশ করবে জাতীয় নাগরিক পার্টি....",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-26T23:16:59+00:00"
+    },
+    {
+      "title": "কেয়ামতের বিভীষিকাময় দিনের ৫ সাক্ষী",
+      "link": "https://www.prothomalo.com/religion/islam/cit27te0is",
+      "summary": "মানুষ যে জমিনের ওপর বসবাস করে, যে মাটিতে চলাফেরা করে এবং যে জায়গায় সেজদা করে—কেয়ামতের দিন সেই পৃথিবীও তার বুকে ঘটে যাওয়া ঘটনাগুলোর বিবরণ দেবে।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-26T23:16:18+00:00"
+    },
+    {
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-26T23:07:36+00:00"
+    },
+    {
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-26T23:03:16+00:00"
+    },
+    {
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-26T22:51:55+00:00"
+    },
+    {
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-26T22:49:27+00:00"
+    },
     {
       "title": "মাতৃভূমির দিকে কুদৃষ্টি দিলে চুপ করে বসে থাকবো না: ইশরাক হোসেন",
       "link": "https://www.jagonews24.com/politics/news/1184197",
@@ -18,6 +66,14 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-26T22:06:54+00:00"
+    },
+    {
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-26T22:06:20+00:00"
     },
     {
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
@@ -356,14 +412,6 @@
       "published": "2026-11-26T19:18:53+00:00"
     },
     {
-      "title": "মধ্যরাতে পল্লবীর কালশী রোডে চলন্ত বাসে আগুন",
-      "link": "https://www.prothomalo.com/bangladesh/capital/6zgroqe00o",
-      "summary": "ওসি জালাল তালুকদার প্রথম আলোকে বলেন, রাত পৌনে ১২টার দিকে পল্লবীর কালশী রোডে বিহঙ্গ পরিবহনের একটি বাসে আগুন দেয় দুর্বৃত্তরা।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-26T19:17:51+00:00"
-    },
-    {
       "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
       "link": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
       "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
@@ -372,28 +420,12 @@
       "published": "2026-11-26T19:09:39+00:00"
     },
     {
-      "title": "তৌফিক ইমরোজ খালিদীকে স্মরণ",
-      "link": "https://www.prothomalo.com/bangladesh/qu58wfs7ks",
-      "summary": "জনস্বাস্থ্যবিশেষজ্ঞ মুশতাক হোসেন বলেন, বিশ্ববিদ্যালয়জীবন থেকেই রাজনৈতিক ও সামাজিক নানা বিষয়ে তৌফিক ইমরোজ খালিদীর গভীর আগ্রহ ছিল।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-26T19:09:17+00:00"
-    },
-    {
       "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
       "link": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
       "summary": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-26T19:07:44+00:00"
-    },
-    {
-      "title": "৬২ শতাংশ শিশু খাদ্য–দারিদ্র্যের মধ্যে",
-      "link": "https://www.prothomalo.com/bangladesh/un45lzhusx",
-      "summary": "ছয় মাস পর ৯২ শতাংশ শিশুকে সম্পূরক খাদ্য দেওয়া শুরু হলেও খাদ্যে বৈচিত্র্য থাকে ৩৮ শতাংশের, আর মানসম্পন্ন খাবার পায় মাত্র ২৮ শতাংশ।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-26T19:02:37+00:00"
     },
     {
       "title": "এবার পল্লবীতে বিহঙ্গ পরিবহনের বাসে আগুন",
@@ -418,14 +450,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-26T18:53:15+00:00"
-    },
-    {
-      "title": "জাতীয় চলচ্চিত্র পুরস্কারজয়ী নির্মাতা মাতিয়া বানু শুকু আর নেই",
-      "link": "https://www.prothomalo.com/entertainment/dhallywood/3o5fago8vt",
-      "summary": "জাতীয় চলচ্চিত্র পুরস্কারজয়ী নাট্যকার, পরিচালক ও প্রযোজক মাতিয়া বানু শুকু আর নেই। (ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন)। আজ রাত ১২টার দিকে ঢাকার একটি বেসরকারি হাসপাতালে চিকিৎসাধীন অবস্থায় শেষনিশ্বাস ত্যাগ করেন তিনি। তাঁর বয়স হয়েছিল ৫৬ বছর। পরিবারের পক্ষ থেকে প্রথম আলোকে মৃত্যুর খবরটি নিশ্চিত করেন সংস্কৃতিকর্মী এরশাদুল হক। তিনি জানান, শারীরিক অবস্থার চরম অব",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-26T18:52:29+00:00"
     },
     {
       "title": "French far-right leader Jordan Bardella faces fresh allegations of anti-Semitism",
@@ -462,7 +486,7 @@
     {
       "title": "লেখক ও নির্মাতা মাতিয়া বানু শুকু মারা গেছেন",
       "link": "https://www.jagonews24.com/entertainment/news/1184183",
-      "summary": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত লেখক, প্রযোজক, পরিচালক ও চিত্রনাট্যকার মাতিয়া বানু শুকু মারা গেছেন..",
+      "summary": "লেখক ও নির্মাতা মাতিয়া বানু শুকু মারা গেছেন",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-26T18:33:09+00:00"
@@ -732,14 +756,6 @@
       "published": "2026-11-26T15:58:53+00:00"
     },
     {
-      "title": "জিয়াউল আহসানের মামলায় ভয়াবহ বর্ণনা, ১০০ মরদেহের সন্ধান মেলেনি",
-      "link": "https://www.jagonews24.com/law-courts/news/1184168",
-      "summary": "জিয়াউল আহসানের মামলায় ভয়াবহ বর্ণনা, ১০০ মরদেহের সন্ধান মেলেনি",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-26T15:58:02+00:00"
-    },
-    {
       "title": "Germany: IG Metall union says deal reached with employers",
       "link": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "IG Metall, representing millions of workers in Germany's metal and electrical industry, is the country's largest trade union. The deal came after more than 24 hours of talks with employers.",
@@ -756,28 +772,12 @@
       "published": "2026-11-26T15:57:49+00:00"
     },
     {
-      "title": "Diesel tanker capsizes near Ibiza, killing crew member",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
-      "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-26T15:56:39+00:00"
-    },
-    {
       "title": "Spanish economist de Cos to succeed Lagarde as head of ECB",
       "link": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
       "summary": "Spanish monetary economist Pablo Hernandez de Cos on Thursday was set to replace France's Christine Lagarde as the new head of the European Central Bank (ECB). His nomination comes as the Europe's most powerful financial institution grapples with an Iran war-driven resurgence in inflation and a cost of living crisis.",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-26T15:55:45+00:00"
-    },
-    {
-      "title": "Two dead after Iranian drone attack on Kuwait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
-      "summary": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-26T15:55:15+00:00"
     },
     {
       "title": "Lost homes, stolen freedom: National Book Award winners on exile and imprisonment",
