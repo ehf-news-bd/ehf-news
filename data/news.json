@@ -1,15 +1,87 @@
 {
-  "updatedAt": "2026-11-28T17:13:57.256095+00:00",
+  "updatedAt": "2026-11-28T18:08:23.308760+00:00",
   "count": 100,
   "sourcesChecked": 11,
   "items": [
+    {
+      "title": "শুধু মুশফিক নয়, অবসরে যাচ্ছে জার্সিও",
+      "link": "https://www.jagonews24.com/sports/news/1184772",
+      "summary": "আন্তর্জাতিক ক্রিকেট থেকে অবসরের ঘোষণা দিয়েছেন মুশফিকুর রহিম। তার বিদায়কে স্মরণীয় করে রাখতে ১৫ নম্বর জার্সি অবসরে পাঠানোর প্রস্তাব দিয়েছে বিসিবি। পাশাপাশি মিরপুর শেরে বাংলা স্টেডিয়ামের একটি গ্যালারির নামও মুশফিকের নামে করার পরিকল্পনা রয়েছে",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-28T18:03:20+00:00"
+    },
     {
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "source": "BBC News",
       "category": "World",
-      "published": "2026-11-28T17:11:37+00:00"
+      "published": "2026-11-28T18:01:05+00:00"
+    },
+    {
+      "title": "বালতি রাখা নিয়ে দুই ভাড়াটিয়ার কথা কাটাকাটি, ছুরিকাঘাতে একজন নিহত",
+      "link": "https://www.jagonews24.com/national/news/1184771",
+      "summary": "রাজধানীর পল্লবীতে বালতি রাখা নিয়ে দুই বাসার ভাড়াটিয়ার মধ্যে কথা কাটাকাটির জেরে ছুরিকাঘাতে আনোয়ার হোসেন (৩০) নামে এক পোশাকের দোকানের কর্মচারী নিহত হয়েছেন...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:57:14+00:00"
+    },
+    {
+      "title": "মিরসরাইয়ে গ্রামীণ ব্যাংকে পেট্রল বোমা ছুড়ে অগ্নিসংযোগ",
+      "link": "https://www.jagonews24.com/country/news/1184770",
+      "summary": "চট্টগ্রামের মিরসরাইয়ে গ্রামীণ ব্যাংকের শাখায় ভোরে পেট্রল বোমা ছুড়ে আগুন দেওয়ার ঘটনা ঘটেছে। আগুন নিয়ন্ত্রণে আনেন ব্যাংকের নাইটগার্ড ও কর্মকর্তারা। ঘটনার তদন্ত করছে পুলিশ...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:38:14+00:00"
+    },
+    {
+      "title": "Afghanistan: Several killed in blast near middle school",
+      "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "An explosion near a school in eastern Afghanistan has killed at least 10 students and injured 110 people. Officials say explosives at a nearby mining depot ignited due to negligence. An investigation is ongoing.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-28T17:35:00+00:00"
+    },
+    {
+      "title": "Dozens reported killed in series of Myanmar air attacks",
+      "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+      "summary": "A wedding party, school, monastery, market and camp for displaced people were bombed.",
+      "source": "Al Jazeera",
+      "category": "World",
+      "published": "2026-11-28T17:29:28+00:00"
+    },
+    {
+      "title": "বই, গান ও আলোচনায় মুখর প্রথমার ‘বিজয় বইমেলা’",
+      "link": "https://www.prothomalo.com/photo/bangladesh/4cft9dxgi8",
+      "summary": "মেলার দ্বিতীয় দিনে আজ শনিবারও বইপ্রেমীদের উপস্থিতিতে মুখর ছিল মেলা প্রাঙ্গণ। বই কেনাবেচার পাশাপাশি ছিল আলোচনা, নতুন বইয়ের প্রকাশনা অনুষ্ঠান ও সাংস্কৃতিক আয়োজন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:28:59+00:00"
+    },
+    {
+      "title": "Argentina loses bid to stop Falklands oil project, vows to continue",
+      "link": "https://www.dw.com/en/argentina-loses-bid-to-stop-falklands-oil-project-vows-to-continue/a-80086936?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Argentina vowed to continue its efforts to stop the British-Israeli oil project off the coast of the Falkland Islands after an international court rejected its request for a temporary block.",
+      "source": "DW",
+      "category": "World",
+      "published": "2026-11-28T17:28:00+00:00"
+    },
+    {
+      "title": "পূর্বধলায় যুবদল নেতাকে কুপিয়ে জখম, অভিযুক্ত যুবলীগ নেতার বাড়িতে আগুন",
+      "link": "https://www.jagonews24.com/country/news/1184769",
+      "summary": "নেত্রকোনার পূর্বধলায় যুবদল নেতা আবু বকর রানাকে কুপিয়ে গুরুতর জখম করার অভিযোগ উঠেছে যুবলীগ নেতা রফিকুল ইসলামের বিরুদ্ধে। এ ঘটনার পর অভিযুক্তের বাড়িতে আগুন দেওয়ার খবর পাওয়া গেছে...",
+      "source": "Jago News 24",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:22:38+00:00"
+    },
+    {
+      "title": "ফেসবুকে পদত্যাগের ঘোষণা দিয়ে ছাত্রদল নেতার ভিডিও বার্তা, ‘আজকে থেকে চির সমাপ্তি’",
+      "link": "https://www.prothomalo.com/bangladesh/district/xet625992p",
+      "summary": "মূল্যায়ন করা হচ্ছে না অভিযোগ করে পদত্যাগের ঘোষণা দিয়েছেন ঝিনাইদহের কালীগঞ্জের রায়গ্রাম ইউনিয়ন ছাত্রদলের সাধারণ সম্পাদক শামীম হোসেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:17:23+00:00"
     },
     {
       "title": "যুবদল নেতার বাড়িতে সোফার নিচে, বাথরুমে সাত বস্তা মদ",
@@ -36,6 +108,14 @@
       "published": "2026-11-28T17:05:47+00:00"
     },
     {
+      "title": "নিষিদ্ধ ছাত্রলীগের মিছিলের পর পথচারীর ধাওয়া, ভিডিও ভাইরাল",
+      "link": "https://www.prothomalo.com/bangladesh/district/1noog6tf0k",
+      "summary": "পালিয়ে যাওয়া ওই তরুণ–যুবকেরা নিষিদ্ধ ছাত্রলীগের নেতা–কর্মী। তাঁরা ওই এলাকায় একটি ঝটিকা মিছিল করে ফেরার পথে এক পথচারী তাঁদের ধাওয়া দেন।",
+      "source": "Prothom Alo",
+      "category": "Bangladesh",
+      "published": "2026-11-28T17:05:29+00:00"
+    },
+    {
       "title": "Brentford thrash Manchester United 4-0 as Pochettino has horror home debut",
       "link": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
       "summary": "Mauricio Pochettino endures a nightmare Old Trafford debut as Brentford leave United in Premier League relegation zone.",
@@ -52,17 +132,17 @@
       "published": "2026-11-28T17:00:36+00:00"
     },
     {
-      "title": "২১০ বছর আগে তাজমহল থেকে নেওয়া মার্বেল পাথর উঠছে নিলামে, সম্ভাব্য দাম কত",
-      "link": "https://www.prothomalo.com/world/india/h650ylkz4m",
-      "summary": "মার্বেল পাথরটির চারপাশের ফুলের নকশার সঙ্গে তাজমহলে সম্রাট শাহজাহানের সমাধির ওপরের সমতল অংশের কিনারায় থাকা নকশার মিল রয়েছে।",
+      "title": "সাতক্ষীরায় শীতেও ফল পেতে ড্রাগন বাগানে কৃত্রিম আলো",
+      "link": "https://www.prothomalo.com/bangladesh/district/pwftlr7vim",
+      "summary": "১২ বিঘা জমিতে ড্রাগন চাষ করেছেন মাসুম হোসেন। তাঁর বাগানে রয়েছে তিন হাজারের বেশি খুঁটি।",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-28T17:00:00+00:00"
     },
     {
-      "title": "সাতক্ষীরায় শীতেও ফল পেতে ড্রাগন বাগানে কৃত্রিম আলো",
-      "link": "https://www.prothomalo.com/bangladesh/district/pwftlr7vim",
-      "summary": "১২ বিঘা জমিতে ড্রাগন চাষ করেছেন মাসুম হোসেন। তাঁর বাগানে রয়েছে তিন হাজারের বেশি খুঁটি।",
+      "title": "২১০ বছর আগে তাজমহল থেকে নেওয়া মার্বেল পাথর উঠছে নিলামে, সম্ভাব্য দাম কত",
+      "link": "https://www.prothomalo.com/world/india/h650ylkz4m",
+      "summary": "মার্বেল পাথরটির চারপাশের ফুলের নকশার সঙ্গে তাজমহলে সম্রাট শাহজাহানের সমাধির ওপরের সমতল অংশের কিনারায় থাকা নকশার মিল রয়েছে।",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-28T17:00:00+00:00"
@@ -74,6 +154,14 @@
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-28T16:56:44+00:00"
+    },
+    {
+      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-28T16:53:20+00:00"
     },
     {
       "title": "Israel's Netanyahu proposes rival Eisenkot serve as first PM in rotating premiership",
@@ -196,17 +284,17 @@
       "published": "2026-11-28T16:10:14+00:00"
     },
     {
-      "title": "উৎসব-উচ্ছ্বাসে চট্টগ্রামে শুরু আন্তবিশ্ববিদ্যালয় ফুটবল টুর্নামেন্ট",
-      "link": "https://www.prothomalo.com/video/sports/560rqdxi2k",
-      "summary": "উৎসব-আনন্দে চট্টগ্রামে শুরু হয়েছে চতুর্থ ইস্পাহানি-প্রথম আলো আন্তবিশ্ববিদ্যালয় ফুটবল টুর্নামেন্ট। এবারের আসরে অংশ নিচ্ছে দেশের ৫০টি বিশ্ববিদ্যালয়। ২৮ নভেম্বর চট্টগ্রামের শহীদ প্রকৌশলী শামসুজ্জামান স্টেডিয়ামে টুর্নামেন্টের আনুষ্ঠানিক উদ্বোধন করা হয়। বিস্তারিত ভিডিওতে…",
+      "title": "সাভার বন্ধুসভার পাঠচক্রে শরৎচন্দ্র চট্টোপাধ্যায়ের ‘চরিত্রহীন’",
+      "link": "https://www.bondhushava.com/activities/71adwt4ipk",
+      "summary": "শুরুতে তিনি উপন্যাসটির পটভূমি এবং প্রধান চরিত্র সতীশ, সাবিত্রী, কিরণময়ী ও উপেন্দ্রের ভূমিকা সংক্ষেপে তুলে ধরেন। আলোচনার সূচনা করে সঞ্চালক বলেন, ‘সমাজ যাকে চরিত্রহীন বলে, সে আসলেই চরিত্রহীন কি না—এই প্রশ্নটিই শরৎচন্দ্র আমাদের সামনে জোরালোভাবে তুলে ধরেছেন।’",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-28T16:10:00+00:00"
     },
     {
-      "title": "সাভার বন্ধুসভার পাঠচক্রে শরৎচন্দ্র চট্টোপাধ্যায়ের ‘চরিত্রহীন’",
-      "link": "https://www.bondhushava.com/activities/71adwt4ipk",
-      "summary": "শুরুতে তিনি উপন্যাসটির পটভূমি এবং প্রধান চরিত্র সতীশ, সাবিত্রী, কিরণময়ী ও উপেন্দ্রের ভূমিকা সংক্ষেপে তুলে ধরেন। আলোচনার সূচনা করে সঞ্চালক বলেন, ‘সমাজ যাকে চরিত্রহীন বলে, সে আসলেই চরিত্রহীন কি না—এই প্রশ্নটিই শরৎচন্দ্র আমাদের সামনে জোরালোভাবে তুলে ধরেছেন।’",
+      "title": "উৎসব-উচ্ছ্বাসে চট্টগ্রামে শুরু আন্তবিশ্ববিদ্যালয় ফুটবল টুর্নামেন্ট",
+      "link": "https://www.prothomalo.com/video/sports/560rqdxi2k",
+      "summary": "উৎসব-আনন্দে চট্টগ্রামে শুরু হয়েছে চতুর্থ ইস্পাহানি-প্রথম আলো আন্তবিশ্ববিদ্যালয় ফুটবল টুর্নামেন্ট। এবারের আসরে অংশ নিচ্ছে দেশের ৫০টি বিশ্ববিদ্যালয়। ২৮ নভেম্বর চট্টগ্রামের শহীদ প্রকৌশলী শামসুজ্জামান স্টেডিয়ামে টুর্নামেন্টের আনুষ্ঠানিক উদ্বোধন করা হয়। বিস্তারিত ভিডিওতে…",
       "source": "Prothom Alo",
       "category": "Bangladesh",
       "published": "2026-11-28T16:10:00+00:00"
@@ -260,7 +348,7 @@
       "published": "2026-11-28T16:02:24+00:00"
     },
     {
-      "title": "কম বয়সী নায়িকার সঙ্গে রোমান্স দৃশ্যে বিব্রত ‘কিং অব রোমান্স’ শাহরুখ",
+      "title": "‘মা, গণিতের বাড়ির কাজটা করেছ তো?’, প্রেমের দৃশ্যে শাহরুখের মনে হচ্ছিল",
       "link": "https://www.prothomalo.com/entertainment/bollywood/mupk2ercex",
       "summary": "তাঁকে বলা হয় কিং খান কিংবা বাদশাহ। পর্দায় কখনো প্রিয়তমার চোখে হারিয়ে যেতে চেয়েছেন, কখনো দুই হাত ছড়িয়ে জানিয়েছেন ভালোবাসার কথা। শাহরুখ খানের প্রেম নিবেদনের ভঙ্গি কয়েক প্রজন্মের দর্শকের কাছে পরিচিত। বলিউডের সেই ‘কিং অব রোমান্স’ই কিনা একসময় নায়িকার সঙ্গে প্রেমের দৃশ্যে অভিনয় করতে গিয়ে বিব্রত হয়েছেন! নিজের চেয়ে অনেক কম বয়সী এক অভিনেত্রীর সঙ্গে অভিনয়ের অভিজ্ঞতা প",
       "source": "Prothom Alo",
@@ -396,17 +484,9 @@
       "published": "2026-11-28T15:35:43+00:00"
     },
     {
-      "title": "বাংলাদেশে নিজস্ব নেটওয়ার্ক অবকাঠামো গড়তে চায় ফেসবুক–হোয়াটসঅ্যাপের মূল প্রতিষ্ঠান মেটা, এতে কী লাভ",
-      "link": "https://www.prothomalo.com/bangladesh/3iz6tf3grb",
-      "summary": "বাংলাদেশে নিজস্ব নেটওয়ার্ক অবকাঠামো স্থাপন করতে চায় মেটা। এ জন্য পপ স্থাপন ও বিনা মাশুলে ডেটা আদান-প্রদানের অনুমতি চেয়েছে প্রতিষ্ঠানটি।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-28T15:35:12+00:00"
-    },
-    {
       "title": "চবি জাতীয় ছাত্রশক্তির নেতৃত্বে ইসমাইল-ওমর",
       "link": "https://www.jagonews24.com/campus/news/1184757",
-      "summary": "চট্টগ্রাম বিশ্ববিদ্যালয় (চবি) শাখার জাতীয় ছাত্রশক্তির আগামী এক বছরের জন্য আংশিক কমিটি গঠন করা হয়েছে। এতে সভাপতি হিসেবে মো. ইসমাইল এবং সাধারণ সম্পাদক হিসেবে ওমর মুসান্না দায়িত্ব পেয়েছেন...",
+      "summary": "চবি জাতীয় ছাত্রশক্তির নেতৃত্বে ইসমাইল-ওমর",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-28T15:33:30+00:00"
@@ -414,7 +494,7 @@
     {
       "title": "এসএমই মেলায় সাতদিনে ১৪ কোটি ১৯ লাখ টাকা বিক্রি",
       "link": "https://www.jagonews24.com/economy/news/1184756",
-      "summary": "জাতীয় এসএমই পণ্যমেলায় সাতদিনে ১৪ কোটি ১৯ লাখ টাকার পণ্য বিক্রি হয়েছে বলে জানিয়েছেন শিল্প মন্ত্রণালয়ের সচিব আব্দুন নাসের খান। তিনি বলেন, জাতীয় এসএমই...",
+      "summary": "এসএমই মেলায় সাতদিনে ১৪ কোটি ১৯ লাখ টাকা বিক্রি",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-28T15:33:19+00:00"
@@ -428,17 +508,9 @@
       "published": "2026-11-28T15:30:00+00:00"
     },
     {
-      "title": "পুরান ঢাকার নতুন গল্প নিয়ে রফিক আজমের বইয়ের মোড়ক উন্মোচন",
-      "link": "https://www.prothomalo.com/bangladesh/capital/x3li02fziq",
-      "summary": "স্থপতি অধ্যাপক শামসুল ওয়ারেস বলেন, রফিক আজমের স্থাপত্যে গাছপালা ও পানি কেবল সৌন্দর্য বাড়ানোর উপকরণ নয়, ভবনের অবিচ্ছেদ্য অংশ।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-28T15:29:11+00:00"
-    },
-    {
       "title": "বাঙ্গরাকে নতুন উপজেলা ঘোষণায় প্রধানমন্ত্রীকে ধর্মমন্ত্রীর কৃতজ্ঞতা",
       "link": "https://www.jagonews24.com/national/news/1184754",
-      "summary": "বাঙ্গরাকে আলাদা উপজেলা হিসেবে প্রতিষ্ঠার বিষয়ে ধর্মমন্ত্রী বলেন, এটি এলাকাবাসীর দীর্ঘদিনের দাবি এবং প্রধানমন্ত্রী তারেক রহমানের সিদ্ধান্তের ফল....",
+      "summary": "বাঙ্গরাকে নতুন উপজেলা ঘোষণায় প্রধানমন্ত্রীকে ধর্মমন্ত্রীর কৃতজ্ঞতা",
       "source": "Jago News 24",
       "category": "Bangladesh",
       "published": "2026-11-28T15:28:18+00:00"
@@ -564,44 +636,12 @@
       "published": "2026-11-28T14:50:01+00:00"
     },
     {
-      "title": "হাসপাতালে রোগীদের খাবার ঘরে ইঁদুর-তেলাপোকা, ঠিকাদারের বিরুদ্ধে মামলা",
-      "link": "https://www.jagonews24.com/national/news/1184741",
-      "summary": "হাসপাতালে রোগীদের খাবার ঘরে ইঁদুর-তেলাপোকা, ঠিকাদারের বিরুদ্ধে মামলা",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-28T14:47:28+00:00"
-    },
-    {
-      "title": "মিরপুরে যাত্রীবাহী বাসে আগুন, পুলিশ হেফাজতে চালক-সহকারী",
-      "link": "https://www.jagonews24.com/national/news/1184740",
-      "summary": "মিরপুরে যাত্রীবাহী বাসে আগুন, পুলিশ হেফাজতে চালক-সহকারী",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-28T14:46:33+00:00"
-    },
-    {
-      "title": "স্পেনের পথে অভিবাসীবাহী নৌকায় প্রাণ হারালেন ১৪ জন",
-      "link": "https://www.jagonews24.com/international/news/1184739",
-      "summary": "স্পেনের পথে অভিবাসীবাহী নৌকায় প্রাণ হারালেন ১৪ জন",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-28T14:40:00+00:00"
-    },
-    {
       "title": "Taipei's Kuomintang mayor Chiang Wan-an re-elected in tight election race",
       "link": "https://www.france24.com/en/taipei-s-kuomintang-mayor-re-elected-in-tight-election-race",
       "summary": "Taipei Mayor Chiang Wan-an was re-elected on Saturday after a nail-biting race against China critic Puma Shen in local elections held across the island democracy.",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-28T14:35:57+00:00"
-    },
-    {
-      "title": "জামানত হারানো আলমগীরকেই ফের মনোনয়ন দিলো ইসলামী আন্দোলন",
-      "link": "https://www.jagonews24.com/country/news/1184738",
-      "summary": "জামানত হারানো আলমগীরকেই ফের মনোনয়ন দিলো ইসলামী আন্দোলন",
-      "source": "Jago News 24",
-      "category": "Bangladesh",
-      "published": "2026-11-28T14:32:04+00:00"
     },
     {
       "title": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
@@ -630,7 +670,7 @@
     {
       "title": "France holds nationwide protests against violence towards women",
       "link": "https://www.france24.com/en/bill-at-the-heart-of-gender-based-violence-protests",
-      "summary": "Demonstrations condemning violence against women are drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists taking part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
+      "summary": "Demonstrations condemning violence against women drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists joining in. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
       "source": "France 24",
       "category": "World",
       "published": "2026-11-28T14:00:25+00:00"
@@ -666,14 +706,6 @@
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-28T13:24:24+00:00"
-    },
-    {
-      "title": "কাবিলার মায়ের মৃত্যুতে কাঁদলেন দর্শক, সেই অভিনেত্রীও বাস্তবে প্রয়াত",
-      "link": "https://www.prothomalo.com/entertainment/tv/reqi3touru",
-      "summary": "যে কাবিলাকে নিয়ে হাসাহাসি করেছেন দর্শকেরা, সেই কাবিলার জীবনের এমন করুণ পরিণতি মেনে নিতে পারছেন না অনেকে।",
-      "source": "Prothom Alo",
-      "category": "Bangladesh",
-      "published": "2026-11-28T13:15:00+00:00"
     },
     {
       "title": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
@@ -748,9 +780,9 @@
       "published": "2026-11-28T12:09:00+00:00"
     },
     {
-      "title": "Manchester United vs Brentford LIVE: Premier League",
+      "title": "Manchester United 4-0 Brentford LIVE: Premier League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
-      "summary": "Follow updates with build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
+      "summary": "Updates with build-up and team news coverage from our live text commentary stream of Mauricio Pochettino's home debut.",
       "source": "Al Jazeera",
       "category": "World",
       "published": "2026-11-28T12:06:46+00:00"
@@ -770,38 +802,6 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-28T11:35:34+00:00"
-    },
-    {
-      "title": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
-      "summary": "Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-28T11:30:07+00:00"
-    },
-    {
-      "title": "Israel unity government talks stall: What happens now?",
-      "link": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
-      "summary": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-28T11:29:21+00:00"
-    },
-    {
-      "title": "The perfect storm behind Congo’s deadliest Ebola outbreak",
-      "link": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
-      "summary": "Patients and health workers pay a staggering cost as war and a failing health system collide with a deadly virus.",
-      "source": "Al Jazeera",
-      "category": "World",
-      "published": "2026-11-28T11:27:34+00:00"
-    },
-    {
-      "title": "France holds nationwide protests against violence towards women",
-      "link": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
-      "summary": "Estimated 840 million women globally are subjected to violence.",
-      "source": "France 24",
-      "category": "World",
-      "published": "2026-11-28T11:25:52+00:00"
     }
   ],
   "sourceErrors": [
